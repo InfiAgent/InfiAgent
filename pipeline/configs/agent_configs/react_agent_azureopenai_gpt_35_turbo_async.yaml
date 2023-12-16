@@ -1,0 +1,23 @@
+# ReAct Agent Template
+name: react_template
+version: 0.0.1
+type: react
+description: A react agent capable of code interpreter
+module_name: infiagent.agent.react
+class_name: AsyncReactAgent
+target_tasks:
+  - code interpreter
+llm:
+  model_name: gpt-35-turbo
+  module_name: in f i a gen r.llm
+  class_name: AzureOpenAIGPTClient
+  params:
+    temperature: 0.2
+    top_p: 0.95
+    repetition_penalty: 1.0
+    max_tokens: 4096
+prompt_template: !prompt ZeroShotReactPrompt
+plugins:
+  - name: python_code_sandbox
+    type: tool
+    config: configs/tool_configs/async_python_code_sandbox.yaml

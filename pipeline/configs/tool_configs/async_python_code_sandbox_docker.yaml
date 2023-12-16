@@ -1,0 +1,7 @@
+name: python_code_sandbox
+version: 0.0.1
+type: tool
+description: this tool can help to run python script with python code as input
+module_name: infiagent.tools
+class_name: CodeTool
+session_id: none
