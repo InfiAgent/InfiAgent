@@ -33,17 +33,17 @@ ADA-Agent: Building and Evaluating Agents on Data Analysis Tasks
 
 | Rank | Model Name                  | Accuracy by Questions (%) | Proportional Accuracy by Subquestions (%) | Accuracy by Subquestions (%) |
 | ---- | --------------------------- | ------------------------- | ----------------------------------------- | ---------------------------- |
-| 1    | GPT-4 (0613)                | 66.05                     | 65.26                                     | 59.75                        |
-| 2    | GPT-3.5 (turbo-0613)        | 52.21                     | 55.35                                     | 47.25                        |
-| 3    | deepseek-coder-33b-instruct | 41.90                     | 37.28                                     | 39.66                        |
-| 4    | Phind-CodeLlama-34B-v2      | 40.03                     | 35.19                                     | 37.66                        |
-| 5    | XwinCoder-34B               | 37.60                     | 32.58                                     | 35.01                        |
-| 6    | Qwen-14B-Chat               | 35.03                     | 29.32                                     | 29.07                        |
-| 7    | Mistral-7B-Instruct-v0.2    | 34.19                     | 29.07                                     | 30.71                        |
-| 8   | vicuna-13b-v1.5             | 28.03                     | 22.92                                     | 25.07                        |
-| 9   | WizardCoder-Python-34B-V1.0 | 21.83                     | 18.13                                     | 18.81                        |
-| 10   | chatglm3-6b                 | 18.41                     | 18.13                                     | 16.49                        |
-| 11   | agentlm-6b                  | 18.27                     | 13.92                                     | 16.55                        |
+| 1    | GPT-4 (0613)                | 70.16 | 75.32 | 76.32 |
+| 2    | GPT-3.5 (turbo-0613)        | 53.97 | 62.89 | 59.02 |
+| 3    | deepseek-coder-33b-instruct | 42.04 | 46.68 | 44.16 |
+| 4    | Phind-CodeLlama-34B-v2      | 40.19 | 45.37 | 42.07 |
+| 5    | XwinCoder-34B               | 38.10 | 42.92 | 40.07 |
+| 6    | Qwen-14B-Chat               | 34.08 | 39.29 | 32.66 |
+| 7    | Mistral-7B-Instruct-v0.2    | 33.76 | 38.95 | 34.67 |
+| 8    | vicuna-13b-v1.5             | 25.25 | 29.69 | 25.43 |
+| 9    | WizardCoder-Python-34B-V1.0 | 21.75 | 25.03 | 21.13 |
+| 10   | chatglm3-6b                 | 15.38 | 19.49 | 17.64 |
+| 11   | agentlm-6b                  | 16.45 | 19.96 | 17.13 |
 
 
 Table 1: Comparing the performance of LLMs as data analysis agents.
