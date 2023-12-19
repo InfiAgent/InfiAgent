@@ -43,12 +43,6 @@
 {"id": 73, "common_answers": [["correlation_coefficient", "1.0"]]}
 {"id": 75, "common_answers": [["daily_return_std", "0.94"], ["daily_return_mean", "-0.14"]]}
 {"id": 77, "common_answers": [["Highest_Monthly_Average_Close_Price", "1, 2018, 88.32"]]}
-{"id": 85, "common_answers": [["mean_anger", "0.01"]]}
-{"id": 87, "common_answers": [["max_surprise", "0.61"]]}
-{"id": 88, "common_answers": [["correlation_coefficient", "-0.066"]]}
-{"id": 89, "common_answers": [["outliers_count", "62"]]}
-{"id": 90, "common_answers": [["distribution_type", "not normally distributed"], ["skewness_type", "positively skewed"]]}
-{"id": 92, "common_answers": [["number_of_outliers", "0"]]}
 {"id": 105, "common_answers": [["correlation_coefficient", "0.49"]]}
 {"id": 108, "common_answers": [["mean_total_income", "6375.18"], ["std_dev_total_income", "5199.42"]]}
 {"id": 109, "common_answers": [["graduate_mean_loan", "141.36"], ["not_graduate_mean_loan", "118.57"], ["significance", "significant"]]}
@@ -80,17 +74,6 @@
 {"id": 148, "common_answers": [["average_height", "6.13"]]}
 {"id": 149, "common_answers": [["correlation_coefficient", "0.19"]]}
 {"id": 153, "common_answers": [["height_mean", "0.18"]]}
-{"id": 155, "common_answers": [["mean", "2.07"], ["median", "1.25"]]}
-{"id": 156, "common_answers": [["normality", "Not normal"]]}
-{"id": 157, "common_answers": [["p_value", "0.0000"], ["correlation", "Correlated"], ["correlation_coefficient", "0.3988"]]}
-{"id": 158, "common_answers": [["average_sales", "4.21, 3.12, 2.63, 2.39, 2.26"]]}
-{"id": 159, "common_answers": [["outlier_years_range", "1990, 2022"], ["outlier_games_count", "122"]]}
-{"id": 161, "common_answers": [["highest_average_genre", "Platform"], ["highest_range_genre", "Sports"]]}
-{"id": 162, "common_answers": [["correlation_coefficient", "-0.00"]]}
-{"id": 164, "common_answers": [["mean_rating", "3.79"]]}
-{"id": 165, "common_answers": [["cool_funny_correlation", "0.53"], ["cool_useful_correlation", "0.45"], ["funny_useful_correlation", "0.48"]]}
-{"id": 167, "common_answers": [["sunday_corr", "0.174"], ["thursday_corr", "-0.073"], ["tuesday_corr", "-0.077"], ["wednesday_corr", "0.104"]]}
-{"id": 168, "common_answers": [["outlier_count", "113"]]}
 {"id": 174, "common_answers": [["fare_skewness", "4.79"]]}
 {"id": 175, "common_answers": [["outliers_count", "2"]]}
 {"id": 176, "common_answers": [["median_age", "31.5"]]}
@@ -98,12 +81,6 @@
 {"id": 178, "common_answers": [["sex_encoded_count", "314, 577"], ["fare_after_scaling", "0.00, 1.00, 0.0629"]]}
 {"id": 179, "common_answers": [["correlation_coefficient", "-0.123"]]}
 {"id": 180, "common_answers": [["class2_outliers", "7"], ["class1_outliers", "3"], ["class3_outliers", "14"]]}
-{"id": 182, "common_answers": [["hospital_name", "FROEDTERT MEMORIAL LUTHERAN HOSPITAL"]]}
-{"id": 183, "common_answers": [["correlation_coefficient", "-0.01"]]}
-{"id": 184, "common_answers": [["missing_values_count", "202"]]}
-{"id": 185, "common_answers": [["mean_TX", "1.150"], ["significant_diff", "Yes"], ["mean_NY", "1.140"], ["p_value", "0.010"], ["mean_CA", "1.126"]]}
-{"id": 187, "common_answers": [["number_of_outliers", "0"]]}
-{"id": 188, "common_answers": [["model_significance", "'Significant'"], ["p_value_for_model", "0.0000"]]}
 {"id": 207, "common_answers": [["missing_columns_in_object_type", "author, urlToImage"]]}
 {"id": 208, "common_answers": [["compound_mean", "0.141"], ["compound_std", "0.899"]]}
 {"id": 209, "common_answers": [["correlation_coefficient", "-0.24"]]}
@@ -131,11 +108,6 @@
 {"id": 254, "common_answers": [["outlier_countries", "Kuwait, Saudi Arabia"]]}
 {"id": 255, "common_answers": [["standard_deviation_gdp2007", "14154.94"], ["mean_gdp2007", "12473.03"]]}
 {"id": 258, "common_answers": [["median", "2571.42"], ["mean", "8187.47"], ["ks_test_p_value", "0.00063"]]}
-{"id": 260, "common_answers": [["age_mean", "52.25"]]}
-{"id": 261, "common_answers": [["correlation_coefficient", "-0.001"]]}
-{"id": 263, "common_answers": [["percentage_missing_before", "19.69"], ["percentage_missing_after", "0.00"]]}
-{"id": 264, "common_answers": [["mean_delinquent", "1.9"], ["median_delinquent", "0"], ["mean_non_delinquent", "0.13"], ["median_non_delinquent", "0"]]}
-{"id": 266, "common_answers": [["correlation_coefficient", "-0.0"]]}
 {"id": 268, "common_answers": [["normality_test_result", "Not Normal"]]}
 {"id": 269, "common_answers": [["correlation_type", "Positive Correlation"], ["correlation_coefficient", "0.99"], ["p_value", "0.000"]]}
 {"id": 271, "common_answers": [["norm_TOTUSJZ", "0.107"], ["log_MEANJZH", "-2.543"], ["clean_entries", "1153"]]}
@@ -167,12 +139,6 @@
 {"id": 337, "common_answers": [["skewness_type", "Positive Skewness"], ["skewness_coefficient", "0.08"]]}
 {"id": 338, "common_answers": [["correlation_type", "Positive Correlation"], ["correlation_coefficient", "0.178"]]}
 {"id": 339, "common_answers": [["region_count", "0"]]}
-{"id": 341, "common_answers": [["mean_age", "52.23"]]}
-{"id": 342, "common_answers": [["correlation_coefficient", "0.131"]]}
-{"id": 343, "common_answers": [["total_missing_values", "10907"]]}
-{"id": 344, "common_answers": [["mean_age", "47"]]}
-{"id": 345, "common_answers": [["predicted_dependents", "1"]]}
-{"id": 346, "common_answers": [["number_of_outliers", "276"]]}
 {"id": 349, "common_answers": [["mean_age", "1.1"]]}
 {"id": 350, "common_answers": [["is_normal", "False"]]}
 {"id": 351, "common_answers": [["correlation_coefficient", "0.32"]]}
@@ -189,16 +155,6 @@
 {"id": 375, "common_answers": [["skewness", "0.1520"], ["kurtosis", "-1.1336"], ["shapiro_w", "0.9543"], ["p_value", "0.0027"]]}
 {"id": 376, "common_answers": [["trips_per_membership_median", "0.16"], ["trips_per_day_mean", "21144.08"], ["trips_per_membership_mean", "0.17"]]}
 {"id": 378, "common_answers": [["post_skewness", "0.15"], ["pre_mean", "21144.08"], ["pre_kurtosis", "-1.13"], ["post_sd", "9889.93"], ["pre_skewness", "0.15"], ["post_kurtosis", "-1.13"], ["post_mean", "21144.08"], ["pre_sd", "9889.93"]]}
-{"id": 380, "common_answers": [["mean_year", "1950.12"], ["std_year", "26.96"]]}
-{"id": 382, "common_answers": [["relationship_type", "none"], ["correlation_coefficient", "0.10"], ["p_value", "0.1128"]]}
-{"id": 383, "common_answers": [["range_length", "322"]]}
-{"id": 384, "common_answers": [["columns_added", "31"]]}
-{"id": 389, "common_answers": [["mean_price", "2849.13"]]}
-{"id": 391, "common_answers": [["correlation_coefficient", "The Pearson correlation coefficient between carat weight and price of the diamonds is 0.82."]]}
-{"id": 392, "common_answers": [["outliers_count", "0"], ["rows_after_outliers_removal", "4414"]]}
-{"id": 394, "common_answers": [["mse_score", "218216.4"]]}
-{"id": 396, "common_answers": [["skewness", "-2.073"], ["correlation_coefficient", "0.818"]]}
-{"id": 397, "common_answers": [["model_accuracy", "0.214"]]}
 {"id": 408, "common_answers": [["correlation_coefficient", "0.10"], ["relationship_type", "nonlinear"], ["p_value", "0.0102"]]}
 {"id": 409, "common_answers": [["missing_values", "687"]]}
 {"id": 410, "common_answers": [["is_significantly_different", "True"]]}
@@ -219,14 +175,6 @@
 {"id": 429, "common_answers": [["correlation_coefficient", "0.19"], ["relationship_type", "nonlinear"], ["p_value", "0.0"]]}
 {"id": 431, "common_answers": [["high_damage_relationship_type", "linear"], ["high_damage_correlation_coefficient", "0.56"], ["high_damage_p_value", "0.0000"]]}
 {"id": 432, "common_answers": [["mean_squared_error", "263.1896"]]}
-{"id": 434, "common_answers": [["mean_weight", "11.38"], ["standard_deviation_weight", "21.28"]]}
-{"id": 435, "common_answers": [["skewness", "5.47"], ["normal_distribution", "no"], ["kurtosis", "61.71"]]}
-{"id": 437, "common_answers": [["number_of_outliers", "180"], ["mean_after_removal", "9.13"], ["std_dev_after_removal", "13.02"]]}
-{"id": 438, "common_answers": [["mean_distance", "4.87"], ["max_distance", "23.41"]]}
-{"id": 439, "common_answers": [["precision", "1.0000"], ["recall", "1.0000"], ["accuracy_score", "1.0000"], ["f1_score", "1.0000"]]}
-{"id": 442, "common_answers": [["p_value_Source_Target", "0.0944"], ["correlation_coefficient_Source_Target", "-0.02"], ["correlation_coefficient_Distance_Weight", "-0.38"], ["relationship_type_Distance_Weight", "nonlinear"], ["relationship_type_Source_Target", "none"], ["p_value_Distance_Weight", "0.0000"]]}
-{"id": 443, "common_answers": [["mean_age", "38.74"]]}
-{"id": 445, "common_answers": [["outlier_count", "136"], ["median", "0.0"], ["range", "0"]]}
 {"id": 446, "common_answers": [["mean_windspeed", "5.979"]]}
 {"id": 447, "common_answers": [["number_of_outliers", "111"]]}
 {"id": 449, "common_answers": [["normal_distribution", "no"]]}
@@ -245,24 +193,12 @@
 {"id": 476, "common_answers": [["outlier_indices", "["], ["outlier_count", "0"]]}
 {"id": 479, "common_answers": [["max_combination", "NZL_PRY_NTRY"], ["max_mean_value", "4.8"]]}
 {"id": 480, "common_answers": [["standard_deviation", "1.22"]]}
-{"id": 481, "common_answers": [["min_age", "5"], ["max_age", "11"]]}
-{"id": 482, "common_answers": [["skewness_type", "Symmetric"]]}
-{"id": 483, "common_answers": [["correlation_coefficient", "0.09"]]}
-{"id": 484, "common_answers": [["missing_speech", "181"], ["missing_gloss", "11"]]}
-{"id": 485, "common_answers": [["outliers_age", "0"]]}
-{"id": 488, "common_answers": [["male_outliers", "0"], ["female_outliers", "0"]]}
 {"id": 490, "common_answers": [["mean_value", "12.89"]]}
 {"id": 491, "common_answers": [["correlation_coefficient", "0.72"]]}
 {"id": 492, "common_answers": [["fields", "Health Professions"]]}
 {"id": 494, "common_answers": [["RMSE", "0.35"], ["R_squared", "0.998"]]}
 {"id": 495, "common_answers": [["std_without_outliers", "9.57"], ["mean_without_outliers", "33.69"]]}
 {"id": 496, "common_answers": [["range_STEM", "17.7"], ["mean_STEM", "125.11"]]}
-{"id": 498, "common_answers": [["correlation_coefficient", "0.91"]]}
-{"id": 499, "common_answers": [["missing_values", "0"], ["missing_percentage", "0.0"]]}
-{"id": 500, "common_answers": [["job_title", "STATE'S ATTORNEY"], ["department_id", "A29001"], ["annual_rate", "238772"]]}
-{"id": 501, "common_answers": [["p_value", "0.0"]]}
-{"id": 502, "common_answers": [["avg_salary_less_5_years", "21734"], ["avg_salary_10_years_or_more", "52917"]]}
-{"id": 505, "common_answers": [["top_words", "youth, summer, department, police, waste, dpwwater, water, fire, hlthhealth, transhighways"]]}
 {"id": 506, "common_answers": [["average_reviews", "1013.53"]]}
 {"id": 507, "common_answers": [["total_hotels", "46"]]}
 {"id": 508, "common_answers": [["correlation_coefficient", "0.176"]]}
@@ -310,22 +246,8 @@
 {"id": 593, "common_answers": [["is_normal", "False"]]}
 {"id": 602, "common_answers": [["normality_status", "Not Normal"]]}
 {"id": 604, "common_answers": [["std_dev_after_removal", "0.019"], ["outlier_count", "73"], ["mean_after_removal", "0.994"]]}
-{"id": 607, "common_answers": [["mean_temperature", "0.50"]]}
-{"id": 608, "common_answers": [["normality_status", "not normal"]]}
-{"id": 609, "common_answers": [["p_value", "0.0001"], ["correlation_coefficient", "-0.05"], ["relationship_type", "nonlinear"]]}
-{"id": 610, "common_answers": [["num_outliers", "42"], ["replaced_yesno", "yes"]]}
-{"id": 611, "common_answers": [["new_feature_exists", "yes"]]}
-{"id": 613, "common_answers": [["relationship_type", "linear"], ["correlation_coefficient", "0.56"], ["p_value", "0.0000"]]}
-{"id": 614, "common_answers": [["normalized_hum_std", "1.00"], ["normalized_hum_mean", "0.00"], ["normalized_temp_std", "1.00"]]}
 {"id": 618, "common_answers": [["correlation", "0.423"]]}
 {"id": 619, "common_answers": [["std_dev_new", "2514.65"], ["mean_new", "1253.61"]]}
-{"id": 625, "common_answers": [["std_dev_height", "130.656"], ["mean_height", "759.883"]]}
-{"id": 626, "common_answers": [["normality_test_result", "Not Normal"]]}
-{"id": 627, "common_answers": [["relationship_type", "none"], ["p_value", "0.2339"], ["correlation_coefficient", "-0.08"]]}
-{"id": 629, "common_answers": [["missing_values_after", "8"], ["missing_values_before", "0"]]}
-{"id": 630, "common_answers": [["correlation_coefficient", "0.09"]]}
-{"id": 631, "common_answers": [["skewness", "True"], ["mean_image_width", "988.18"]]}
-{"id": 632, "common_answers": [["total_duplicates_removed", "0"]]}
 {"id": 643, "common_answers": [["std_volume", "36218.68"], ["min_volume", "4440"], ["max_volume", "478003"], ["mean_volume", "32529.47"]]}
 {"id": 644, "common_answers": [["result", "Not a normal distribution"]]}
 {"id": 646, "common_answers": [["index_and_zscore", "["], ["num_outliers", "0"]]}
@@ -350,11 +272,6 @@
 {"id": 671, "common_answers": [["mse", "0.653"]]}
 {"id": 673, "common_answers": [["pearson_coefficient", "0.0382"], ["mean_value", "2.1226"]]}
 {"id": 674, "common_answers": [["pearson_coefficient", "0.6419"], ["mean_absolute_error", "0.6426"]]}
-{"id": 675, "common_answers": [["mean_price", "537585.11"], ["std_deviation_price", "375636.15"]]}
-{"id": 676, "common_answers": [["skewness_bedroom_type", "symmetric"]]}
-{"id": 677, "common_answers": [["correlation_coefficient", "0.7"]]}
-{"id": 680, "common_answers": [["correlation_coefficient_age_price", "-0.04"]]}
-{"id": 682, "common_answers": [["waterfront_correlation", "0.1418"], ["overall_correlation", "0.2505"], ["significant", "False"], ["p_value", "0.2928"]]}
 {"id": 683, "common_answers": [["mean_temperature", "29.14"]]}
 {"id": 684, "common_answers": [["distribution_type", "normal"], ["shapiro_p_value", "0.9166"]]}
 {"id": 685, "common_answers": [["correlation_coefficient", "0.34"], ["relationship_significance", "not significant"], ["p_value", "0.1023"]]}
@@ -387,8 +304,6 @@
 {"id": 740, "common_answers": [["outliers", "1"]]}
 {"id": 741, "common_answers": [["addedfeature", "ratio"]]}
 {"id": 743, "common_answers": [["income_normalization", "10.35, 186.63, /mnt/data/Credit_Income_Normalized.csv"]]}
-{"id": 748, "common_answers": [["num_outliers_fleet_number", "0"]]}
-{"id": 752, "common_answers": [["median_duration", "43.00"], ["is_normal", "No"], ["mean_duration", "61.55"], ["std_deviation_duration", "20.72"]]}
 {"id": 755, "common_answers": [["mean_TMAX_F", "56.38"]]}
 {"id": 756, "common_answers": [["correlation_coefficient", "1.00"], ["p_value", "0.0000"]]}
 {"id": 757, "common_answers": [["outlier_count", "25"]]}
