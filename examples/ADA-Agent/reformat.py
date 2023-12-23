@@ -13,12 +13,11 @@ from utils.utils import read_dicts_from_file, write_dicts_to_file
 def define_arguments():
     parser = argparse.ArgumentParser()
 
+    parser.add_argument('--url_file', type=str, default="url.txt")
+    parser.add_argument('--api_key_file', type=str, default="api_key.txt")
     parser.add_argument('--questions_file_path', type=str, default="data/da-dev-questions.jsonl")
     parser.add_argument('--responses_file_path', type=str,
                         default="responses/results_agentllm_7b_reformat_for_test.jsonl")
-    parser.add_argument('--output_file_path', type=str, default="output.jsonl")
-    parser.add_argument('--url_file', type=str, default="url.txt")
-    parser.add_argument('--api_key_file', type=str, default="api_key.txt")
     parser.add_argument('--model', type=str, default="gpt-3.5-turbo-16k")
     parser.add_argument('--max_resp', type=int, default=2048)
 
