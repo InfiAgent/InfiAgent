@@ -124,7 +124,19 @@ The responses file should adhere to the JSONL format, with each line containing 
 {"id":0, "response":"The response with @answer_name[answer] for question 0 from your model."}
 {"id":1, "response":"The response with @answer_name[answer] for question 1 from your model."}
 ```
+In addition, we provide a script for reformatting:
+
+```bash
+python3 reformat.py \
+--questions_file_path data/da-dev-questions.jsonl \
+--responses_file_path [YOUR_RESPONSES_FILE_PATH] \
+--model [YOUR_MODEL]
+```
+
+We use an API for reformatting by default, you should put your URL for calling and api key in `url.txt` and `api_key.txt` respectively in the same directory of the script. If you want to use your own model, you need to modify the script.
+
 <!-- 
+
 ### Metrics
 
 For closed-form questions, we have the following metrics:
