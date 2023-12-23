@@ -45,88 +45,15 @@ We conduct statistical analyses on the individual concepts associated with each 
 
 This table illustrates the distribution of questions based on the number of underlying concepts they encompass :
 
-| num of concepts  | #1   | #2   | #3   | #4   | Total |
-| ---------------- | ---- | ---- | ---- | ---- | ----- |
-| num of questions | 244  | 143  | 12   | 1    | 400   |
+| #concepts      | #1   | #2   | #3   | #4   | Total |
+| -------------- | ---- | ---- | ---- | ---- | ----- |
+| **#questions** | 187  | 112  | 11   | 1    | 311   |
 
 This table presents statistical findings regarding our filtration process :
 
 | #Unfiltered questions | #Filtered questions | #Unfiltered subquestions | #Filtered subquestions | Avg.  Sub-Questions per Question |
 | --------------------- | ------------------- | ------------------------ | ---------------------- | -------------------------------- |
 | 770                   | 400                 | 1442                     | 706                    | 1.76                             |
-
-## Evaluation
-
-We both provide open-ended evaluation and closed-form evaluation. Open-ended evaluation is designed for human evaluation and closed-form evaluation is for automatic evaluation. In closed-form evaluation, the model is required to generated the response in the specific way and we use the exact match to evaluate the performance. In open-ended evaluation, we do not require any constraints during generation. Considering that most models hardly follow the format requirements, we add a reformat step after the models respond with GPT-3.5-turbo-16k which formats the responses with the format requirements. Here's a figure illustrating this process:
-
-![](./figures/case-study-eval-data.png)
-
-## Dataset
-
-Our evaluation dataset includes a validation dataset and a test dataset. We only keep validation dataset for public. If you want to evaluate your own models, you can send us an e-mail about the API interface. We will update your results on leaderboard.  
-
-The validation dataset comprises two .jsonl files, with each line representing a JSON-format dictionary containing the following keys. Additionally, a directory of CSV files for the associated questions is located under `data/`:
-
-1. questions: `data/da-dev-questions.jsonl`
-
-- id: Unique identifier for each question.
-- question: The data analysis question.
-- concepts: The concepts involved in the question.
-- constraints: Constraints on the question that narrow down the solution into a closed-form.
-- format: Format requirements for the output.
-- file_name: File name of the corresponding csv file.
-
-2. labels: `data/da-dev-labels.jsonl`
-
-- id: Unique identifier for each question.
-- common_answers: A list of labels in the format: `[[answer_name1, answer1],[answer_name2, answer2], ...]` which are correspondi1ng to "@answer_name[answer]" in the format part of questions
-
-3. tables: `data/da-dev-tables`
-
-## Usage
-
-For closed-form questions, we have provided an evaluation script designed for use on the validation set:
-```python
-python3 eval_closed_form.py \
---questions_file_path data/da-dev-questions.jsonl \
---labels_file_path data/da-dev-labels.jsonl \
---responses_file_path [YOUR_RESPONSES_FILE]
-```
-The response file should adhere to the .jsonl format, with each line containing a JSON dictionary that includes the 'id' and 'response' fields, formatted as follows:
-
-```json
-{"id":0, "response":"The response with @answer_name[answer] for question 0 from your model."}
-{"id":1, "response":"The response with @answer_name[answer] for question 1 from your model."}
-```
-
-## Metrics
-
-For closed-form questions, we have following metrics:
-
-- **Proportional Accuracy by Subquestions (PASQ):**
-
-$$
-\text{PSAQ} = \frac{1}{N} \sum_{i=1}^{N} \left( \frac{1}{M_i} \sum_{j=1}^{M_i} I_{ij} \right)
-$$
-
-Here, $N$ is the total number of questions, $M_i$ is the number of subquestions for the i-th question, and $I_{ij}$ is the indicator function for the j-th subquestion of the i-th question.
-
-- **Accuracy by Questions (ABQ):**
-
-$$
-\text{ABQ} = \frac{1}{N} \sum_{i=1}^{N} \left( \prod_{j=1}^{M_i} I_{ij} \right)
-$$
-
-In this expression, the product 
-\($\prod_{j=1}^{M_i} I_{ij}$\) equals 1 if all subquestions of the \(i\)-th question are answered correctly, and 0 otherwise.
-
-- **Uniform Accuracy by Subquestions (UASQ):**
-
-$$
-\text{UASQ} = \frac{1}{\sum_{i=1}^{N} M_i} \sum_{i=1}^{N} \sum_{j=1}^{M_i} I_{ij}
-$$
-
-Here, the total accuracy is the sum of the values of the indicator function across all subquestions, normalized by the total number of subquestions in the dataset.
 
 ## Results
 
