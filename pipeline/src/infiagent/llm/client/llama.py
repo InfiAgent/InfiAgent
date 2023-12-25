@@ -17,16 +17,16 @@ from ...schemas import *
 
 logger = logging.getLogger(__name__)
 
-MAX_PROMPT_LENGTH = 7000
+MAX_PROMPT_LENGTH = 4096
 
 
-@retry(wait=wait_random_exponential(min=1, max=10), stop=stop_after_attempt(10), reraise=True,
+@retry(wait=wait_random_exponential(min=1, max=10), stop=stop_after_attempt(5), reraise=True,
        before_sleep=before_sleep_log(logger, logging.WARNING))
 def chatcompletion_with_backoff(**kwargs):
     return openai.ChatCompletion.create(**kwargs)
 
 
-@retry(wait=wait_random_exponential(min=1, max=10), stop=stop_after_attempt(10), reraise=True,
+@retry(wait=wait_random_exponential(min=1, max=10), stop=stop_after_attempt(5), reraise=True,
        before_sleep=before_sleep_log(logger, logging.WARNING))
 async def async_chatcompletion_with_backoff(**kwargs):
     async def _internal_coroutine():
@@ -50,8 +50,8 @@ class LlamaOpenAIClient(BaseLLM, ABC):
 
     def __init__(self, **data):
         super().__init__(**data)
-        openai.api_key = "EMPTY"
-        openai.api_base = "http://localhost:8000/v1"
+        openai.api_key = ""
+        openai.api_base = "http://0.0.0.0:9729/v1"
 
     @classmethod
     async def create(cls, config_data):
@@ -73,16 +73,19 @@ class LlamaOpenAIClient(BaseLLM, ABC):
         :type kwargs: dict
         :return: BaseCompletion object.
         :rtype: BaseCompletion
-
         """
-
         response = chatcompletion_with_backoff(
-            # engine=self.get_model_name(),  # GPT-4
             model=self.model_name,
             messages=[
                 {"role": "user", "content": prompt[-MAX_PROMPT_LENGTH:]}
             ],
             timeout=1000,
+            # temperature=self.params.temperature,
+            # max_tokens=self.params.max_tokens,
+            # top_p=self.params.top_p,
+            # frequency_penalty=self.params.frequency_penalty,
+            # presence_penalty=self.params.presence_penalty,
+            # stop=["<|im_end|>", "<|endoftext|>"],
             **kwargs
         )
 
@@ -104,12 +107,17 @@ class LlamaOpenAIClient(BaseLLM, ABC):
 
         """
         response = await async_chatcompletion_with_backoff(
-            # engine=self.get_model_name(),  # GPT-4
             model=self.model_name,
             messages=[
                 {"role": "user", "content": prompt[-MAX_PROMPT_LENGTH:]}
             ],
             timeout=1000,
+            #temperature=0.2,
+            #max_tokens=4096,
+            #top_p=0.9,
+            #frequency_penalty=self.params.frequency_penalty,
+            #presence_penalty=self.params.presence_penalty,
+            # stop=["<|im_end|>", "<|endoftext|>"],
             **kwargs
         )
 
@@ -128,14 +136,10 @@ class LlamaOpenAIClient(BaseLLM, ABC):
         :rtype: ChatCompletion
         """
         try:
-            # response = openai.ChatCompletion.create(
-            #     engine=self.get_model_name(),  # GPT-4
-            #     messages=message,
-            #     timeout=1000,
-            # )
             response = openai.ChatCompletion.create(
                 n=self.params.n,
                 model=self.model_name,
+                timeout=1000,
                 messages=message,
                 temperature=self.params.temperature,
                 max_tokens=self.params.max_tokens,

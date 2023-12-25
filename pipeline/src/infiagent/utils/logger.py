@@ -18,7 +18,7 @@ def init_logging():
     Initialize logging configuration.
     """
     # Basic logging configuration with your specified settings
-    config_default()
+    # config_default()
     openai_logger = logging.getLogger("openai")
     openai_logger.setLevel(logging.WARNING)
 
@@ -33,6 +33,6 @@ def get_logger() -> logging.LoggerAdapter:
     """
     Retrieve a logger instance configured with X-Tt-Logid.
     """
-    logger = logging.getLogger("smart_agent_logger")
+    logger = logging.getLogger("infiagent_logger")
     logger.setLevel(logging.INFO)
     return ContextualLoggerAdapter(logger, {})

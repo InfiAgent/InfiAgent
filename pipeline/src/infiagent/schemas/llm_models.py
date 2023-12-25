@@ -72,7 +72,7 @@ class LlamaParamModel(BaseModel):
     """
     AzureOpenAI API parameters
     """
-    max_tokens: int = 2048
+    max_tokens: int = 4096
     temperature: float = 0.2
     top_p: float = 1.0
     presence_penalty: float = 0.0

@@ -17,7 +17,7 @@ from ...utils.file_utils import clear_files
 logger = get_logger()
 
 root_directory = os.path.abspath(__file__)
-while 'ADA-Agent' not in os.path.basename(root_directory):
+while 'infiagent' not in os.path.basename(root_directory):
     root_directory = os.path.dirname(root_directory)
 
 WORK_DIR = f'{root_directory}/tmp/ci_workspace'

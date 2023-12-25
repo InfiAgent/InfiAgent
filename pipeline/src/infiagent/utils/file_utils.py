@@ -9,11 +9,11 @@ import chardet
 from .logger import get_logger
 
 root_directory = os.path.abspath(__file__)
-while 'ADA-Agent' not in os.path.basename(root_directory):
+while 'infiagent' not in os.path.basename(root_directory):
     root_directory = os.path.dirname(root_directory)
 
 TEMP_FILE_UPLOAD_DIR = f"{root_directory}/tmp/upload_files/"
-MAX_INPUT_FILE_SIZE = 10 * 1024 * 1024
+MAX_INPUT_FILE_SIZE = 1024 * 1024 * 1024
 SAMPLE_FILE_SIZE = 2048
 CSV_DEFAULT_DELIMITER = ","
 CSV_DELIMITERS = [',', '\t', ';', '|', ' ']

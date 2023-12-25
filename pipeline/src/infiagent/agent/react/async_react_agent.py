@@ -186,8 +186,10 @@ class AsyncReactAgent(BaseAgent):
                 return AgentFinish(raw_output=llm_output, formatted_output=formatted_output)
 
         # Updated regex pattern for capturing the expected input format
-        ACTION_REGEX = r"(.*?)\n?Action:\s*(.*?)\n?Action\s*Input:\s*```python\n(.*?)```(.*?)$|(.*?)\n?'''(\w+)\n?(.*?)\n?'''(.*?)$"
-        action_match = re.search(ACTION_REGEX, llm_output, re.DOTALL)
+        ACTION_REGEX_1 = r"(.*?)\n?Action:\s*(.*?)\n?Action\s*Input:\s*```python\n(.*?)```(.*?)$|(.*?)\n?'''(\w+)\n?(.*?)\n?'''(.*?)$"
+        ACTION_REGEX_2 = r"(.*?)\n?Action:\s*(.*?)\n?Action\s*Input:\s*```py\n(.*?)```(.*?)$|(.*?)\n?'''(\w+)\n?(.*?)\n?'''(.*?)$"
+
+        action_match = re.search(ACTION_REGEX_1, llm_output, re.DOTALL) or re.search(ACTION_REGEX_2, llm_output, re.DOTALL)
 
         # Find action, context, and action input, build action response
         if action_match:
