@@ -5,38 +5,18 @@ import asyncio
 import logging
 import sys
 import json
+import io
 
-import uvloop
 import openai
-try:
-    import infiagent
-    from infiagent.utils import get_logger, upload_files, get_file_name_and_path
-    from infiagent.services.chat_complete_service import predict
-except ImportError:
-    print("import infiagent failed, please install infiagent by 'pip install .' in the pipeline directory of ADA-Agent")
-    from ..utils import get_logger, upload_files, get_file_name_and_path
-    from ..services.chat_complete_service import predict
+
+
+import infiagent
+from infiagent.utils import get_logger, upload_files, get_file_name_and_path
+from infiagent.services.chat_complete_service import predict
+
 
 logger = get_logger()
 
-# asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
-
-# Get the current script's directory
-root_directory = os.path.abspath(__file__)
-
-# Loop to find the root directory (with the name "smart_agent")
-while 'smart_agent' not in os.path.basename(root_directory):
-    root_directory = os.path.dirname(root_directory)
-
-# Add the root directory to the sys path if it is not exist
-if root_directory not in sys.path:
-    sys.path.append(root_directory)
-
-from ..utils import *
-
-TEMP_FILE_UPLOAD_DIR = "./tmp/upload_files/"
-
-import io
 
 class UploadedFile(io.BytesIO):
     def __init__(self, path):
@@ -51,7 +31,7 @@ class UploadedFile(io.BytesIO):
 
     def __repr__(self):
         return f"MyUploadedFile(name={self.name}, size={self.size}, type={self.type})"
-    
+
     def __len__(self):
 
         return self.size
@@ -71,6 +51,11 @@ def _get_script_params():
                             required=False, type=str)
         parser.add_argument('--api_key',
                             help='Open API token key.',
+                            required=False, type=str)
+
+        parser.add_argument('--config_path',
+                            help='Config path for demo',
+                            default="configs/agent_configs/react_agent_llama_async.yaml",
                             required=False, type=str)
 
         args = parser.parse_args()
@@ -103,19 +88,33 @@ def extract_questions_and_concepts(file_path):
 
     return data
 
+def read_dicts_from_file(file_name):
+    """
+    Read a file with each line containing a JSON string representing a dictionary,
+    and return a list of dictionaries.
+
+    :param file_name: Name of the file to read from.
+    :return: List of dictionaries.
+    """
+    dict_list = []
+    with open(file_name, 'r') as file:
+        for line in file:
+            # Convert the JSON string back to a dictionary.
+            dictionary = json.loads(line.rstrip('\n'))
+            dict_list.append(dictionary)
+    return dict_list
+
 def read_questions(file_path):
     print(file_path)
     with open(file_path) as f:
         questions = json.load(f)
-    
+
     return questions
 
 def extract_data_from_folder(folder_path):
 
     print(f'folder_path {folder_path}')
-
     extracted_data = {}
-
     # Traverse the files in the folder
     for file_name in os.listdir(folder_path):
         if file_name.endswith('.questions'):  # You can filter files based on their type
@@ -128,14 +127,10 @@ def extract_data_from_folder(folder_path):
 
 
 async def main():
-# def main():
-    folder_path = '/root/data/eval_dataset/questions_v2'  # Replace with your folder path
-    extracted_data = extract_data_from_folder(folder_path)
-    
+    extracted_data = read_dicts_from_file('./data/da-dev-questions.jsonl')
     args = _get_script_params()
 
     model_name = getattr(args, "llm", None)
-
     open_ai_key = getattr(args, "api_key", None)
 
     if "OPEN_AI" in model_name:
@@ -145,43 +140,65 @@ async def main():
                 openai.api_key = open_ai_key
                 os.environ["OPENAI_API_KEY"] = open_ai_key
             else:
-                raise ValueError("OPENAI_API_KEY is None, please provide opekn ai key to use open ai model. Adding '--api_key' to set it up")
+                raise ValueError("OPENAI_API_KEY is None, please provide open ai key to use open ai model. Adding "
+                                 "'--api_key' to set it up")
 
         # 获取 'openai' 的 logger
         openai_logger = logging.getLogger('openai')
         # 设置日志级别为 'WARNING'，这样 'INFO' 级别的日志就不会被打印了
         openai_logger.setLevel(logging.WARNING)
-
     else:
         logger.info("use local model ")
 
-    tabel_path = '/root/data/eval_dataset/tables_v2'
-    for k,v in extracted_data.items():
-        for q in v:
-            input_text = q['question']
-            concepts = q['concepts']
-            file_path = q['file_name']
+    table_path = 'data/da-dev-tables'
+    results = []
 
-            file_path = os.path.join(tabel_path, file_path)
+    i = 1
+    for q in extracted_data:
+        input_text = q['question']
+        concepts = q['concepts']
+        file_path = q['file_name']
+        constraints = q['constraints']
+        format = q['format']
 
-            print(f'input_text: {input_text}')
-            print(f'concepts: {concepts}')
-            print(f'file_path: {file_path}')
-            
+        file_path = os.path.join(table_path, file_path)
 
-            uploaded_file = UploadedFile(file_path)
+        print(f'input_text: {input_text}')
+        print(f'concepts: {concepts}')
+        print(f'file_path: {file_path}')
 
-            print(uploaded_file)
+        uploaded_file = UploadedFile(file_path)
+        print(uploaded_file)
 
-            response = await predict(
-                prompt=input_text,
-                model_name=model_name,
-                uploaded_files=[uploaded_file]
-            )
+        prompt = f"Question: {input_text}\n{constraints}\n"
 
-            print(f"response: {response}")
+        response = await predict(
+            prompt=prompt,
+            model_name=model_name,
+            config_path=args.config_path,
+            uploaded_files=[uploaded_file]
+        )
 
-            break
+        iteration_result = {
+            'id': q['id'],
+            'input_text': prompt,
+            'concepts': concepts,
+            'file_path': file_path,
+            'response': response,
+            'format': format
+        }
+        results.append(iteration_result)
+        print(f"response: {response}")
+
+        if i % 10 == 0:
+            with open('results_{}.json'.format(model_name), 'w') as outfile:
+                json.dump(results, outfile, indent=4)
+
+        i += 1
+
+    with open('results_{}.json'.format(model_name), 'w') as outfile:
+        json.dump(results, outfile, indent=4)
+
 
 if __name__ == '__main__':
     asyncio.run(main())

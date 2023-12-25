@@ -100,7 +100,6 @@ async def get_gen_prompt(request) -> str:
     else:
         for message in request.messages:
             msg_role = message["role"]
-            msg_role = message["role"]
             if msg_role == "system":
                 conv.system_message = message["content"]
             elif msg_role == "user":

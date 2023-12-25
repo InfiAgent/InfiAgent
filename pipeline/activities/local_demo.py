@@ -7,23 +7,19 @@ import sys
 import streamlit as st  # type: ignore
 import uvloop
 import openai
+
 try:
     import infiagent
     from infiagent.utils import get_logger, upload_files
     from infiagent.services.chat_complete_service import predict
 except ImportError:
-    raise("import infiagent failed, please install infiagent by 'pip install .' in the pipeline directory of ADA-Agent")
-
+    raise (
+        "import infiagent failed, please install infiagent by 'pip install -e .' in the pipeline directory of ADA-Agent")
 
 logger = get_logger()
 
 asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
 
-root_directory = os.path.abspath(__file__)
-while 'ADA-Agent' not in os.path.basename(root_directory):
-    root_directory = os.path.dirname(root_directory)
-
-TEMP_FILE_UPLOAD_DIR = f"{root_directory}/tmp/upload_files/"
 
 def _get_script_params():
     try:
@@ -47,6 +43,7 @@ def _get_script_params():
 
     return None
 
+
 async def main():
     args = _get_script_params()
 
@@ -61,7 +58,8 @@ async def main():
                 openai.api_key = open_ai_key
                 os.environ["OPENAI_API_KEY"] = open_ai_key
             else:
-                raise ValueError("OPENAI_API_KEY is None, please provide opekn ai key to use open ai model. Adding '--api_key' to set it up")
+                raise ValueError(
+                    "OPENAI_API_KEY is None, please provide opekn ai key to use open ai model. Adding '--api_key' to set it up")
 
         # 获取 'openai' 的 logger
         openai_logger = logging.getLogger('openai')
@@ -105,6 +103,6 @@ async def main():
         with st.chat_message(chat["role"]):
             st.write(chat["message"])
 
-                    
+
 if __name__ == "__main__":
     asyncio.run(main())
