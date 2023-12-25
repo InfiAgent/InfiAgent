@@ -31,7 +31,7 @@ ADA-Agent: Building and Evaluating Agents on Data Analysis Tasks
 </p>
 
 
-| Rank | Model Name                  | Accuracy by Questions (%) | Proportional Accuracy by Subquestions (%) | Accuracy by Subquestions (%) |
+| Rank | Model Name                  | Accuracy by Questions (%) | Proportional Accuracy by Subquestions (%) | Accuracy by Subquestions (%)|
 |------|-----------------------------|---------------------------|-------------------------------------------|----------------------------|
 | 1    | GPT-4 (0613)                | 70.16                     | 75.32                                     | 76.32                      |
 | 2    | Qwen-72B-Chat               | 54.02                     | 58.95                                     | 53.22                      |
