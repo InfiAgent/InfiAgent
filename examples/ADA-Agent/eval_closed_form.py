@@ -3,7 +3,7 @@ import argparse
 import re
 import os
 
-from utils.utils import read_dicts_from_file
+from utils.utils import read_jsonl
 
 # Function to extract formatted text using regular expressions
 def extract_format(input_string):
@@ -13,6 +13,14 @@ def extract_format(input_string):
     answers = [match[1] for match in matches]
     return answer_names, answers
 
+def is_equal(response, label):
+    if response == label:
+        return True
+    else:
+        try:
+            return abs(float(response) - float(label)) < 1e-6
+        except:
+            return False
 
 # Function to evaluate responses with the adjusted label structure
 def evaluate_responses(labels, responses):
@@ -26,8 +34,7 @@ def evaluate_responses(labels, responses):
         if corresponding_response:
             answer_names, answers = extract_format(corresponding_response["response"])
             extracted_answers = dict(zip(answer_names, answers))
-            correct_answers = {ans_name: label_answers[ans_name] == extracted_answers.get(ans_name) for ans_name in
-                               label_answers.keys()}
+            correct_answers = {ans_name: is_equal(extracted_answers.get(ans_name), label_answers[ans_name]) for ans_name in label_answers.keys()}
             result = {
                 "id": label_id,
                 "label_answers": label_answers,
@@ -133,8 +140,8 @@ def main():
     os.makedirs("eval_outputs", exist_ok=True)
 
     # Reading files
-    labels = read_dicts_from_file(args.labels_file_path)
-    responses = read_dicts_from_file(args.responses_file_path)
+    labels = read_jsonl(args.labels_file_path)
+    responses = read_jsonl(args.responses_file_path)
     concepts_data = read_concepts_from_file(args.questions_file_path)
 
     # Evaluating responses
