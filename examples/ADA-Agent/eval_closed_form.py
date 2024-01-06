@@ -5,6 +5,7 @@ import os
 
 from utils.utils import read_jsonl
 
+
 # Function to extract formatted text using regular expressions
 def extract_format(input_string):
     pattern = r"@(\w+)\[(.*?)\]"
@@ -12,6 +13,7 @@ def extract_format(input_string):
     answer_names = [match[0] for match in matches]
     answers = [match[1] for match in matches]
     return answer_names, answers
+
 
 def is_equal(response, label):
     if response == label:
@@ -21,6 +23,7 @@ def is_equal(response, label):
             return abs(float(response) - float(label)) < 1e-6
         except:
             return False
+
 
 # Function to evaluate responses with the adjusted label structure
 def evaluate_responses(labels, responses):
@@ -34,7 +37,8 @@ def evaluate_responses(labels, responses):
         if corresponding_response:
             answer_names, answers = extract_format(corresponding_response["response"])
             extracted_answers = dict(zip(answer_names, answers))
-            correct_answers = {ans_name: is_equal(extracted_answers.get(ans_name), label_answers[ans_name]) for ans_name in label_answers.keys()}
+            correct_answers = {ans_name: is_equal(extracted_answers.get(ans_name), label_answers[ans_name]) for ans_name
+                               in label_answers.keys()}
             result = {
                 "id": label_id,
                 "label_answers": label_answers,
@@ -69,7 +73,7 @@ def analyze_concepts_accuracy(results, concepts_data):
                 concept_accuracy[concept]["total"] += 1
                 if 'correctness' in result and all(result['correctness'].values()):
                     concept_accuracy[concept]["correct"] += 1
-    return {concept: acc["correct"] / acc["total"] for concept, acc in concept_accuracy.items()}
+    return {concept: round(acc["correct"] / acc["total"], 4) for concept, acc in concept_accuracy.items()}
 
 
 def analyze_concepts_count_accuracy(results, concepts_data):
@@ -91,11 +95,12 @@ def analyze_concepts_count_accuracy(results, concepts_data):
                 if 'correctness' in result and all(result['correctness'].values()):
                     two_or_more_concepts_accuracy["correct"] += 1
 
-    concept_count_accuracy = {count: acc["correct"] / acc["total"] for count, acc in concept_count_accuracy.items() if
+    concept_count_accuracy = {count: round(acc["correct"] / acc["total"], 4) for count, acc in
+                              concept_count_accuracy.items() if
                               acc["total"] > 0}
     if two_or_more_concepts_accuracy["total"] > 0:
-        two_or_more_concepts_accuracy = two_or_more_concepts_accuracy["correct"] / two_or_more_concepts_accuracy[
-            "total"]
+        two_or_more_concepts_accuracy = round(two_or_more_concepts_accuracy["correct"] / two_or_more_concepts_accuracy[
+            "total"], 4)
     else:
         two_or_more_concepts_accuracy = None
 
@@ -106,13 +111,13 @@ def analyze_concepts_count_accuracy(results, concepts_data):
 def evaluate_accuracy_by_question(results):
     correct = sum('correctness' in result and all(result['correctness'].values()) for result in results)
     total = len(results)
-    return correct / total if total > 0 else 0
+    return round(correct / total, 4) if total > 0 else 0
 
 
 def evaluate_accuracy_by_sub_question(results):
     correct = sum(sum(result['correctness'].values()) for result in results if 'correctness' in result)
     total = sum(len(result['correctness']) for result in results if 'correctness' in result)
-    return correct / total if total > 0 else 0
+    return round(correct / total, 4) if total > 0 else 0
 
 
 def evaluate_accuracy_proportional_by_sub_question_adjusted(results):
@@ -123,7 +128,7 @@ def evaluate_accuracy_proportional_by_sub_question_adjusted(results):
             score_per_sub_question = 1 / sub_question_count if sub_question_count > 0 else 0
             question_score = sum(result['correctness'].values()) * score_per_sub_question
             total_score += question_score
-    return total_score / len(results) if results else 0
+    return round(total_score / len(results), 4) if results else 0
 
 
 # Main function to run the evaluation
