@@ -1,6 +1,6 @@
 import json
 
-def read_dicts_from_file(file_name):
+def read_jsonl(file_name):
     """
     Read a file with each line containing a JSON string representing a dictionary,
     and return a list of dictionaries.
@@ -16,7 +16,7 @@ def read_dicts_from_file(file_name):
             dict_list.append(dictionary)
     return dict_list
 
-def write_dicts_to_file(dict_list, file_name):
+def write_jsonl(dict_list, file_name):
     """
     Write a list of dictionaries to a file, with each dictionary on a new line.
 

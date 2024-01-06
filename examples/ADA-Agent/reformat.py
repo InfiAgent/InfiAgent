@@ -7,7 +7,7 @@ import os
 
 import requests
 
-from utils.utils import read_dicts_from_file, write_dicts_to_file
+from utils.utils import read_jsonl, write_jsonl
 
 
 def define_arguments():
@@ -81,8 +81,8 @@ if __name__ == "__main__":
     args.output_file_path = "{basename}_reformat.jsonl".format(
         basename=os.path.splitext(os.path.basename(args.questions_file_path))[0])
 
-    questions = read_dicts_from_file(args.questions_file_path)
-    responses = read_dicts_from_file(args.responses_file_path)
+    questions = read_jsonl(args.questions_file_path)
+    responses = read_jsonl(args.responses_file_path)
 
     for response in responses:
         for question in questions:
@@ -97,4 +97,4 @@ if __name__ == "__main__":
         reformatted_response = call(messages, args)["choices"][0]["message"]["content"]
         response['response'] = reformatted_response
 
-    write_dicts_to_file(responses, args.output_file_path)
+    write_jsonl(responses, args.output_file_path)
