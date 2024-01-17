@@ -1,0 +1,39 @@
+﻿Department Name,coa_dept_id,github-dept-code,dept_group,budget_year_start,budget_year_end
+Animal Services,92,ANM,Community Services,10/1/2016,9/30/2017
+Austin Code,16,COD,Community Services,10/1/2016,9/30/2017
+Austin Convention Center,88,CON,Utility and Other Enterprises,10/1/2016,9/30/2017
+Austin Energy,11,ENE,Utility and Other Enterprises,10/1/2016,9/30/2017
+Austin Public Library,85,LIB,Community Services,10/1/2016,9/30/2017
+Austin Resource Recovery,15,RES,Utility and Other Enterprises,10/1/2016,9/30/2017
+Austin Transportation,24,TRA,Infrastructure/Transportation,10/1/2016,9/30/2017
+Austin Water,22,WAT,Utility and Other Enterprises,10/1/2016,9/30/2017
+Aviation,81,AVI,Utility and Other Enterprises,10/1/2016,9/30/2017
+Building Services,75,BLD,Support Services,10/1/2016,9/30/2017
+Communication and Technology Management,56,TEC,Internal Services,10/1/2016,9/30/2017
+Communications and Public Information,59,COM,Support Services,10/1/2016,9/30/2017
+Development Services,53,DEV,Development,10/1/2016,9/30/2017
+Economic Development,55,ECO,Development,10/1/2016,9/30/2017
+Emergency Medical Services,93,EMS,Public Safety,10/1/2016,9/30/2017
+Financial Services,74,FIN,Support Services,10/1/2016,9/30/2017
+Fire,83,FIR,Public Safety,10/1/2016,9/30/2017
+Fleet Services,78,FLE,Internal Services,10/1/2016,9/30/2017
+Government Relations,42,GOV,Support Services,10/1/2016,9/30/2017
+Health and Human Services,91,HEA,Community Services,10/1/2016,9/30/2017
+Human Resources,58,HUM,Support Services,10/1/2016,9/30/2017
+Labor Relations,54,LAB,Support Services,10/1/2016,9/30/2017
+Law,57,LAW,Support Services,10/1/2016,9/30/2017
+Management Services,44,MGT,Support Services,10/1/2016,9/30/2017
+Mayor and Council,41,MAY,Support Services,10/1/2016,9/30/2017
+Municipal Court,46,COU,Public Safety,10/1/2016,9/30/2017
+Neighborhood Housing and Community Development,72,HOU,Community Services,10/1/2016,9/30/2017
+Office of Real Estate Services,43,REA,Support Services,10/1/2016,9/30/2017
+Office of the City Auditor,71,AUD,Support Services,10/1/2016,9/30/2017
+Office of the City Clerk,45,CLE,Support Services,10/1/2016,9/30/2017
+Office of the Medical Director,94,MED,Support Services,10/1/2016,9/30/2017
+Parks and Recreation,86,PAR,Community Services,10/1/2016,9/30/2017
+Planning and Zoning,68,PLA,Development,10/1/2016,9/30/2017
+Police,87,POL,Public Safety,10/1/2016,9/30/2017
+Public Works,60,WOR,Infrastructure/Transportation,10/1/2016,9/30/2017
+Small and Minority Business Resources,76,SMA,Support Services,10/1/2016,9/30/2017
+Telecommunications and Regulatory Affairs,73,TEL,Support Services,10/1/2016,9/30/2017
+Watershed Protection,63,WSH,Infrastructure/Transportation,10/1/2016,9/30/2017

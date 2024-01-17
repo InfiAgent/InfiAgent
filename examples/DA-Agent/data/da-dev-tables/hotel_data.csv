@@ -1,0 +1,1058 @@
+hotel_id,hotel_name,city_name,star_rating,bubble_score,review_count,hotel_type,brand_name,parent_brand_name
+75737,Night Theater District,New York City,4.0,40.0,2291,Hotel,Night Hotel,Wyndham Hotel Group
+93401,Heritage Hotel New York City,New York City,2.5,35.0,968,Hotel,None,
+224217,Clarion Hotel Park Avenue,New York City,2.5,35.0,462,Hotel,Clarion,"Choice Hotels International, Inc."
+488793,Solita Soho Hotel,New York City,3.0,40.0,520,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+1028569,Greenwich Hotel,New York City,5.0,45.0,582,Hotel,The Leading Hotels of the World,"The Leading Hotels of the World, Ltd"
+1383001,Comfort Inn Manhattan Bridge,New York City,2.0,40.0,578,Hotel,Comfort Inn,"Choice Hotels International, Inc."
+1733337,Sutton Court Hotel Residences,New York City,3.5,45.0,72,Hotel,,
+1776857,The Langham New York Fifth Avenue,New York City,5.0,45.0,2608,Hotel,Langham,Langham Hospitality Group
+2643161,The NoMad Hotel New York,New York City,5.0,45.0,964,Hotel,,
+7148761,Cassa Hotel Times Square,New York City,4.0,45.0,1601,Hotel,None,
+7379289,Brooklyn Hostel - Utica Avenue,Brooklyn,,10.0,2,Hostel,None,
+8541913,Renaissance New York Midtown Hotel,New York City,4.0,45.0,1033,Hotel,Renaissance,"Marriott International, Inc."
+9608281,Sago Hotel,New York City,4.0,45.0,147,Hotel,,
+10036825,Interfaith Retreats,New York City,,30.0,17,Hostel,,
+15646553,Kennedy Suites,Jersey City,,,0,Condo,,
+15697497,Studio Apartments,New York City,3.0,10.0,1,Specialty Hotel,,
+93612,Shoreham,New York City,4.0,35.0,2138,Hotel,,
+252972,Lafayette International Hostel,Brooklyn,,40.0,12,Hostel,,
+260396,The Amsterdam Inn,New York City,1.5,30.0,111,Boutique Hotel,,
+292140,Sohotel,New York City,3.0,40.0,1617,Hotel,None,
+295340,Days Inn by Wyndham Brooklyn,Brooklyn,2.0,25.0,368,Hotel,Days Inn,Wyndham Hotel Group
+4762540,The Brooklyn Experience,Brooklyn,,40.0,4,Guest House,,
+7363884,NobleDEN Hotel,New York City,4.0,45.0,990,Hotel,None,
+7816364,Executive Hotel LeSoleil,New York City,4.0,45.0,1222,Hotel,None,
+10345260,Dharma Home Suites JC at Paulus Hook,Jersey City,4.0,45.0,43,Condo,,
+11640620,Hotel Park 79,New York City,2.0,40.0,5,Small Hotel,,
+15035436,Be Local Chinatown,New York City,,10.0,1,Hostel,,
+93344,The Watson Hotel,New York City,3.5,35.0,4874,Hotel,None,
+122016,The Gracie Inn,New York City,2.5,30.0,185,B&B,,
+216224,Baisley House Bed and Breakfast,Brooklyn,,40.0,16,B&B,,
+646432,Signature Suites 455 Inn,New York City,,40.0,1,Condo,,
+651552,Park Slope Bed & Breakfast,Brooklyn,,45.0,21,B&B,,
+675616,The Plaza,New York City,5.0,45.0,2821,Hotel,Managed by AccorHotels,Accor
+1218720,"The Standard, High Line",New York City,4.0,40.0,3373,Hotel,The Standard,The Standard Hotels
+1456416,The Dominick Hotel,New York City,5.0,45.0,3413,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+1508000,A Cozy Mountain Rest Guest House,New York City,,,0,B&B,,
+1947936,Soho Bed and Breakfast,New York City,,25.0,2,B&B,,
+5535264,The Pier,Jersey City,4.0,40.0,10,Condo,,
+6582176,Park Hyatt New York,New York City,5.0,45.0,1963,Hotel,Hyatt,Hyatt Hotels Corporation
+14183968,Days Inn by Wyndham Brooklyn Borough Park,Brooklyn,3.0,40.0,4,Hotel,Days Inn,Wyndham Hotel Group
+93437,Hotel Edison Times Square,New York City,4.0,40.0,11767,Hotel,,
+93565,Hotel Stanford,New York City,3.0,40.0,1849,Hotel,,
+121981,Americana Inn,New York City,2.0,35.0,793,Hotel,,
+247805,Ramada by Wyndham Jersey City,Jersey City,2.0,35.0,1244,Hotel,Ramada,Wyndham Hotel Group
+673661,Sun Bright Hotel,New York City,1.0,20.0,272,Hostel,,
+1529213,Avenue Plaza Hotel,Brooklyn,3.0,45.0,53,Hotel,,
+1540349,West 46th Street Apartment,New York City,,25.0,53,Condo,,
+1553789,World Center Hotel,New York City,4.0,45.0,1203,Hotel,,
+1930621,Harlem Grand,New York City,,45.0,122,B&B,B&B Hotels,B&B Hotels Group
+2323069,Sacred Heart Residence,New York City,,40.0,54,Hostel,,
+99327,Fitzpatrick Grand Central,New York City,4.0,45.0,2731,Hotel,,
+1207039,Elegant Retreats,New York City,,30.0,1,B&B,,
+1234559,Holiday Inn New York City - Wall Street,New York City,3.5,40.0,797,Hotel,InterContinental,InterContinental Hotels Group PLC
+1903743,East Village Suites,New York City,3.0,40.0,146,Condo,,
+7250943,The Evergreen Hostel,Brooklyn,,50.0,1,Hostel,None,
+10476799,Cesar Suites at Southampton,Jersey City,,,0,Condo,,
+15307647,Splendid Apartment by Times SQ,New York City,,20.0,1,Limited Service Property,,
+224221,Library Hotel by Library Hotel Collection,New York City,4.0,50.0,4587,Hotel,None,
+1206493,388 Bergen House,Brooklyn,,40.0,1,B&B,,
+1497821,NY Oyado,New York City,,30.0,30,Condo,,
+1738973,Soldiers Sailors Marines Club,New York City,,35.0,49,Specialty Inn,,
+6701149,Midtown West Hotel,New York City,3.0,30.0,146,Hotel,None,
+7144541,255West Guesthouse,New York City,3.5,45.0,72,Guest House,,
+7930077,Upper East Side Apartments,New York City,3.0,15.0,2,Condo,,
+9809501,My City House,New York City,,50.0,1,Hostel,,
+11014365,Residence Inn by Marriott Jersey City,Jersey City,3.0,50.0,208,Hotel,Residence Inn,"Marriott International, Inc."
+12675805,MADE Hotel,New York City,,45.0,269,Hotel,,
+15698525,Deedee's Lofts at Grove,Jersey City,4.0,,0,Limited Service Property,,
+93340,Hotel Elysee by Library Hotel Collection,New York City,4.0,45.0,4631,Hotel,,
+294812,Signature SoHo Suites,New York City,,,0,Condo,,
+671388,Quality Inn Long Island City,Queens,2.5,40.0,456,Hotel,Quality Inn,"Choice Hotels International, Inc."
+1783324,Sheraton Tribeca New York Hotel,New York City,4.0,40.0,2294,Hotel,Sheraton,"Marriott International, Inc."
+8298268,Cesar Suites at River Court,Jersey City,,15.0,14,Condo,,
+13946524,Washington Street Apartments at Marbella,Jersey City,3.5,40.0,1,Condo,,
+122020,Chelsea Pines Inn,New York City,2.5,45.0,2300,Hotel,,
+650532,Jazz on the City Hostel,New York City,,30.0,38,Hostel,,
+1508132,The West Townhouse,New York City,,50.0,108,Condo,,
+2173604,Dream Downtown,New York City,4.5,45.0,4018,Hotel,Dream Hotel,Wyndham Hotel Group
+6217892,Flushing Motel,New York City,,35.0,6,Motel,None,
+11236004,Doubletree by Hilton New York Times Square West,New York City,4.0,35.0,1663,Hotel,Hilton Hotels,Hilton Worldwide
+13946532,Hudson Street Apartments at Liberty Towers,Jersey City,3.5,50.0,1,Condo,,
+14010788,"The Hoxton, Williamsburg",Brooklyn,4.0,45.0,91,Hotel,,
+93346,Salisbury Hotel,New York City,3.0,40.0,4200,Hotel,,
+142114,Days Inn by Wyndham Hotel New York City-Broadway,New York City,2.5,30.0,2204,Hotel,Days Inn,Wyndham Hotel Group
+216226,Garden Green Bed and Breakfast,Brooklyn,,30.0,13,B&B,,
+261410,Bowery's Whitehouse Hotel,New York City,1.0,20.0,355,Hostel,,
+290978,Hotel St. James,New York City,2.5,35.0,3035,Hotel,,
+568866,The Loralei B&B,Brooklyn,3.5,50.0,208,B&B,,
+601762,Blue Moon Hotel,New York City,3.0,35.0,615,Hotel,,
+1878946,Aloft Harlem,New York City,3.5,40.0,778,Hotel,Aloft,"Marriott International, Inc."
+3236642,Holiday Inn NYC - Lower East Side,New York City,4.0,40.0,777,Hotel,InterContinental,InterContinental Hotels Group PLC
+3613090,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,New York City,3.0,45.0,1691,Hotel,Fairfield Inn,"Marriott International, Inc."
+10541730,Arlo NoMad,New York City,4.0,45.0,1125,Hotel,,
+10679074,LUMA Hotel Times Square,New York City,4.0,45.0,668,Hotel,Independent,Independent
+13946530,Washington Street Apartments at Monaco,Jersey City,4.0,30.0,3,Condo,None,
+15751330,Jersey City Waterfront At The Pier - A Premier Furnished Apartment,Jersey City,,,0,Specialty Inn,,
+93345,Skyline Hotel,New York City,3.0,40.0,2839,Hotel,,
+1161761,Archstone East 39th,New York City,,,0,Condo,,
+1626017,MiHostel,New York City,,,0,Hostel,,
+2075681,Union Hotel,Brooklyn,2.5,30.0,418,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+7177505,Midwood Suites,Brooklyn,,30.0,10,Small Hotel,None,
+208452,Conrad New York,New York City,5.0,45.0,3941,Hotel,Hilton Hotels,Hilton Worldwide
+1199940,East Bridge,New York City,,40.0,1,Hotel,,
+1626052,Loftstel Williamsburg,Brooklyn,,50.0,1,Hostel,,
+1638724,Shkolnick Motel,Brooklyn,,,0,Motel,,
+1819972,Little Apple Manhattan Inn,New York City,,35.0,20,Guest House,,
+1986116,Hotel Vetiver,Queens,3.5,40.0,1220,Hotel,,
+6482500,Residences at 51st Street and 7th Avenue,New York City,,40.0,2,Condo,None,
+8482500,Jazz on Columbus Circle,New York City,2.0,35.0,213,Hostel,,
+8664004,Arlington Place Bed and Breakfast,Brooklyn,3.5,50.0,14,B&B,None,
+12596548,Hyatt Place Long Island City / New York City,Queens,3.0,45.0,215,Hotel,Hyatt,Hyatt Hotels Corporation
+98276,DoubleTree by Hilton Hotel & Suites Jersey City,Jersey City,3.5,40.0,1637,Hotel,Hilton Hotels,Hilton Worldwide
+235236,Oakwood Cosmopolitan,New York City,,40.0,1,Hotel,,
+284132,Akwaaba Mansion Bed & Breakfast,Brooklyn,,45.0,333,B&B,Akwaaba Bed and Breakfast Inns,Akwaaba
+1196772,Lefferts Manor Bed & Breakfast,Brooklyn,3.0,45.0,436,B&B,,
+1930980,The Condor Hotel,Brooklyn,3.5,45.0,1106,Hotel,,
+3226212,Fairfield Inn & Suites New York Queens/Queensboro Bridge,Queens,3.0,40.0,731,Hotel,Fairfield Inn,"Marriott International, Inc."
+5786212,Hilton Garden Inn New York/Central Park South-Midtown West,New York City,3.5,40.0,3114,Hotel,Hilton Hotels,Hilton Worldwide
+5960548,Hilton Garden Inn New York/Manhattan-Midtown East,New York City,3.5,40.0,1516,Hotel,Hilton Hotels,Hilton Worldwide
+7106532,Howard Johnson by Wyndham Long Island City,Queens,2.0,35.0,979,Hotel,Howard Johnson,Wyndham Hotel Group
+14450788,The Yale Club,New York City,,45.0,6,Specialty Hotel,,
+15521252,Racpanos Modern Stay On Ocean Avenue,Jersey City,3.0,,0,Limited Service Property,,
+93334,Excelsior Hotel,New York City,3.5,40.0,2292,Hotel,,
+93462,InterContinental New York Barclay,New York City,4.5,45.0,2010,Hotel,InterContinental,InterContinental Hotels Group PLC
+217622,Dylan Hotel NYC,New York City,4.0,35.0,1047,Hotel,None,
+225942,Park South Hotel,New York City,4.0,45.0,2865,Hotel,Joie de Vivre,Commune Hotels & Resorts
+1186070,"Marriott Vacation Club Pulse, New York City",New York City,4.0,45.0,2480,Hotel,Marriott,"Marriott International, Inc."
+1937558,At Home In Brooklyn,Brooklyn,,50.0,62,B&B,,
+2253206,TRYP New York City Times Square South,New York City,4.5,40.0,4480,Hotel,TRYP,Wyndham Hotel Group
+6420118,NY City Stay Upper East Side,New York City,,,0,Condo,None,
+7906966,The Melva Inn,New York City,2.5,30.0,28,Specialty Inn,,
+12697494,The Quincy Guesthouse,Brooklyn,,,0,Specialty Inn,,
+13275030,The Ultimate,Brooklyn,2.5,,0,Specialty Inn,,
+93338,Hotel Beacon,New York City,4.0,45.0,4617,Hotel,,
+93466,DoubleTree by Hilton Hotel Metropolitan - New York City,New York City,4.0,35.0,5871,Hotel,Hilton Hotels,Hilton Worldwide
+99354,Moderne Hotel,New York City,3.5,45.0,2140,Hotel,,
+217626,The Benjamin,New York City,4.5,45.0,3201,Hotel,,
+264986,Chelsea International Hostel,New York City,1.0,35.0,717,Hostel,,
+584986,Citadines Connect Fifth Avenue New York,New York City,3.0,35.0,40,Hotel,Citadines Apart hotel,The Ascott Limited
+737178,New York Presbyterian Guest Facility,New York City,,45.0,720,Condo,,
+1229210,The One Hundred,Brooklyn,,45.0,26,B&B,,
+1957274,AllCity at 50 Columbus,Jersey City,4.0,35.0,12,Condo,,
+3695770,Lxure,Brooklyn,3.0,45.0,48,Small Hotel,None,
+8035866,Hampton Inn Manhattan / Times Square Central,New York City,3.5,45.0,2618,Hotel,Hilton Hotels,Hilton Worldwide
+9453978,Courtyard Long Island City/New York Manhattan View,Queens,3.0,40.0,228,Hotel,Courtyard,"Marriott International, Inc."
+10438682,"The Vue, an Ascend Hotel Collection Member",Queens,2.5,40.0,67,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+11642010,Aloft Long Island City - Manhattan View,Queens,3.0,45.0,225,Hotel,Aloft,"Marriott International, Inc."
+99388,The Hotel @ New York City,New York City,2.5,40.0,1766,Hotel,Independent,Independent
+1200188,Brooklyn Suites,Brooklyn,,45.0,176,Condo,,
+80110,The Roger,New York City,4.0,45.0,4116,Hotel,,
+249710,Morningside Inn,New York City,2.0,25.0,914,Hotel,,
+298606,Chelsea Center Hostel,New York City,,35.0,38,Hostel,,
+589294,Rodeway Inn,Jersey City,2.0,25.0,103,Hotel,Rodeway Inn,"Choice Hotels International, Inc."
+1485678,Queens County Inn and Suites Long Island City,Queens,2.5,35.0,1987,Hotel,None,
+1806062,Cassa Hotel NY 45th Street,New York City,4.0,45.0,2589,Hotel,Independent,Independent
+2060398,Pointe Plaza Hotel,Brooklyn,3.0,40.0,827,Hotel,,
+2109422,Design Dream,New York City,,35.0,25,Hostel,,
+4232686,Viceroy Central Park New York,New York City,5.0,40.0,1805,Hotel,Viceroy,Viceroy Hotel Group
+4409070,Gabbs Bed & Breakfast,Brooklyn,,,0,B&B,,
+6420206,Residence Suites,New York City,,10.0,1,Condo,None,
+10533358,Carnegie Hotel,New York City,4.0,45.0,206,Hotel,,
+12280686,Days Inn by Wyndham Brooklyn Crown Heights,Brooklyn,2.5,30.0,41,Hotel,Days Inn,Wyndham Hotel Group
+15274350,Interfaith East Village,New York City,,,0,Limited Service Property,,
+93382,Washington Square Hotel,New York City,3.5,40.0,1704,Hotel,,
+208454,Sofitel New York,New York City,4.0,45.0,7206,Hotel,Managed by AccorHotels,Accor
+1058246,Central Park Studios at Lexington Ave. Co.,New York City,2.0,25.0,42,Hostel,,
+1164614,Third Ave House,New York City,,35.0,4,Hotel,,
+1605446,Apt 168,New York City,,45.0,20,Condo,,
+1719750,Macy's Apartments,New York City,,35.0,16,Condo,,
+2154438,Community Be Good Guesthouse,Brooklyn,,45.0,7,Guest House,,
+3583686,Residence Inn New York Manhattan / Midtown East,New York City,3.5,45.0,2050,Hotel,Residence Inn,"Marriott International, Inc."
+8857286,59th Street Bridge Suites,New York City,3.0,40.0,5,Condo,None,
+11854022,Crowne Plaza HY36 Midtown Manhattan,New York City,4.0,45.0,637,Hotel,InterContinental,InterContinental Hotels Group PLC
+15632326,Harlem Lofts,New York City,,,0,Limited Service Property,,
+93581,The Inn at Irving Place,New York City,4.0,40.0,96,Hotel,,
+234765,Oakwood Ocean At 1 West Street,New York City,,,0,Hotel,,
+254605,Hotel Shocard at Times Square,New York City,3.0,45.0,402,Hotel,,
+504589,American Dream Hostel,New York City,,40.0,302,Hostel,,
+1147661,National at Park Towers,New York City,,30.0,2,Hotel,,
+1235341,Carvi Hotel New York,New York City,3.0,40.0,644,Hotel,,
+1762573,Andaz 5th Avenue,New York City,4.5,45.0,2789,Hotel,Hyatt,Hyatt Hotels Corporation
+3533197,Hyatt Union Square New York,New York City,4.0,45.0,1918,Hotel,Hyatt,Hyatt Hotels Corporation
+7182733,THE PAUL NYC- Hotel New York City,New York City,4.0,40.0,957,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+7202189,Hilton Garden Inn Long Island City Queensboro Bridge,Queens,3.0,45.0,1008,Hotel,Hilton Hotels,Hilton Worldwide
+9739021,Choice International Double Rooms,Brooklyn,,,0,Lodge,,
+12273805,The Rockaway House Hotel,Brooklyn,2.0,10.0,1,Hotel,,
+247814,The Gatsby Hotel,New York City,3.5,40.0,116,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+288646,New York Connection Youth Hostel,Brooklyn,,40.0,4,Hostel,,
+313862,Soho House New York,New York City,4.0,45.0,279,Hotel,None,
+10846086,Four Points by Sheraton Manhattan Midtown West,New York City,3.0,45.0,187,Hotel,Four Points by Sheraton,"Marriott International, Inc."
+93421,Hotel Carter,New York City,1.0,25.0,4298,Hotel,,
+1214829,Doubletree Hotel Chelsea - New York City,New York City,4.0,35.0,2360,Hotel,Hilton Hotels,Hilton Worldwide
+1308397,West 57th Street by Hilton Club,New York City,4.0,45.0,1604,Hotel,Hilton Hotels,Hilton Worldwide
+1732589,Sleep Inn Brooklyn Downtown,Brooklyn,2.5,35.0,207,Hotel,Sleep Inn,"Choice Hotels International, Inc."
+1762669,Best Western Plus Arena Hotel,Brooklyn,2.5,40.0,748,Hotel,Best Western,"Best Western International, Inc."
+2258669,Hotel BPM Brooklyn,Brooklyn,2.0,35.0,792,Hotel,,
+93364,Hotel Deauville,New York City,2.0,40.0,667,Hotel,None,
+112052,The Mark,New York City,5.0,45.0,918,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+126260,Lotte New York Palace,New York City,4.5,45.0,4648,Hotel,Lotte Hotels & Resorts,"Hotel Lotte Co., Ltd."
+1488820,Kore Properties - 94,New York City,,35.0,3,Condo,,
+1783732,Orchard Guesthouse,New York City,,45.0,3,Lodge,,
+2439732,Cachet Boutique,New York City,4.0,35.0,262,Hotel,,
+3721780,Residences in the Financial District,New York City,,35.0,3,Condo,,
+5483188,The Rivieria New York,New York City,,50.0,1,Hostel,,
+12579252,Days Inn by Wyndham Brooklyn Marine Park,Brooklyn,2.5,35.0,47,Hotel,Days Inn,Wyndham Hotel Group
+93457,Hampton Inn Manhattan-Times Square North,New York City,3.0,45.0,6250,Hotel,Hilton Hotels,Hilton Worldwide
+93585,Lowell Hotel,New York City,5.0,45.0,384,Hotel,The Leading Hotels of the World,"The Leading Hotels of the World, Ltd"
+112017,Carlton Arms Hotel,New York City,2.0,35.0,423,Inn,,
+1146129,National at the Metropolis,New York City,,,0,Hotel,,
+5427089,Phoenix Hotel,Brooklyn,2.5,20.0,13,Small Hotel,,
+11827473,Gabriel's Luxury Suite,Brooklyn,,20.0,3,Condo,,
+12155281,Smart Place,Brooklyn,,50.0,1,Hostel,,
+14120593,225 Grand,Jersey City,4.0,,0,Condo,,
+14915217,Residence Inn Weehawken Port Imperial,Weehawken,3.0,40.0,1,Hotel,Residence Inn,"Marriott International, Inc."
+217616,Kimpton Muse Hotel,New York City,4.5,45.0,3507,Hotel,InterContinental,InterContinental Hotels Group PLC
+1544848,On the Hudson House,New York City,,20.0,1,B&B,,
+1676176,Comfort Inn Brooklyn,Brooklyn,,35.0,147,Hotel,Comfort Inn,"Choice Hotels International, Inc."
+1791248,Hotel Mulberry,New York City,3.0,45.0,662,Hotel,,
+6420112,5th Avenue Suites - New York,New York City,,20.0,16,Condo,None,
+12004496,Pelican New Jersey Residences,Jersey City,4.0,30.0,2,Condo,None,
+12221584,Gowanus Inn and Yard,Brooklyn,2.0,30.0,44,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+93623,Trump International Hotel and Tower New York,New York City,5.0,45.0,1578,Hotel,Trump,Trump Hotel Collection
+658359,Churchill at 15 Park Row,New York City,3.0,30.0,1,Condo,,
+674743,CITY ROOMS NYC SoHo,New York City,2.5,40.0,145,Hotel,,
+866615,Soho 54,New York City,3.0,40.0,1903,Hotel,Hilton Hotels,Hilton Worldwide
+1176247,Furnished Quarters Newport,Jersey City,,45.0,8,Hotel,,
+1488823,Kore Properties 73,New York City,,25.0,3,Condo,,
+7130807,Cambria Hotel New York - Chelsea,New York City,3.0,45.0,1202,Hotel,Cambria Suites,"Choice Hotels International, Inc."
+14149815,Moxy NYC Chelsea,New York City,4.0,50.0,7,Hotel,Moxy,"Marriott International, Inc."
+15327543,Townhouse on Greene Guest House,Brooklyn,,,0,Limited Service Property,,
+15530679,Residence Inn New York Manhattan/Financial District,New York City,,,0,Hotel,Residence Inn,"Marriott International, Inc."
+15610551,McSimon's Duplex,Brooklyn,3.0,50.0,1,Limited Service Property,,
+80087,Best Western Plus Hospitality House,New York City,2.5,45.0,1278,Hotel,Best Western,"Best Western International, Inc."
+1415127,The French Quarters Guest Apartments,New York City,3.0,45.0,1274,Hotel,,
+1464151,Four Points by Sheraton Midtown - Times Square,New York City,3.5,40.0,2487,Hotel,Four Points by Sheraton,"Marriott International, Inc."
+1508183,Stoney's Inn,Brooklyn,,45.0,2,B&B,,
+2600407,BridgeStreet Portside Towers,Jersey City,,,0,Condo,,
+4799063,Hyatt Centric Times Square New York,New York City,4.5,45.0,5080,Hotel,Hyatt,Hyatt Hotels Corporation
+10127191,LIC Hotel,Queens,3.5,45.0,477,Hotel,,
+99357,Mayfair Hotel,New York City,3.0,35.0,1036,Hotel,,
+113309,Fitzpatrick Manhattan Hotel,New York City,4.0,45.0,1577,Hotel,,
+217629,3 West Club,New York City,3.5,40.0,170,Hotel,,
+1155229,Royal Park Hotel,New York City,2.5,30.0,723,Hotel,,
+1174685,Aloft New York Brooklyn,Brooklyn,3.0,40.0,1142,Hotel,Aloft,"Marriott International, Inc."
+1203357,Chelsea Center East,New York City,,30.0,5,Inn,,
+1378973,Studio 75,New York City,,,0,Condo,,
+2225309,Dwell 76,Brooklyn,,20.0,5,Lodge,,
+3371677,Liberty Harbor Marina & RV Park,Jersey City,,30.0,192,Campground,,
+8625309,Sleep Inn Coney Island,Brooklyn,2.5,30.0,39,Hotel,,
+12963869,Global Luxury Suites at Newport,Jersey City,4.0,45.0,6,Condo,,
+15064989,Park West Hotel,New York City,3.0,20.0,22,Hotel,,
+15688605,Private Room in Time Square,New York City,,,0,Limited Service Property,,
+15735581,Brownstone Penthouse,Brooklyn,,,0,Specialty Inn,,
+93545,The Manhattan at Times Square Hotel,New York City,4.0,40.0,10969,Hotel,None,
+307945,Woogo - Central Park,New York City,3.0,30.0,266,Condo,,
+671465,Bubba and Bean (BB) Lodges,New York City,,45.0,264,Guest House,,
+2049257,Uchino Domitory,New York City,,15.0,3,Hostel,,
+6696297,Henry Norman Hotel,Brooklyn,3.5,50.0,835,Hotel,None,
+12297961,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,New York City,3.0,45.0,448,Hotel,Hilton Hotels,Hilton Worldwide
+225883,Candlewood Suites Jersey City,Jersey City,2.5,40.0,606,Hotel,InterContinental,InterContinental Hotels Group PLC
+636123,Best Western Plus Brooklyn Bay Hotel,Brooklyn,2.5,40.0,327,Hotel,Best Western,"Best Western International, Inc."
+650459,Hotel Le Bleu,Brooklyn,3.0,40.0,1148,Hotel,,
+1103707,NU Hotel,Brooklyn,3.5,45.0,1067,Hotel,,
+1879003,Four Points by Sheraton Long Island City Queensboro Bridge,Queens,3.0,40.0,570,Hotel,Four Points by Sheraton,"Marriott International, Inc."
+2340315,Hotel Indigo,Brooklyn,3.5,40.0,676,Hotel,InterContinental,InterContinental Hotels Group PLC
+2590171,BridgeStreet Liberty Towers,Jersey City,4.0,30.0,2,Condo,,
+3241819,Royal Suites Manhattan,New York City,,35.0,8,Lodge,,
+3252315,Seven Days Suites,Brooklyn,3.0,25.0,23,Guest House,,
+4446427,Hotel Boutique At Grand Central,New York City,4.0,45.0,809,Hotel,,
+14910939,Residence Inn by Marriott Weehawken Port Imperial,Weehawken,,45.0,8,Hotel,,
+224229,Hotel Riverside Studios,New York City,1.0,20.0,295,Hotel,,
+1164645,Eurostars Wall Street,New York City,4.0,35.0,343,Hotel,Eurostars,Hotusa Group
+1484261,Oakwood at the Blake,New York City,2.0,50.0,2,Hotel,Oakwood,Oakwood Worldwide
+1546341,Hotel 99,New York City,2.0,35.0,157,Specialty Inn,,
+1938661,Row NYC Hotel,New York City,4.0,35.0,23570,Hotel,None,
+4584805,The Gallery Guesthouse,Brooklyn,,50.0,4,Guest House,,
+6219365,Hotel Hugo,New York City,4.5,40.0,1845,Hotel,None,
+6418149,Habitat 101,Brooklyn,3.0,45.0,8,Condo,None,
+8085477,She-Fah Hotel,Union City,,35.0,3,Specialty Hotel,None,
+15649253,Global Luxury Suites at River,Hoboken,4.0,,0,Specialty Hotel,,
+93339,Westgate New York City,New York City,4.0,30.0,72,Hotel,Westgate Resorts,Westgate Resorts Group
+93467,Gardens Suites Hotel by Affinia,New York City,3.5,45.0,2129,Hotel,Affinia,Denihan Hospitality Group DHG
+217627,Belnord Hotel,New York City,2.5,35.0,1488,Hotel,,
+668187,1600 Broadway on the Square,New York City,2.0,40.0,19,Condo,,
+1456411,Royalton Park Avenue,New York City,5.0,45.0,2795,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+1746459,The Nolitan Hotel,New York City,3.5,45.0,1030,Hotel,,
+1786395,NoMo SoHo Hotel,New York City,4.5,40.0,1473,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+7352347,Hotel Indigo Lower East Side New York,New York City,4.5,45.0,1029,Hotel,InterContinental,InterContinental Hotels Group PLC
+10154139,Harbor Motor Inn,Brooklyn,,30.0,5,Motel,,
+15675035,Deedee's Lofts At Grove II,Jersey City,3.5,,0,Specialty Inn,,
+93430,IBEROSTAR 70 Park Avenue Hotel,New York City,4.0,40.0,942,Hotel,Iberostar Hotels & Resorts,Iberostar Hotels & Resorts
+1144054,Chelsmore Apartments,New York City,,40.0,27,Condo,,
+1776886,Sanctuary NYC Retreats,New York City,3.0,45.0,238,Specialty B&B,,
+2290038,New York Apartments Hotel - Extended Stay,New York City,,40.0,4,Specialty Inn,,
+5888246,Madison LES Hotel,New York City,3.0,40.0,205,Hotel,Comfort Inn,"Choice Hotels International, Inc."
+15288822,Springhill Suites by Marriott New York Manhattan/Times Square 36th St.,New York City,3.5,35.0,3,Hotel,Springhill Suites,"Marriott International, Inc."
+93520,Park Central Hotel New York,New York City,4.0,40.0,6281,Hotel,,
+632656,Honey's Bed and Breakfast,Brooklyn,,45.0,68,B&B,,
+651216,Beekman Apartments,New York City,,30.0,17,Hotel,,
+675664,A Garden In Chelsea,New York City,,50.0,140,B&B,,
+1157328,Grove Pointe Apartments,Jersey City,3.0,40.0,22,Condo,,
+1157456,Four Points by Sheraton Manhattan SoHo Village,New York City,3.5,40.0,1020,Hotel,Four Points by Sheraton,"Marriott International, Inc."
+1699664,Sakuratei,New York City,,25.0,4,Condo,,
+8126672,The Tillary Hotel,Brooklyn,3.5,40.0,678,Hotel,None,
+8872656,Manhattan Bowery Lodge,New York City,2.0,25.0,44,Lodge,,
+112019,Chelsea Savoy Hotel,New York City,2.0,40.0,775,Hotel,,
+1157523,Imperial Hotel,Brooklyn,,20.0,11,Hotel,,
+1509139,Highbridge House 173rd Street,New York City,,,0,Hostel,,
+2151571,Hotel Americano,New York City,4.5,35.0,517,Hotel,,
+8526227,Upper East Guesthouse,New York City,,,0,Hostel,None,
+8595091,La Quinta Inn & Suites Brooklyn East,Brooklyn,2.5,45.0,79,Hotel,La Quinta Inn & Suites,"La Quinta Worldwide, LLC."
+10131859,EVEN Hotel New York - Midtown East,New York City,4.0,45.0,784,Hotel,InterContinental,InterContinental Hotels Group PLC
+10149907,Midtown Lodging,New York City,,40.0,16,Lodge,,
+13451795,The Times Square EDITION,New York City,4.0,,0,Hotel,EDITION Hotels,"Marriott International, Inc."
+15607187,Green Holidays Apartments,New York City,3.5,,0,Specialty Inn,,
+93374,Off Soho Suites,New York City,2.0,35.0,299,Hotel,,
+99774,The Hotel @ Fifth Avenue,New York City,3.5,40.0,2834,Hotel,Independent,Independent
+112062,The Time New York,New York City,4.5,45.0,1024,Hotel,None,
+118718,The Townhouse Inn of Chelsea,New York City,3.5,45.0,424,B&B,,
+566718,Park House Hotel,Brooklyn,,40.0,169,Hotel,,
+1006654,Jersey City Bed & Breakfast,Jersey City,2.0,40.0,60,B&B,,
+93625,Hotel Wales,New York City,3.5,40.0,933,Hotel,,
+268217,Oakwood at 777 6th Avenue,New York City,3.0,50.0,4,Hotel,,
+496569,The Holland Hotel,Jersey City,2.5,40.0,728,Hotel,,
+641209,Hilton Garden Inn New York/Manhattan-Chelsea,New York City,3.5,40.0,2289,Hotel,Hilton Hotels,Hilton Worldwide
+1534905,Sleep Inn - Long Island City,Queens,2.5,40.0,970,Hotel,Sleep Inn,"Choice Hotels International, Inc."
+3529145,Holiday Inn Express Manhattan Times Square South,New York City,3.0,45.0,1346,Hotel,InterContinental,InterContinental Hotels Group PLC
+12645689,Broadway Suite,New York City,,20.0,8,Condo,,
+15327417,Walker Hotel Tribeca,New York City,,,0,Small Hotel,,
+15354041,10 Minutes to World Trade Center,Jersey City,,,0,Limited Service Property,,
+630409,The London NYC,New York City,4.5,45.0,4094,Hotel,Hilton Hotels,Hilton Worldwide
+1197833,The Village House NY,New York City,,40.0,44,Condo,,
+1485961,Andaz Wall Street,New York City,4.5,45.0,3288,Hotel,Hyatt,Hyatt Hotels Corporation
+1879049,"Brooklyn Way Hotel, BW Signature Collection",Brooklyn,2.5,40.0,1372,Hotel,Best Western,"Best Western International, Inc."
+3353481,East Hampton Towers,Jersey City,3.5,50.0,2,Condo,,
+4868361,NYC Hostel,Brooklyn,,35.0,28,Hostel,,
+9761545,Courtyard New York Downtown Manhattan / World Trade Center Area,New York City,3.5,40.0,651,Hotel,Courtyard,"Marriott International, Inc."
+10040329,11 Howard,New York City,5.0,45.0,703,Hotel,,
+12533513,PUBLIC,New York City,4.0,45.0,651,Hotel,,
+99389,The Evelyn,New York City,4.0,50.0,114,Hotel,,
+118717,Greenwich Village Habitue,New York City,3.0,45.0,193,B&B,,
+939709,Park Slope Inn,Brooklyn,,45.0,74,Condo,,
+1060157,Best Western Bowery Hanbee Hotel,New York City,3.0,40.0,1472,Hotel,Best Western,"Best Western International, Inc."
+1161789,Inter-Continental Central Park South New York,New York City,4.0,45.0,5,Hotel,None,
+3533117,Lefferts Gardens Residence B&B,Brooklyn,2.5,35.0,35,B&B,None,
+12064061,La Quinta Inn & Suites Brooklyn Central,Brooklyn,2.5,30.0,55,Hotel,La Quinta Inn & Suites,"La Quinta Worldwide, LLC."
+15655741,Caprice Luxurious Stay,Jersey City,3.5,,0,Limited Service Property,,
+93464,Parker New York,New York City,3.0,40.0,6153,Hotel,Le Meridien,"Marriott International, Inc."
+99352,Hilton Garden Inn Times Square,New York City,3.5,45.0,8181,Hotel,Hilton Hotels,Hilton Worldwide
+1510040,Kore Properties - 92,New York City,,30.0,1,Condo,,
+2464152,Wyndham Garden Long Island City,Queens,3.5,40.0,1218,Hotel,Wyndham Garden,Wyndham Hotel Group
+5958296,Mulberry Suites NYC,New York City,2.0,50.0,1,Condo,,
+6476696,Chez Oseye Bed & Breakfast,New York City,,,0,B&B,None,
+10184216,Hilton Brooklyn New York,Brooklyn,4.0,45.0,681,Hotel,Hilton Hotels,Hilton Worldwide
+12449176,Global Luxury Suites at Metropolitan,Jersey City,4.0,35.0,8,Condo,,
+13140760,Feather Factory Hotel,Queens,2.5,35.0,26,Hotel,,
+15647128,Skyline Luxury Home Suites At Newport II,Jersey City,4.0,40.0,1,Condo,,
+15688600,Apartments Upper West Side,New York City,,,0,Condo,,
+93333,The Wolcott Hotel,New York City,2.5,40.0,2710,Hotel,,
+93589,The Michelangelo Hotel,New York City,5.0,45.0,4158,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+112021,Broadway at Times Square Hotel,New York City,3.0,40.0,2260,Hotel,Independent,Independent
+122005,The New Yorker a Wyndham Hotel,New York City,2.0,40.0,13628,Hotel,Wyndham,Wyndham Hotel Group
+1150357,Highbridge House,New York City,,30.0,1,Hostel,,
+1155221,Upper East Suites & Duplex,New York City,,,0,Condo,,
+1539093,Serenity at Home Guest House LLC,Brooklyn,3.0,45.0,34,Guest House,,
+1631253,139 Norfolk st.,New York City,,,0,Lodge,,
+3426837,The Williamsburg Guesthouse,Brooklyn,,40.0,5,Lodge,,
+8355861,Wyndham Garden Brooklyn Sunset Park,Brooklyn,4.0,45.0,348,Hotel,,
+12142741,La Belle Etoile Hostel,Brooklyn,,,0,Hostel,,
+14095381,Moxy NYC Downtown,New York City,4.0,35.0,35,Hotel,Moxy,"Marriott International, Inc."
+15642261,Manhattan Lodging,New York City,,,0,Limited Service Property,,
+502408,Fifty Hotel & Suites by Affinia,New York City,4.0,40.0,1837,Hotel,Affinia,Denihan Hospitality Group DHG
+518280,Room Mate Grace,New York City,3.5,45.0,1555,Hotel,,
+620040,Wingate by Wyndham Manhattan Midtown,New York City,3.0,40.0,2430,Hotel,Wingate,Wyndham Hotel Group
+1155336,Time Square Apartments,New York City,2.0,35.0,30,Condo,,
+1177864,The GEM Hotel Chelsea,New York City,3.0,40.0,1337,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+1201800,NYC Guesthouse,New York City,,30.0,8,Hostel,,
+1237128,Hotel Hayden,New York City,4.0,40.0,551,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+1878408,Kore Properties 83,New York City,,,0,Condo,,
+5039880,Courtyard New York Manhattan/Chelsea,New York City,3.5,45.0,1027,Hotel,Courtyard,"Marriott International, Inc."
+7645960,Malcolm X Hostel,Brooklyn,2.0,20.0,1,Hostel,None,
+7737096,Holiday Inn New York City - Times Square,New York City,3.5,40.0,1003,Hotel,InterContinental,InterContinental Hotels Group PLC
+121987,The Milburn Hotel,New York City,3.0,40.0,1197,Hotel,,
+1049347,The Melrose Hotel,New York City,4.0,35.0,3,Hotel,,
+1646979,Princess Lefferts Hotel,Brooklyn,,,0,Motel,,
+6922883,Riverside Terrace New York,New York City,,35.0,12,Condo,None,
+10390915,Hyatt House New York/Chelsea,New York City,3.5,45.0,633,Hotel,Hyatt,Hyatt Hotels Corporation
+15031811,Suleika's Place,Jersey City,,,0,Guest House,,
+15197955,Sister City,New York City,,,0,Specialty Hotel,,
+15353987,Bowers Luxury Condos,Jersey City,,,0,Condo,,
+222959,The Wagner at the Battery,New York City,5.0,45.0,2613,Hotel,The Leading Hotels of the World,"The Leading Hotels of the World, Ltd"
+249711,The Hotel at Times Square,New York City,3.0,40.0,3946,Hotel,Independent,Independent
+281071,"Mandarin Oriental, New York",New York City,5.0,45.0,1673,Hotel,Mandarin Oriental,Mandarin Oriental Hotel Group
+620399,Duane Street Hotel,New York City,4.0,45.0,749,Hotel,,
+1139055,Holiday Inn L.I. City - Manhattan View,Queens,3.0,40.0,949,Hotel,InterContinental,InterContinental Hotels Group PLC
+1540975,Churchill At Marbella,Jersey City,3.5,35.0,7,Condo,,
+1542383,AAE New York Hostel Inn Queen,New York City,1.0,30.0,3,Hostel,,
+2554351,Hyatt Place New York Midtown South,New York City,3.5,40.0,2440,Hotel,Hyatt,Hyatt Hotels Corporation
+3952879,Sugar Hill Suites,New York City,3.0,25.0,28,B&B,,
+93477,New York Marriott Downtown,New York City,4.0,40.0,2037,Hotel,Marriott,"Marriott International, Inc."
+99365,Da Vinci Hotel,New York City,3.0,35.0,605,Hotel,,
+113317,Casablanca Hotel by Library Hotel Collection,New York City,4.0,50.0,6505,Hotel,,
+670501,Lexington Inn,Brooklyn,2.0,20.0,92,Hotel,Lexington by Vantage,Vantage Hospitality
+1207461,Saint Nicholas Inn,New York City,2.0,40.0,94,Hotel,,
+1567653,Harlem Bed and Breakfast,New York City,1.5,35.0,78,B&B,,
+5960997,Oakwood at The Nash,New York City,4.0,40.0,86,Condo,Oakwood,Oakwood Worldwide
+12076837,"Hotel Henri, A Wyndham Hotel",New York City,3.5,40.0,494,Hotel,Wyndham,Wyndham Hotel Group
+13946533,70 Greene Street,Jersey City,3.5,30.0,12,Condo,,
+15216421,Northern Lights Mansion,New York City,3.5,,0,Limited Service Property,,
+15530661,Courtyard New York Manhattan/Financial District,New York City,,,0,Small Hotel,Courtyard,"Marriott International, Inc."
+15798821,Fairfield Inn & Suites by Marriott/World Trade Center Area,New York City,3.0,45.0,3,Hotel,Fairfield Inn,"Marriott International, Inc."
+582832,Imperial Court Hotel,New York City,2.0,30.0,505,Specialty Hotel,,
+1191216,Downtown Luxury Collection,Jersey City,,40.0,2,Condo,,
+1201072,Ace Hotel New York,New York City,4.0,40.0,1965,Hotel,,
+1456560,Kimpton Hotel Eventi,New York City,5.0,45.0,3788,Hotel,InterContinental,InterContinental Hotels Group PLC
+1465008,Holiday Inn Express New York City-Wall Street,New York City,3.0,35.0,584,Hotel,InterContinental,InterContinental Hotels Group PLC
+1646128,InterContinental New York Times Square,New York City,5.0,40.0,6575,Hotel,InterContinental,InterContinental Hotels Group PLC
+2153904,The Griffin Bed and Breakfast,Brooklyn,,45.0,10,B&B,,
+2347696,The Isabella At Ditmas Park Bed & Breakfast,Brooklyn,,40.0,6,B&B,,
+2398384,NY Moore Hostel,Brooklyn,2.0,45.0,229,Hostel,,
+10768944,Park Guesthouse,Brooklyn,,30.0,1,Hostel,,
+14031408,Collective Governors Island,New York City,2.0,40.0,122,Campground,,
+472146,Comfort Inn Brooklyn,Brooklyn,2.5,35.0,69,Hotel,Comfort Inn,"Choice Hotels International, Inc."
+3212498,East Village Hotel,New York City,3.0,35.0,140,Small Hotel,,
+7314002,Baccarat Hotel & Residences New York,New York City,5.0,45.0,562,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+12683986,The Fairview,Brooklyn,3.0,50.0,11,B&B,,
+12708178,U Hotel,New York City,,35.0,8,Hotel,,
+12845266,Mondrian Park Avenue,New York City,4.5,45.0,395,Hotel,Mondrian,Morgans Hotel Group
+93376,Night Times Square,New York City,4.0,35.0,5174,Hotel,Night Hotel,Wyndham Hotel Group
+99392,Hotel Metro,New York City,3.0,45.0,4582,Hotel,,
+112064,Warwick New York,New York City,4.5,45.0,4880,Hotel,Warwick Hotels,Warwick International Hotels (WIH)
+249920,Midwood Suites,Brooklyn,,30.0,81,Hotel,,
+622912,Atlantic Motor Inn,Brooklyn,2.0,20.0,14,Hotel,,
+1034304,Michael,New York City,2.0,40.0,39,Guest House,,
+5971904,West 119th B&B,New York City,,50.0,46,Guest House,B&B Hotels,B&B Hotels Group
+6410944,United Nations Apartment Hotel,New York City,2.5,20.0,25,Condo,None,
+6591552,322 East 39 Street Apartments,New York City,,35.0,2,Condo,None,
+6610496,WaterView Apartment - New York,New York City,,40.0,2,Condo,None,
+10751680,Hotel Richland New York,New York City,2.5,40.0,706,Hotel,,
+93534,Renaissance New York Times Square Hotel,New York City,4.0,45.0,2642,Hotel,Renaissance,"Marriott International, Inc."
+235230,Bridgestreet 85 John Street,New York City,,45.0,2,Villa,,
+1202526,Times Square West Hostel,New York City,,40.0,2,Hostel,,
+1448670,Hotel Mimosa,New York City,2.5,45.0,151,Hotel,None,
+1811422,Lincoln Road Bed & Breakfast,New York City,,50.0,4,Lodge,,
+4274398,Courtyard New York Manhattan/Times Square West,New York City,3.5,45.0,1306,Hotel,Courtyard,"Marriott International, Inc."
+7621342,Cesar Suites At Grand,Jersey City,,,0,Condo,None,
+12979678,The Pandora Guest House,Brooklyn,,,0,Guest House,,
+113300,Omni Berkshire Place,New York City,4.5,45.0,4574,Hotel,Omni Hotels,Omni Hotels
+122004,Phillips Club,New York City,,45.0,103,Hotel,,
+2600980,BridgeStreet The Monaco,Jersey City,,30.0,13,Condo,,
+3849364,Pacific Loft Guesthouse,New York City,,25.0,11,Hostel,,
+14149780,Aliz Hotel Times Square,New York City,4.0,40.0,200,Boutique Hotel,,
+15789204,Fairfield Inn & Suites,New York City,,40.0,1,Hotel,Marriott,"Marriott International, Inc."
+93569,Belvedere Hotel,New York City,3.5,40.0,6013,Hotel,The Leading Hotels of the World,"The Leading Hotels of the World, Ltd"
+121985,Downtown Athletic Center,New York City,,45.0,3,Hotel,,
+157057,Chambers Hotel,New York City,4.0,45.0,728,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+540545,Chelsea Inn - 11th Avenue,New York City,,20.0,18,Hotel,,
+549761,Dexter House Hostel,New York City,,25.0,99,Hostel,,
+578305,Residence Inn New York Manhattan/Times Square,New York City,3.5,45.0,2701,Hotel,Residence Inn,"Marriott International, Inc."
+622721,Holiday Inn Express Brooklyn,Brooklyn,3.0,35.0,426,Hotel,InterContinental,InterContinental Hotels Group PLC
+1014913,Chez Michelle,New York City,,50.0,186,Lodge,,
+1529345,Beacon Light Motel,New York City,,30.0,1,Motel,,
+10421761,1 Hotel Brooklyn Bridge,Brooklyn,5.0,45.0,893,Hotel,,
+12675201,The Lexington,Brooklyn,,,0,Specialty Inn,,
+12823041,City Rooms NYC - Times Square,New York City,2.5,40.0,48,Small Hotel,,
+80092,Inn New York City,New York City,4.5,50.0,284,Hotel,,
+235228,Midtown Convention Center Hotel,New York City,3.0,30.0,902,Hotel,Magnuson Hotels,Magnuson Hotels
+1149404,Doubletree By Hilton - Times Square South,New York City,4.0,35.0,2362,Hotel,Hilton Hotels,Hilton Worldwide
+1390172,Fairfield Inn & Suites New York Manhattan/Times Square,New York City,3.0,40.0,2178,Hotel,Fairfield Inn,"Marriott International, Inc."
+3522780,Walker Hotel Greenwich Village,New York City,4.5,45.0,1238,Hotel,,
+6577372,Upper Manhattan Deluxe,New York City,,,0,Condo,None,
+226805,The Harlem YMCA,New York City,2.0,35.0,223,Hostel,,
+570101,La Quinta Inn Queens (New York City),Queens,2.5,35.0,933,Hotel,La Quinta Inn & Suites,"La Quinta Worldwide, LLC."
+1462005,W New York - Downtown,New York City,4.5,40.0,1311,Hotel,W Hotels,"Marriott International, Inc."
+1500405,Hampton Inn Manhattan/Times Square South,New York City,3.0,40.0,2846,Hotel,Hilton Hotels,Hilton Worldwide
+1852917,Element New York Times Square West,New York City,3.5,40.0,4807,Hotel,Element,"Marriott International, Inc."
+4053109,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,New York City,3.5,45.0,1157,Hotel,Springhill Suites,"Marriott International, Inc."
+5040757,"Homewood Suites by Hilton New York/Midtown Manhattan Times Square-South, NY",New York City,3.5,45.0,3135,Hotel,Hilton Hotels,Hilton Worldwide
+6023925,Residence Inn New York Manhattan/Central Park,New York City,3.5,45.0,1537,Hotel,Residence Inn,"Marriott International, Inc."
+8722421,U.S. Pacific Hotel,New York City,,30.0,73,Hotel,,
+11726197,Hotel RL Brooklyn,Brooklyn,3.0,35.0,118,Hotel,Hotel RL by Red Lion,Red Lion Hotels Corporation
+80107,Roger Smith Hotel,New York City,3.0,40.0,2547,Hotel,Worldhotels,Worldhotels
+93419,"The Carlyle, A Rosewood Hotel",New York City,5.0,45.0,904,Hotel,Rosewood,Rosewood Hotel Group
+99307,Wellington Hotel,New York City,3.0,35.0,7824,Hotel,,
+248683,Super 8 by Wyndham Long Island City LGA Hotel,Queens,2.0,35.0,207,Hotel,Super 8,Wyndham Hotel Group
+548331,Galaxy Motel,Brooklyn,2.0,25.0,26,Motel,,
+611947,New York Hilton Midtown,New York City,4.0,35.0,12543,Hotel,Hilton Hotels,Hilton Worldwide
+1158763,Hampton Inn Manhattan-35th St/Empire State Bldg,New York City,3.0,40.0,2519,Hotel,Hilton Hotels,Hilton Worldwide
+1858923,DoubleTree by Hilton Hotel New York City - Financial District,New York City,4.0,35.0,2908,Hotel,Hilton Hotels,Hilton Worldwide
+3572587,Hampton Inn Manhattan Grand Central,New York City,3.0,45.0,2631,Hotel,Hilton Hotels,Hilton Worldwide
+3794283,Citiview Guesthouse,Queens,,40.0,1,Guest House,,
+6640491,Archstone Hoboken,Hoboken,,,0,Condo,None,
+7196011,Comfort Inn Sunset Park / Park Slope,New York City,2.0,40.0,35,Hotel,Comfort Inn,"Choice Hotels International, Inc."
+15527275,Holiday Inn Express & Suites Jersey City - Holland Tunnel,Jersey City,,,0,Hotel,Holiday Inn Express,InterContinental Hotels Group PLC
+93351,The Frederick Hotel,New York City,4.0,40.0,2280,Hotel,,
+93607,Loews Regency New York Hotel,New York City,5.0,45.0,2014,Hotel,Loews,Loews Hotels & Resorts
+112039,Hotel Newton,New York City,3.0,40.0,1712,Hotel,,
+612263,Hotel Mela,New York City,4.0,40.0,4761,Hotel,,
+1149479,Museum Bed and Breakfast,New York City,,40.0,1,B&B,,
+1467303,The Blue Porch Bed & Breakfast,Brooklyn,,50.0,121,B&B,,
+1862567,Fairfield Inn & Suites New York Brooklyn,Brooklyn,2.5,40.0,759,Hotel,Fairfield Inn,"Marriott International, Inc."
+2614311,The Vue Express @ 39th Street,Brooklyn,2.0,25.0,19,Hotel,None,
+3973287,Best Western Premier Herald Square,New York City,3.0,45.0,2300,Hotel,Best Western,"Best Western International, Inc."
+6877735,Fairfield Inn New York Manhattan/Financial District,New York City,3.0,40.0,534,Hotel,Fairfield Inn,"Marriott International, Inc."
+7098279,Manhattan Hostel,New York City,,25.0,31,Hostel,None,
+7787303,The New York EDITION,New York City,5.0,45.0,1381,Hotel,EDITION Hotels,"Marriott International, Inc."
+8515751,Hotel Riu Plaza New York Times Square,New York City,4.0,45.0,3579,Hotel,RIU Hotels & Resorts,RIU Hotels & Resorts Group
+12695463,AC Hotel by Marriott New York Times Square,New York City,3.5,45.0,231,Hotel,AC Hotels,"Marriott International, Inc."
+93561,Soho Grand Hotel,New York City,4.5,40.0,3396,Hotel,,
+99321,The Manhattan Club,New York City,4.0,40.0,1652,Hotel,,
+4972409,The Marlton Hotel,New York City,4.5,45.0,721,Hotel,,
+5483129,Five Spot Loft,New York City,,25.0,15,Hostel,,
+6123897,Mod-Lodge,Brooklyn,,10.0,1,Cottage,None,
+15843961,Montecarlo Luxurious Stay,Jersey City,3.5,,0,Limited Service Property,,
+93450,Grand Hyatt New York,New York City,4.0,35.0,10530,Hotel,Hyatt,Hyatt Hotels Corporation
+99466,New York Marriott at the Brooklyn Bridge,Brooklyn,4.0,40.0,688,Hotel,Marriott,"Marriott International, Inc."
+121994,Hostelling International - New York,New York City,2.0,45.0,1932,Hostel,International Youth Hostel,International Youth Hostel
+234762,The Quin Central Park by Hilton Club,New York City,5.0,45.0,3402,Hotel,Hilton Hotels,Hilton Worldwide
+287626,Gansevoort Meatpacking NYC,New York City,4.5,40.0,2050,Hotel,,
+609930,Saints and Sinners Bed and Breakfast,Brooklyn,,25.0,4,B&B,,
+1007626,Hotel Le Jolie,Brooklyn,2.5,45.0,1697,Hotel,,
+10177034,The Metropolitan,Brooklyn,2.5,25.0,5,Hotel,None,
+10758026,Bogart Hotel,Brooklyn,2.5,30.0,53,Hotel,,
+12913546,The Allen Hotel,New York City,3.5,40.0,99,Hotel,,
+15115402,Merrion Row Hotel and Public House,New York City,4.0,50.0,47,Hotel,,
+15638538,Tribeca Lofts,New York City,,10.0,1,Limited Service Property,,
+577738,North Brooklyn / 12 Towns YMCA,Brooklyn,,20.0,6,Hostel,,
+1465162,Staybridge Suites Times Square - New York City,New York City,3.5,45.0,6267,Hotel,InterContinental,InterContinental Hotels Group PLC
+1489098,East Village Apartments by Sudha,New York City,,50.0,387,Condo,,
+3618762,Hotel Five44,New York City,3.0,30.0,111,Small Hotel,,
+5072714,The Broome,New York City,4.0,50.0,576,Hotel,,
+15636426,Hello Broadway,New York City,3.0,,0,Limited Service Property,,
+653810,Eden House Apartment,New York City,,25.0,4,Guest House,,
+1503474,"Distrikt Hotel New York City, Tapestry Collection by Hilton",New York City,4.0,45.0,6179,Hotel,Tapestry Collection by Hilton,Hilton Worldwide
+1800818,Sankofa Aban BnB,Brooklyn,2.5,45.0,61,Guest House,,
+2555634,Alma Mathews House,New York City,,40.0,1,Specialty Inn,,
+7789170,Holiday Inn Brooklyn Downtown,Brooklyn,3.5,40.0,410,Hotel,InterContinental,InterContinental Hotels Group PLC
+13320178,The Brooklyn House by Living Lab,Brooklyn,,15.0,7,Lodge,,
+13748466,The Grand NYC,New York City,2.0,15.0,49,Condo,,
+15271026,Comfort Inn And Suites Maspeth,Queens,,,0,Inn,,
+15632114,Excellent Apartment by Central Park,New York City,,,0,Guest House,,
+93470,NH New York Jolly Madison Towers,New York City,3.5,35.0,2817,Hotel,NH Hotels,NH Hotels
+122014,"Gild Hall, a Thompson Hotel",New York City,4.5,45.0,2041,Hotel,Thompson,Commune Hotels & Resorts
+217630,414 Hotel,New York City,3.5,45.0,1636,Hotel,,
+571166,Gramercy Park Hotel,New York City,5.0,45.0,1598,Hotel,,
+6728350,Times Square Towers,New York City,,30.0,13,Condo,None,
+8625310,Williamsburg Hostel,Brooklyn,2.0,30.0,2,Hostel,,
+12301470,Moxy NYC Times Square,New York City,4.0,40.0,1243,Hotel,Moxy,"Marriott International, Inc."
+15650590,Global Luxury Suites at Washington,Jersey City,4.0,,0,Specialty Hotel,,
+93606,Hotel Plaza Athenee,New York City,5.0,45.0,835,Hotel,The Leading Hotels of the World,"The Leading Hotels of the World, Ltd"
+290982,La Semana Hotel,New York City,3.0,15.0,32,Hotel,,
+630950,Holiday Inn Express New York City - Chelsea,New York City,3.0,40.0,2248,Hotel,InterContinental,InterContinental Hotels Group PLC
+651430,Churchill Suites East Side,New York City,3.0,,0,Condo,,
+1146278,Oakwood at West 53rd,New York City,,,0,Hotel,,
+1465254,Sheraton Lincoln Harbor Hotel,Weehawken,3.5,40.0,1514,Hotel,Sheraton,"Marriott International, Inc."
+1500326,Best Western Plus Plaza Hotel,Queens,2.5,40.0,2485,Hotel,Best Western,"Best Western International, Inc."
+1595302,"Club Quarters Hotel, World Trade Center",New York City,4.0,45.0,1957,Hotel,Club Quarters,Club Quarters
+93579,Park Lane Hotel,New York City,4.0,40.0,8181,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+99467,BEST WESTERN Gregory Hotel,Brooklyn,2.5,40.0,441,Hotel,Best Western,"Best Western International, Inc."
+296075,Dekoven Suites,Brooklyn,,45.0,95,B&B,,
+6857483,Yoga Hostel,Brooklyn,,,0,Hostel,None,
+8505227,Cambria Hotel New York - Times Square,New York City,3.0,45.0,1097,Hotel,Cambria Suites,"Choice Hotels International, Inc."
+14191627,Econolodge,New York City,,40.0,3,Lodge,,
+80081,Chelsea Inn - 17th Street,New York City,3.0,30.0,214,Hotel,,
+99281,The Lucerne Hotel,New York City,4.0,45.0,2626,Hotel,,
+1161809,The Helmsley Windsor,New York City,3.0,45.0,14,Hotel,,
+1720145,San Fermin B&B,New York City,,50.0,732,Guest House,,
+1888977,The Pearl Hotel,New York City,4.0,45.0,2610,Hotel,,
+3567057,Hotel Bliss,Brooklyn,2.5,30.0,25,Small Hotel,,
+4457041,Fairfield Inn & Suites New York Manhattan/Downtown East,New York City,2.5,40.0,453,Hotel,Fairfield Inn,"Marriott International, Inc."
+6581329,Serene Homes E25,New York City,3.0,10.0,1,Condo,None,
+6581841,Dharma Home Suites JC At Exchange Place,Jersey City,4.0,45.0,87,Condo,None,
+10846801,The Whitby Hotel,New York City,,50.0,104,Hotel,Firmdale,Firmdale Hotels
+14013137,The Residences by Hilton Club,New York City,,45.0,73,Hotel,Hilton Hotels,Hilton Worldwide
+14212433,M Suites at Newport,Jersey City,3.5,10.0,2,Condo,,
+112053,The Mercer Hotel,New York City,4.0,45.0,315,Hotel,,
+214197,Hotel Pennsylvania,New York City,2.5,25.0,7861,Hotel,,
+498869,Hampton Inn Manhattan - Madison Square Garden Area,New York City,3.0,45.0,2275,Hotel,Hilton Hotels,Hilton Worldwide
+673077,Lord & Moris - Times Square Hotel,New York City,3.0,25.0,97,Hotel,Red Roof Inns,"Red Roof Inns, Inc."
+1536437,Kore 58,New York City,,,0,Condo,,
+7792565,Boro Hotel,Queens,4.5,45.0,812,Hotel,None,
+13800117,Executive Class at MTS Hotel,New York City,4.0,35.0,10,Hotel,,
+15530677,Renaissance New York Chelsea Hotel,New York City,3.5,,0,Hotel,Renaissance,"Marriott International, Inc."
+1128769,SIXTY LES,New York City,4.5,40.0,1313,Hotel,Sixty,Sixty Hotels
+1583937,Redford Hotel,New York City,2.5,35.0,52,Hotel,None,
+4353985,Guest House I enjoy NY,New York City,,50.0,218,Hostel,,
+6542529,Hampton Inn Brooklyn/Downtown,Brooklyn,3.0,45.0,1239,Hotel,Hilton Hotels,Hilton Worldwide
+6555841,The Leon Hotel,New York City,3.5,45.0,447,Hotel,None,
+75711,The Gallivant Times Square,New York City,3.5,35.0,2287,Hotel,Independent,Independent
+99391,Courtyard New York Manhattan/Fifth Avenue,New York City,3.5,40.0,1007,Hotel,Courtyard,"Marriott International, Inc."
+113343,Marrakech Hotel on Broadway,New York City,3.0,30.0,1789,Hotel,None,
+1053375,Isabella's Suites,Jersey City,,,0,B&B,,
+1172031,The Westin Jersey City Newport,Jersey City,4.0,45.0,1603,Hotel,Westin,"Marriott International, Inc."
+1857215,Americas Best Value Inn,Brooklyn,2.0,25.0,11,Hotel,Americas Best Value Inns,Vantage Hospitality
+1929023,Parkside Bed & Breakfast,Brooklyn,3.0,30.0,16,Guest House,,
+3595199,AREI's Guesthouse,New York City,,,0,Guest House,,
+7620287,Cesar Suites At Harborside,Jersey City,,15.0,2,Condo,None,
+12446655,Hyatt House Jersey City,Jersey City,3.0,40.0,369,Hotel,Hyatt House,Hyatt Hotels Corporation
+2163379,Z NYC Hotel,Queens,4.0,40.0,1489,Hotel,,
+4283443,The High Line Hotel,New York City,4.0,45.0,768,Hotel,,
+11737011,Shepherd Guest House,New York City,,50.0,2,Lodge,,
+13449907,TownePlace Suites New York Manhattan / Times Square,New York City,2.5,45.0,22,Hotel,Towneplace Suites,"Marriott International, Inc."
+1007724,The Ridge Hotel,New York City,3.0,40.0,529,Hotel,,
+1644524,Liberty Inn,New York City,,45.0,4,Specialty Hotel,,
+5039852,Courtyard by Marriott New York Manhattan/Central Park,New York City,3.5,40.0,1506,Hotel,Courtyard,"Marriott International, Inc."
+5575276,515 Flats,New York City,,,0,Specialty Hotel,,
+7255276,The Knickerbocker Hotel,New York City,5.0,45.0,4414,Hotel,The Leading Hotels of the World,"The Leading Hotels of the World, Ltd"
+10330604,Four Seasons Hotel New York Downtown,New York City,5.0,45.0,564,Hotel,Four Seasons,Four Seasons Hotels & Resorts
+15688556,Bluebird Suites in Times Square,New York City,,,0,Limited Service Property,,
+15749356,Dream Home Luxury Suites,Jersey City,4.0,,0,Limited Service Property,,
+93396,The Iroquois New York,New York City,4.0,45.0,4326,Hotel,,
+1486164,Fairfield Inn & Suites New York Manhattan/Fifth Avenue,New York City,3.0,40.0,698,Hotel,Fairfield Inn,"Marriott International, Inc."
+1488084,Leo House,New York City,2.5,40.0,784,Specialty Hotel,None,
+1604308,710 Guest Suites,New York City,,50.0,206,Condo,,
+1625940,New York Hostel 99,New York City,,40.0,20,Hostel,,
+1925716,Riviera Motor Inn Brooklyn,Brooklyn,1.5,20.0,6,Small Hotel,,
+7182804,Residence Inn New York Downtown Manhattan World Trade Center Area,New York City,3.5,45.0,875,Hotel,Residence Inn,"Marriott International, Inc."
+13635668,CitizenM New York Bowery,New York City,4.0,45.0,179,Hotel,citizenM,citizenM Hotels
+93418,Bristol Plaza,New York City,,50.0,13,Hotel,,
+1207530,Bed and Breakfast NYC,New York City,,30.0,1,B&B,,
+1379306,The Hilton Club - New York,New York City,4.0,45.0,792,Hotel,Hilton Hotels,Hilton Worldwide
+1637482,Fane Hotel,New York City,,,0,Small Hotel,,
+4876010,The Local NYC,Queens,2.0,45.0,660,Hostel,,
+6733290,Hotel 32 32,New York City,4.0,40.0,735,Hotel,,
+13456618,Aloft New York Midtown,New York City,,,0,Hotel,Aloft,"Marriott International, Inc."
+251899,Colonial House Inn,New York City,3.0,45.0,445,Inn,,
+1723387,Midtown Stay,New York City,3.0,20.0,1,Condo,,
+1776507,Chelsea Mews Guest House,New York City,2.5,30.0,18,Guest House,,
+1940859,Hyatt Herald Square New York,New York City,4.0,40.0,1177,Hotel,Hyatt,Hyatt Hotels Corporation
+7907067,Hipsters Cove Guesthouse,Brooklyn,2.5,30.0,24,Specialty Inn,,
+14040955,Concorde Hotel New York,New York City,3.5,45.0,70,Hotel,,
+93543,Shelburne Hotel & Suites by Affinia,New York City,4.0,45.0,5310,Hotel,Affinia,Denihan Hospitality Group DHG
+632551,Hilton Garden Inn New York/Tribeca,New York City,3.5,40.0,1643,Hotel,Hilton Hotels,Hilton Worldwide
+1518823,Chic&Budget New York,New York City,,45.0,209,Lodge,,
+3572583,Holiday Inn Express Manhattan Midtown West,New York City,3.0,40.0,1259,Hotel,InterContinental,InterContinental Hotels Group PLC
+4053479,Courtyard New York Manhattan/Herald Square,New York City,3.5,45.0,893,Hotel,Courtyard,"Marriott International, Inc."
+8501479,Q&A Residential Hotel,New York City,4.0,45.0,655,Hotel,None,
+15688551,Bluebird Suites in Midtown West,New York City,3.5,,0,Limited Service Property,,
+15737063,Hamilton Heights Lovely Apartments,New York City,3.5,,0,Limited Service Property,,
+1732175,Churchill at 50 Columbus,Jersey City,,,0,Condo,,
+1949647,Fairfield Inn & Suites New York Manhattan/Chelsea,New York City,3.0,45.0,957,Hotel,Fairfield Inn,"Marriott International, Inc."
+3331407,Q4 Hotel,Queens,2.0,40.0,296,Hostel,,
+8785615,RIFF Downtown,New York City,3.0,30.0,119,Small Hotel,,
+10264527,Dharma Home Suites JC at Grove Station,Jersey City,4.0,30.0,9,Condo,None,
+11822287,Dharma Home Suites Hoboken at Novia,Hoboken,4.0,45.0,30,Hotel,,
+75688,Dream Midtown,New York City,4.0,40.0,784,Hotel,Dream Hotel,Wyndham Hotel Group
+93352,DoubleTree Suites by Hilton Hotel New York City - Times Square,New York City,4.0,45.0,9008,Hotel,Hilton Hotels,Hilton Worldwide
+99368,Courtyard New York Manhattan/Times Square,New York City,3.5,40.0,1576,Hotel,Courtyard,"Marriott International, Inc."
+281640,Red Lion Inn & Suites Long Island City,Queens,2.5,40.0,602,Hotel,Red Lion Inn & Suites,Red Lion Hotels Corporation
+1540904,East Side Riviera,New York City,,,0,Hostel,,
+1907624,Village Guest House,New York City,,35.0,4,Guest House,,
+2151848,McCarren Hotel & Pool,Brooklyn,4.0,40.0,1222,Hotel,None,
+10134568,EVEN Hotel Brooklyn,Brooklyn,4.0,45.0,621,Hotel,InterContinental,InterContinental Hotels Group PLC
+13393448,"Insignia Hotel, an Ascend Hotel Collection Member",Brooklyn,2.5,45.0,37,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+15245480,Racpanos Modern Stay on Forrest Street,Jersey City,3.0,20.0,1,Limited Service Property,,
+93431,The Tuscany - A St Giles Signature Hotel,New York City,3.0,45.0,2230,Hotel,,
+93559,The Sherry-Netherland Hotel,New York City,4.5,50.0,790,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+99447,La Quinta Inn & Suites New York City Central Park,New York City,2.5,35.0,479,Hotel,La Quinta Inn & Suites,"La Quinta Worldwide, LLC."
+3634167,Skyway Motel,Jersey City,,15.0,3,Small Hotel,,
+8468727,The Brooklyn,Brooklyn,3.5,45.0,347,Hotel,None,
+93525,Sanctuary Hotel New York Times Square,New York City,4.5,45.0,4430,Hotel,,
+594901,Signature Suites Battery Park,New York City,,,0,Condo,,
+7604181,Tryme Backpackers Hostel,Jersey City,,,0,Hostel,None,
+12934485,Freehand New York Hotel,New York City,4.0,40.0,285,Hotel,,
+13635925,Mayflower Boutique Hotel,Queens,2.5,15.0,22,Small Hotel,,
+93337,The Kitano Hotel New York,New York City,4.5,45.0,1309,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+93593,The Westin New York Grand Central,New York City,4.5,40.0,4657,Hotel,Westin,"Marriott International, Inc."
+1119257,Upper Yorkville Suites,New York City,3.0,40.0,56,B&B,,
+1963673,The Gotham Hotel,New York City,4.5,40.0,991,Hotel,,
+5550873,Archer Hotel New York,New York City,4.5,45.0,3749,Hotel,Archer Hotel,Archer Hotel Group
+220243,W New York - Union Square,New York City,4.5,40.0,1612,Hotel,W Hotels,"Marriott International, Inc."
+579795,Bibi's Garden Bed and Breakfast,Brooklyn,,45.0,165,B&B,,
+2148819,Hotel 48LEX New York,New York City,4.5,45.0,1882,Hotel,None,
+3502291,Comfort Inn Midtown West,New York City,2.5,40.0,679,Hotel,Comfort Inn,"Choice Hotels International, Inc."
+5305555,Hotel Lynx,Brooklyn,2.0,35.0,122,Hotel,,
+8680787,"The Renwick Hotel New York City, Curio Collection by Hilton",New York City,4.0,45.0,1619,Hotel,Hilton Hotels,Hilton Worldwide
+10368723,Fairfield Inn & Suites New York Manhattan/Central Park,New York City,3.0,40.0,335,Hotel,Fairfield Inn,"Marriott International, Inc."
+15135187,Park Terrace Hotel on Bryant Park,New York City,4.0,50.0,68,Hotel,,
+93583,The Lombardy,New York City,4.0,45.0,615,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+121999,AKA Sutton Place,New York City,4.0,45.0,63,Condo,Preferred Hotels & Resorts,Preferred Hotel Group
+585487,Comfort Inn Brooklyn City Center,Brooklyn,2.5,30.0,74,Hotel,Comfort Inn,"Choice Hotels International, Inc."
+1477775,The MAve Hotel,New York City,3.0,40.0,962,Boutique Hotel,,
+1606543,ComfortStayNYC,New York City,,45.0,5,Guest House,,
+2084239,Midtown Deluxe Apartments,New York City,2.0,35.0,4,Condo,,
+4945551,WestHouse Hotel New York,New York City,5.0,45.0,2391,Hotel,,
+6407567,Hilton Garden Inn New York - Times Square Central,New York City,3.5,40.0,2030,Hotel,Hilton Hotels,Hilton Worldwide
+6717455,City Rooms NYC Chelsea,New York City,2.0,40.0,157,Hostel,,
+12164367,Baltic Huis,Brooklyn,3.0,,0,Small Hotel,,
+13892623,Canal Loft Hotel,New York City,2.5,35.0,34,Hostel,,
+93575,The Franklin,New York City,3.5,35.0,802,Hotel,,
+121991,Seton Hotel,New York City,3.0,40.0,906,Hotel,,
+502407,AKA United Nations,New York City,4.0,50.0,47,Condo,Preferred Hotels & Resorts,Preferred Hotel Group
+6610567,The Marmara Park Avenue,New York City,5.0,45.0,335,Hotel,None,
+9780743,Howard Johnson by Wyndham Brooklyn,Brooklyn,2.0,20.0,35,Hotel,,
+11998087,Embassy Suites by Hilton New York Midtown Manhattan,New York City,3.5,40.0,420,Hotel,Hilton Hotels,Hilton Worldwide
+14085767,Funky Buddha Hostel,Brooklyn,1.5,10.0,1,Hostel,,
+15004167,Victorian Inn,Brooklyn,3.0,,0,Inn,,
+208453,Hilton Times Square,New York City,4.0,45.0,7804,Hotel,Hilton Hotels,Hilton Worldwide
+1179077,The International Cozy Inn,New York City,3.0,40.0,134,B&B,,
+1913413,The Jewel facing Rockefeller Center,New York City,4.0,45.0,2561,Hotel,,
+4702789,The Towers at Lotte New York Palace,New York City,5.0,50.0,1607,Hotel,,
+13356101,Springhills Suites by Marriott,New York City,,35.0,6,Hotel,,
+14086469,The Assemblage John Street,New York City,4.0,45.0,82,Hotel,,
+15292101,Rostel,New York City,3.0,,0,Limited Service Property,,
+93516,Novotel New York Times Square,New York City,4.0,45.0,6982,Hotel,Managed by AccorHotels,Accor
+645836,Times Square Beds,New York City,,35.0,4,Hostel,,
+2079052,YOTEL New York,New York City,4.0,45.0,12286,Boutique Hotel,Yotel,Yotel
+2359244,Heart of Harlem,New York City,,50.0,193,B&B,,
+10066892,Hotel 50 Bowery NYC,New York City,4.5,50.0,1317,Hotel,Joie de Vivre,Commune Hotels & Resorts
+11894988,Safehouse Suites,New York City,5.0,,0,Hotel,,
+15582668,Times Square West Midtown Apartment,New York City,,30.0,1,Limited Service Property,,
+15685580,Bluebird Suites in Jersey City,Jersey City,4.0,50.0,1,Limited Service Property,,
+251906,The Wall Street Inn,New York City,3.0,45.0,579,Hotel,,
+313346,Stay the Night Bed & Breakfast,New York City,,40.0,189,B&B,,
+643970,Broadway Hotel and Hostel,New York City,2.0,35.0,1279,Hostel,,
+1145602,Upper West Side Townhouse,New York City,,,0,B&B,,
+1544194,Kore 31,New York City,,50.0,1,Condo,,
+7891458,Arlo SoHo,New York City,4.0,45.0,1467,Hotel,None,
+99371,Courtyard New York Manhattan/Midtown East,New York City,3.5,45.0,2550,Hotel,Courtyard,"Marriott International, Inc."
+223019,Broadway Plaza Hotel,New York City,3.5,40.0,1638,Boutique Hotel,,
+290987,St. Marks Hotel,New York City,3.0,35.0,493,Hotel,None,
+1181739,The Jane,New York City,2.0,40.0,1559,Hotel,,
+1657771,La Quinta Inn & Suites Brooklyn Downtown,Brooklyn,2.5,35.0,444,Hotel,La Quinta Inn & Suites,"La Quinta Worldwide, LLC."
+10039979,AKA Wall Street,New York City,4.0,45.0,172,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+93539,Riverside Tower Hotel,New York City,2.5,30.0,743,Hotel,,
+235235,Oakwood Bridge Tower Place,New York City,,,0,Hotel,,
+504803,The Harlem Flophouse,New York City,,45.0,193,Guest House,,
+1371875,Inn on Second,Brooklyn,,50.0,72,Inn,,
+1947235,Furnished Dwellings,New York City,,50.0,1,Condo,,
+2689635,Landmark Guest Rooms,New York City,,35.0,11,Guest House,,
+3580899,Hampton Inn Manhattan / Downtown - Financial District,New York City,3.0,40.0,702,Hotel,Hilton Hotels,Hilton Worldwide
+4476259,Big Apple Hostel,New York City,,40.0,62,Hostel,,
+5113699,Haiban Inn,Jersey City,2.0,40.0,85,Small Hotel,,
+6708195,Urban Cowboy B&B,Brooklyn,,35.0,6,B&B,None,
+15268195,Apollo Inn,New York City,,,0,Hotel,,
+15750627,New York Apartments,New York City,,,0,Limited Service Property,,
+249656,Millennium Premier New York Times Square,New York City,4.0,40.0,1052,Hotel,,
+268216,Hampton Inn Manhattan-Chelsea,New York City,3.0,45.0,2183,Hotel,Hilton Hotels,Hilton Worldwide
+514488,Hotel on Rivington,New York City,4.0,40.0,1634,Hotel,,
+673080,Holiday Inn NYC - Manhattan 6th Avenue - Chelsea,New York City,3.5,35.0,1465,Hotel,InterContinental,InterContinental Hotels Group PLC
+1237944,I Love Dormitory,New York City,,30.0,18,Hostel,,
+1641016,"The Chatwal, a Luxury Collection Hotel, New York City",New York City,5.0,45.0,1311,Hotel,Luxury Collection,"Marriott International, Inc."
+3349304,The Greenpoint Lodge,Brooklyn,,35.0,22,Lodge,,
+6510520,Hilton Garden Inn New York/Midtown Park Ave,New York City,3.5,45.0,1394,Hotel,Hilton Hotels,Hilton Worldwide
+6620856,TEN15NYC,New York City,3.5,40.0,58,Condo,None,
+7772856,Quality Inn,Brooklyn,2.0,25.0,31,Hotel,,
+12197432,The James New York-NoMad,New York City,4.5,45.0,102,Hotel,,
+15751224,NY Away - Luxury Apartments in the Financial District,New York City,,,0,Limited Service Property,,
+93489,Murray Hill East Suites,New York City,2.0,40.0,672,Condo,,
+126257,Hotel 31,New York City,2.0,40.0,1700,Hotel,,
+1371825,AKA Smyth Tribeca,New York City,4.0,45.0,596,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+1484593,Ramada by Wyndham Long Island City,Queens,2.0,35.0,1084,Hotel,Ramada,Wyndham Hotel Group
+1484721,Brooklyn Suites Classon Ave,Brooklyn,3.0,45.0,8,Condo,,
+1719217,Sheraton Brooklyn New York Hotel,Brooklyn,4.0,40.0,1342,Hotel,Sheraton,"Marriott International, Inc."
+1917361,Easyliving-harlem,New York City,,50.0,282,Guest House,,
+7778097,EVEN Hotel Times Square South,New York City,4.0,45.0,1360,Hotel,InterContinental,InterContinental Hotels Group PLC
+11768753,Motel 6 Long Island City - Queens,Queens,,40.0,33,Hotel,Motel 6,"G6 Hospitality, LLC"
+14080305,Hotel Nirvana,Queens,2.5,30.0,56,Small Hotel,,
+93618,Waldorf Astoria New York,New York City,4.5,40.0,11588,Hotel,Waldorf Astoria,Hilton Worldwide
+99762,Hotel Giraffe by Library Hotel Collection,New York City,4.0,50.0,4529,Hotel,,
+320562,YourStay MidTown Apartments,New York City,3.0,30.0,52,Hotel,,
+15641394,Resavoir Apartments,Jersey City,,,0,Limited Service Property,,
+112066,The Maxwell New York City,New York City,4.0,35.0,5301,Hotel,Marriott,"Marriott International, Inc."
+589506,Bridgestreet The Sheffield,New York City,,10.0,1,Villa,,
+609346,Candy Hill Harlem,New York City,3.0,40.0,466,B&B,,
+609602,Seafarers & International House,New York City,2.0,40.0,299,Hotel,,
+1026626,Ravel Hotel Trademark Collection,Queens,4.0,35.0,933,Hotel,Wyndham,Wyndham Hotel Group
+1034306,Travelodge by Wyndham Jersey City,Jersey City,2.0,25.0,98,Motel,Travelodge,Wyndham Hotel Group
+1151170,The New York Loft Hostel,Brooklyn,2.0,40.0,337,Hostel,,
+1203394,Lafayette International Guesthouse,New York City,,,0,Hotel,,
+1544386,Brooklyns Best,Brooklyn,,50.0,1,B&B,,
+2309186,"The LOOK Hotel, Red Hook, an Ascend Hotel Collection Member",Brooklyn,2.5,35.0,43,Hotel,Ascend Collection,"Choice Hotels International, Inc."
+2410178,East River by Central Park Suites,New York City,,35.0,23,Condo,,
+7593282,Willamsburg Apartments,Brooklyn,,,0,Condo,None,
+13338562,Dekalb Homestay,Brooklyn,,,0,Lodge,,
+93627,West Side YMCA,New York City,2.0,30.0,1494,Hostel,,
+99387,Avalon Hotel,New York City,4.0,45.0,2086,Hotel,,
+557499,Mount Royal Hotel & Hostel,New York City,1.0,20.0,64,Hotel,,
+10628155,Holiday Inn Express & Suites Jersey City North - Hoboken,Jersey City,2.5,40.0,39,Hotel,InterContinental,InterContinental Hotels Group PLC
+15637691,The Modern @ Rockefeller,New York City,,,0,Limited Service Property,,
+93568,"The Algonquin Hotel Times Square, Autograph Collection",New York City,4.0,40.0,2199,Hotel,Marriott Autograph Collection,"Marriott International, Inc."
+1130880,Days Inn by Wyndham Long Island City,Queens,2.0,30.0,606,Hotel,Days Inn,Wyndham Hotel Group
+2363008,Allcity-Grand Suites,Jersey City,3.5,25.0,6,Small Hotel,,
+3344640,Refinery Hotel,New York City,5.0,45.0,4946,Hotel,,
+12423168,The Chauncey House,Brooklyn,,10.0,1,Small Hotel,,
+15236224,The Court - A St Giles Hotel,New York City,4.0,50.0,1,Hotel,,
+125274,The Redbury New York,New York City,4.5,40.0,719,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+1149402,"The Standard, East Village",New York City,4.0,45.0,884,Hotel,,
+1880282,Thomas Family B&B,New York City,,30.0,30,B&B,,
+1947226,Harlem Hospitality House,New York City,,,0,Hostel,,
+93562,Stewart Hotel,New York City,4.0,40.0,6836,Hotel,None,
+246778,Hyatt Regency Jersey City,Jersey City,4.0,45.0,3247,Hotel,Hyatt,Hyatt Hotels Corporation
+273530,The Maritime Hotel,New York City,4.0,45.0,763,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+277882,Hampton Inn Manhattan-Seaport-Financial District,New York City,3.0,40.0,1227,Hotel,Hilton Hotels,Hilton Worldwide
+501626,Jazz on the Town Hostel,New York City,,25.0,37,Hostel,,
+1237370,Living Manhattan,New York City,,40.0,61,Condo,,
+93445,The Blakely New York,New York City,4.5,45.0,1598,Hotel,,
+99333,Washington Jefferson Hotel,New York City,3.5,40.0,2040,Hotel,,
+259717,Efuru Guest House,New York City,3.0,40.0,78,Guest House,,
+1139717,Holiday Inn Express New York City Times Square,New York City,3.0,40.0,2419,Hotel,InterContinental,InterContinental Hotels Group PLC
+6883205,1 Hotel Central Park,New York City,5.0,45.0,1782,Hotel,None,
+13390725,Mildred at the Park,New York City,,,0,Specialty Inn,,
+93517,Paramount Hotel New York,New York City,4.0,35.0,5795,Hotel,Paramount,Paramount Hotels
+1367373,Trip and the City,New York City,,45.0,4,Guest House,,
+1970381,Saint Marks Place Studio Apartments,New York City,,40.0,13,Condo,,
+2339661,Exquisite Guesthouse & Suites,Brooklyn,2.0,40.0,8,Guest House,,
+7595213,Four Points by Sheraton New York Downtown,New York City,3.5,35.0,389,Hotel,Four Points by Sheraton,"Marriott International, Inc."
+10728525,The Williamsburg Hotel,Brooklyn,5.0,45.0,358,Hotel,Independent,Independent
+15018701,Voyage Hotel,Queens,,35.0,3,Specialty Hotel,,
+15113805,Courtyard New York Manhattan/Midtown west,New York City,,,0,Hotel,,
+80075,Amsterdam Court Hotel,New York City,3.0,35.0,3764,Hotel,,
+1214411,Kings Hotel,Brooklyn,2.5,35.0,127,Small Hotel,,
+1547467,Times Square World,New York City,,40.0,1,Hostel,,
+1653963,Sha107 Inn,New York City,,,0,B&B,,
+4451787,"Club Quarters Hotel, Grand Central",New York City,4.0,45.0,1686,Hotel,Club Quarters,Club Quarters
+12640715,Chelsea Cabins,New York City,,30.0,44,Specialty B&B,,
+14920907,Mr. C Seaport,New York City,5.0,45.0,38,Hotel,,
+93452,Life Hotel,New York City,4.0,40.0,177,Hotel,,
+121996,The Gregory Hotel New York,New York City,4.0,40.0,1039,Hotel,None,
+1175436,Hotel Olcott,New York City,,40.0,3,Hotel,,
+1207052,Bella Guest House,New York City,,,0,B&B,,
+1845644,Courtyard New York Manhattan/SoHo,New York City,3.5,45.0,622,Hotel,Courtyard,"Marriott International, Inc."
+6385164,citizenM New York Times Square,New York City,4.0,45.0,4148,Hotel,citizenM,citizenM Hotels
+7183500,Oyo Bed & Breakfast,Brooklyn,2.5,20.0,7,Pension,None,
+9015308,Central Park West Hostel,New York City,2.0,20.0,75,Hostel,,
+12653324,770Suites,Brooklyn,1.5,30.0,1,Hostel,,
+290932,Saddle Down Bed & Breakfast,Brooklyn,,50.0,3,B&B,,
+575732,Renaissance New York Hotel 57,New York City,4.0,40.0,1539,Hotel,Renaissance,"Marriott International, Inc."
+1563892,Flatiron Hotel,New York City,4.0,40.0,842,Hotel,,
+1572980,Crosby Street Hotel,New York City,5.0,50.0,855,Hotel,Firmdale,Firmdale Hotels
+2556148,Wythe Hotel,Brooklyn,4.0,45.0,621,Hotel,,
+12722932,Macy Empire,New York City,3.5,30.0,5,Condo,,
+224226,City Club Hotel,New York City,4.0,40.0,949,Hotel,,
+256738,Envoy Club Suites,New York City,4.0,35.0,129,Hotel,,
+548322,Brooklyn Motor Inn,Brooklyn,2.0,25.0,88,Hotel,,
+586466,Abode Bed and Breakfast,New York City,,40.0,4,B&B,,
+649058,Hotel Alexander,New York City,2.0,35.0,357,Condo,,
+654946,Regina's New York Bed & Breakfast,Brooklyn,,40.0,26,B&B,,
+1478626,Dupuy's Landing Guest House,New York City,,45.0,48,Guest House,,
+2600546,BridgeStreet The Pier,Jersey City,4.0,40.0,1,Condo,,
+7731042,Explore Hotel and Hostel,Union City,2.0,25.0,111,Hostel,,
+8040162,Urban International Life,Brooklyn,,30.0,3,Hostel,,
+8043362,A & Faye Bed and Breakfast,Brooklyn,,50.0,42,B&B,B&B Hotels,B&B Hotels Group
+9981282,Chelsea Pods,New York City,,35.0,35,Specialty Hotel,,
+15634530,Dharma Home Suites JC at the Arts District,Jersey City,4.0,,0,Limited Service Property,,
+93586,The Mansfield,New York City,3.5,30.0,40,Hotel,,
+113298,Four Seasons Hotel New York,New York City,5.0,45.0,350,Hotel,Four Seasons,Four Seasons Hotels & Resorts
+281234,Four Points by Sheraton Manhattan Chelsea,New York City,3.0,40.0,1144,Hotel,Four Points by Sheraton,"Marriott International, Inc."
+455186,JW Marriott Essex House New York,New York City,4.5,40.0,2123,Hotel,JW Marriott,"Marriott International, Inc."
+667410,Candy Hostel,New York City,,25.0,356,Hostel,,
+1207058,The Stratford Manor,Brooklyn,,30.0,4,B&B,,
+1751698,Super 8 by Wyndham Brooklyn / Park Slope Hotel,Brooklyn,2.0,40.0,588,Hotel,Super 8,Wyndham Hotel Group
+2600466,BridgeStreet 50 Columbus,Jersey City,4.0,,0,Condo,,
+9984018,Metro Midtown Suites New York,New York City,3.5,25.0,38,Condo,,
+15521042,Racpanos Modern Stay on Union Street,Jersey City,3.0,,0,Limited Service Property,,
+93390,Hotel Belleclaire,New York City,3.5,40.0,4116,Hotel,,
+671822,John Street Suites By Aba,New York City,,,0,Hotel,,
+1737422,Fit Hotel,New York City,,25.0,151,Hostel,,
+5535310,Riverside Towers,Jersey City,,,0,Condo,,
+7156046,Neptune Hotel,Brooklyn,2.0,20.0,27,Hostel,None,
+7594062,Cesar Suites at Greene,Jersey City,4.0,15.0,23,Condo,None,
+8530894,Hotel Cliff,New York City,2.5,25.0,10,Hotel,None,
+12199886,Hilton Garden Inn New York Times Square South,New York City,3.0,45.0,421,Hotel,Hilton Hotels,Hilton Worldwide
+2367217,Harlem Guest House,New York City,,,0,Guest House,,
+9783537,Dharma Home Suites JC at Grove Station II,Jersey City,4.0,40.0,11,Condo,,
+9860337,The Park Ave North,New York City,3.0,40.0,104,Small Hotel,,
+99302,The Bentley Hotel,New York City,4.0,40.0,4752,Hotel,,
+209382,Millennium Hilton New York One UN Plaza,New York City,4.0,40.0,938,Hotel,Hilton Hotels,Hilton Worldwide
+235238,W New York - Times Square,New York City,4.5,40.0,4716,Hotel,W Hotels,"Marriott International, Inc."
+1048678,The Hotel 91,New York City,3.0,35.0,881,Hotel,,
+1146086,Oakwood 24 East 38th Street,New York City,,40.0,8,Condo,,
+2452838,The Box House Hotel,Brooklyn,4.0,45.0,1272,Hotel,,
+6899174,The Central Park North,New York City,2.5,35.0,81,B&B,None,
+10022886,Franklin Guesthouse,Brooklyn,4.0,50.0,595,Hotel,,
+13145062,Quality Inn Near Sunset Park,Brooklyn,2.5,35.0,29,Hotel,Quality Inn,"Choice Hotels International, Inc."
+15631974,Seaman Apartment,New York City,,10.0,1,Limited Service Property,,
+15734630,Global Luxury Suites at Symphony House,New York City,3.0,,0,Specialty Inn,,
+93335,The Kimberly Hotel,New York City,4.0,45.0,2361,Hotel,,
+122007,Manhattan Broadway Hotel,New York City,2.0,25.0,757,Hotel,,
+217623,"Club Quarters Hotel, Wall Street",New York City,4.0,40.0,2143,Hotel,Club Quarters,Club Quarters
+625815,Rugby Gardens B&B,Brooklyn,,45.0,192,B&B,,
+1219095,Midtown East Residence by Globe Quarters,New York City,3.0,45.0,48,Condo,None,
+1547031,Signature Properties,New York City,,20.0,3,Hotel,,
+6582679,The William,New York City,4.0,45.0,237,Specialty Hotel,None,
+92414,Econo Lodge Jersey City,Jersey City,1.5,20.0,88,Hotel,EconoLodge,"Choice Hotels International, Inc."
+93566,The Surrey,New York City,5.0,45.0,2110,Hotel,Relais & Châteaux,Relais & Châteaux
+121982,Incentra Village Hotel,New York City,3.0,40.0,175,Inn,,
+655870,Lafayette House,New York City,3.0,45.0,47,Hotel,,
+1092222,Jumel Terrace Bed and Breakfast,New York City,,50.0,8,B&B,,
+1235582,W Hoboken,Hoboken,4.0,45.0,1299,Hotel,W Hotels,"Marriott International, Inc."
+3569150,Bowery Grand Hotel,New York City,1.0,15.0,126,Small Hotel,,
+5539454,Laguna,Jersey City,,35.0,2,Condo,,
+15517438,Manhattan Studio Apartments,New York City,,30.0,1,Limited Service Property,,
+75617,City View Inn,Queens,2.0,30.0,347,Hotel,None,
+99425,"Martinique New York on Broadway, Curio Collection by Hilton",New York City,4.0,40.0,5312,Hotel,Curio by Hilton,Hilton Worldwide
+224225,Broadway Tower,New York City,,40.0,1,Hotel,,
+281697,Wyndham Midtown 45,New York City,3.5,35.0,1066,Hotel,Wyndham,Wyndham Hotel Group
+1027681,Fairfield Inn New York Long Island City / Manhattan View,Queens,3.0,40.0,576,Hotel,Fairfield Inn,"Marriott International, Inc."
+1158753,Kimpton Ink48 Hotel,New York City,4.5,45.0,3502,Boutique Hotel,InterContinental,InterContinental Hotels Group PLC
+1165409,Hotel Delmonico,New York City,,50.0,1,Hotel,,
+1427297,House of the Redeemer,New York City,,35.0,2,Specialty Inn,,
+1601249,Hilton New York Fashion District,New York City,4.0,40.0,3786,Hotel,Hilton Hotels,Hilton Worldwide
+5523553,The Paper Factory Hotel,Queens,4.0,40.0,851,Hotel,,
+7605857,Aloft Manhattan Downtown Financial District,New York City,3.0,40.0,301,Hotel,Aloft,"Marriott International, Inc."
+12514017,Pod Brooklyn,Brooklyn,3.0,45.0,137,Hotel,,
+93379,Hotel 17,New York City,2.0,40.0,1361,Hotel,,
+93507,New York Marriott Marquis,New York City,4.5,40.0,12468,Hotel,Marriott,"Marriott International, Inc."
+805827,AKA Central Park,New York City,4.0,45.0,511,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+1235523,Sleep Inn Brooklyn,Brooklyn,2.0,35.0,188,Hotel,Sleep Inn,"Choice Hotels International, Inc."
+1913539,West 57 Apt Corporation,New York City,,25.0,4,Condo,,
+11775683,Beekman Tower,New York City,4.0,35.0,14,Condo,None,
+15679811,Deedee's Downtown Flats,Jersey City,3.5,,0,Limited Service Property,,
+113311,The Peninsula New York,New York City,5.0,45.0,1294,Hotel,Peninsula,"The Hongkong and Shanghai Hotels, Limited (Peninsula)"
+122015,HGU New York,New York City,4.0,40.0,373,Hotel,,
+616735,The Grant Hotel,New York City,,30.0,45,Hotel,,
+674463,Times Square Dream Hostel,New York City,,30.0,46,Hostel,,
+1467295,Imhotep New York Bed & Breakfast,Brooklyn,,,0,Guest House,,
+7080095,Lyghthouse Inn,Brooklyn,,25.0,3,B&B,None,
+11798431,Studio-plus Apartment,New York City,,30.0,21,Condo,,
+12906143,Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area,New York City,3.0,45.0,155,Hotel,Fairfield Inn,"Marriott International, Inc."
+634696,The Bowery Hotel,New York City,4.0,45.0,751,Hotel,,
+655944,AKA Times Square,New York City,4.0,45.0,679,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+6560712,J-Stel,Brooklyn,,35.0,15,Hostel,None,
+6581320,Empire 120,New York City,3.0,,0,Condo,None,
+7290568,Sleep Inn,Brooklyn,2.0,25.0,4,Hotel,None,
+7939016,Orchard Street Hotel,New York City,3.0,40.0,246,Hotel,None,
+8738248,The William Vale,Brooklyn,5.0,45.0,755,Hotel,None,
+12932808,AC Hotel New York City Downtown,New York City,3.5,40.0,36,Hotel,AC Hotels,"Marriott International, Inc."
+254281,"A Hospitality Company, Inc.",New York City,,30.0,5,Hotel,,
+613705,A Town House Stay,New York City,,45.0,3,Condo,,
+815689,Jones Street Guesthouse,New York City,,45.0,80,Guest House,,
+1207497,TerraceStay,New York City,,,0,B&B,,
+1787721,Carroll Gardens House,Brooklyn,,45.0,30,Lodge,,
+7691465,Brooklyn Student Dormitory - Jefferson Avenue,Brooklyn,,15.0,2,Hostel,None,
+8700361,BKLYN House,Brooklyn,2.5,40.0,508,Hotel,,
+15237449,Artezen Hotel,New York City,,,0,Hotel,,
+113325,The Vanderbilt YMCA,New York City,2.0,35.0,1510,Hostel,,
+223021,"Club Quarters Hotel, Times Square -Midtown",New York City,4.0,40.0,2068,Hotel,Club Quarters,Club Quarters
+1161773,Worldwide Plaza,New York City,,35.0,4,Condo,,
+1452077,Margot Guest House,New York City,,45.0,73,Guest House,,
+1947693,W55NY,New York City,,35.0,23,Specialty B&B,,
+15734445,The Gallery House,New York City,,,0,Limited Service Property,,
+93475,New York Marriott East Side,New York City,4.0,40.0,2459,Hotel,Marriott,"Marriott International, Inc."
+93603,"The Pierre, A Taj Hotel, New York",New York City,5.0,45.0,2145,Hotel,Taj,The Indian Hotels Company Limited
+122019,Central Park Inn,New York City,1.0,35.0,162,Hostel,,
+612259,Hotel 309,New York City,2.0,30.0,488,Condo,,
+1485603,Comfort Inn Times Square West,New York City,2.5,40.0,1095,Hotel,Comfort Inn,"Choice Hotels International, Inc."
+15744547,Luxury 2 Bedrooms Upper West Side Manhattan,New York City,,,0,Limited Service Property,,
+93610,Royalton New York Hotel,New York City,4.5,40.0,2707,Hotel,Preferred Hotels & Resorts,Preferred Hotel Group
+646442,Signature Suites The Sullivan Suites,New York City,,,0,Hotel,,
+1199530,Oxbridge Midtown East Apartments,New York City,,35.0,11,Hotel,,
+2476202,Sumner Hotel,Brooklyn,2.0,30.0,173,Small Hotel,,
+7934122,Paper Moon Bed & Breakfast,Brooklyn,,30.0,7,B&B,None,
+8776490,"The Bernic Hotel New York City, Tapestry Collection by Hilton",New York City,4.0,45.0,573,Hotel,Tapestry Collection by Hilton,Hilton Worldwide
+93572,The Dorset,New York City,,20.0,2,Hotel,,
+99332,Ameritania Hotel,New York City,3.5,45.0,6458,Hotel,,
+3235844,Pod 39 Hotel,New York City,3.0,40.0,3933,Hotel,,
+93622,Travel Inn Hotel New York,New York City,2.5,35.0,1937,Hotel,,
+99382,The Marcel at Gramercy,New York City,4.0,40.0,3920,Hotel,,
+99766,The Roosevelt Hotel,New York City,4.0,35.0,10730,Hotel,,
+1776438,Pied-A-Terre on Washington Heights,New York City,3.0,20.0,2,B&B,,
+7014966,Holiday Inn Manhattan - Financial District,New York City,4.0,40.0,1763,Hotel,InterContinental,InterContinental Hotels Group PLC
+7736502,Prospect Place Apartment - Hostel,Brooklyn,2.0,,0,Hostel,,
+12551350,Pod Times Square,New York City,3.0,40.0,672,Hotel,,
+112041,Larchmont Hotel,New York City,,40.0,504,Hotel,,
+1177257,Wall Street District Hotel,New York City,,25.0,3,Hotel,,
+1529897,La Sienna,New York City,,45.0,166,Hostel,,
+4544425,International Student Residence,Brooklyn,1.5,25.0,208,Hostel,None,
+13994921,Kensho homes,Jersey City,3.5,50.0,4,Condo,,
+224223,"nyma, the New York Manhattan Hotel",New York City,3.0,40.0,3029,Hotel,Red Roof Inns,"Red Roof Inns, Inc."
+3556959,Nesva Hotel,Queens,2.5,40.0,574,Boutique Hotel,,
+13131999,Gramercy Townhouse by Sudha,New York City,3.5,50.0,37,Villa,,
+224096,Courtyard by Marriott Jersey City Newport,Jersey City,3.0,40.0,692,Hotel,Courtyard,"Marriott International, Inc."
+224224,"The Ritz-Carlton New York, Central Park",New York City,5.0,45.0,1722,Hotel,Ritz-Carlton,"Marriott International, Inc."
+607712,"Club Quarters Hotel, opposite Rockefeller Center",New York City,4.0,40.0,1890,Hotel,Club Quarters,Club Quarters
+1217376,36 Hudson Hotel,New York City,3.0,35.0,652,Hotel,None,
+1397856,Radio City Apartments,New York City,3.5,40.0,2533,Condo,None,
+1940832,The Viridian,Brooklyn,,10.0,1,Condo,,
+12257376,The Pina - A Private Residence Hotel,New York City,,10.0,4,Small Hotel,,
+12816864,Giorgio Hotel,Queens,2.5,30.0,51,Hotel,,
+262330,Millennium Hilton New York Downtown,New York City,4.0,40.0,5228,Hotel,Hilton Hotels,Hilton Worldwide
+268218,Oakwood at Longacre House,New York City,3.0,30.0,1,Hotel,Oakwood,Oakwood Worldwide
+624442,U Hotel Fifth Avenue,New York City,3.0,40.0,1158,Hotel,,
+1785018,The James New York - SoHo,New York City,4.5,45.0,1655,Hotel,The James,Denihan Hospitality Group DHG
+1870778,Westside Pearl,New York City,,25.0,10,Hostel,,
+3168954,SoHo Garden Hotel,New York City,2.5,35.0,495,Hotel,,
+8615610,"The Beekman, A Thompson Hotel",New York City,5.0,45.0,974,Hotel,Thompson,Commune Hotels & Resorts
+11724858,La Maison d'Art,New York City,3.0,50.0,1,Guest House,None,
+93398,SIXTY SoHo,New York City,4.5,45.0,1279,Hotel,Sixty,Sixty Hotels
+93526,"The Lexington Hotel, Autograph Collection",New York City,4.0,40.0,5002,Hotel,Marriott Autograph Collection,"Marriott International, Inc."
+224214,The Bryant Park Hotel,New York City,4.0,45.0,4153,Hotel,,
+293462,102 Brownstone,New York City,,40.0,96,Guest House,,
+566614,Greenpoint YMCA,Brooklyn,2.0,25.0,125,Hostel,,
+665814,The Soho Loft,New York City,,25.0,26,Hotel,,
+1383510,Worldwide Plaza,New York City,,,0,Condo,,
+1990870,Elk Hotel,New York City,,25.0,4,Hotel,,
+93383,"6 Columbus, Central Park a Sixty Hotel",New York City,4.5,40.0,1210,Hotel,Sixty,Sixty Hotels
+208455,The Roxy Hotel Tribeca,New York City,4.5,45.0,1191,Hotel,,
+2160455,Menno House,New York City,,40.0,24,Guest House,,
+12440391,Rainbow Guesthouse,Brooklyn,2.5,,0,Hostel,,
+12813895,Beachside Apartment Brooklyn,Brooklyn,,25.0,3,Condo,,
+15070151,"Staypineapple, An Artful Hotel, Midtown New York",New York City,3.0,50.0,7,Specialty Hotel,,
+93359,Econo Lodge Times Square,New York City,2.5,40.0,1349,Hotel,EconoLodge,"Choice Hotels International, Inc."
+223023,Hudson New York,New York City,4.0,30.0,7738,Hotel,Hudson,Morgans Hotel Group
+267183,World Hotel,New York City,1.5,15.0,410,Hotel,,
+1893423,Metro Apartments,New York City,3.0,35.0,380,Condo,,
+8873263,Innside by Melia New York NoMad,New York City,4.5,45.0,2589,Hotel,Innside,Melia Hotels International
+9794351,The Western Corner Hostel,New York City,,,0,Hostel,,
+10880431,Mycity Duplex,New York City,,,0,Lodge,,
+93555,Sheraton New York Times Square Hotel,New York City,4.0,40.0,10161,Hotel,Sheraton,"Marriott International, Inc."
+99443,Astor on the Park,New York City,3.0,35.0,1587,Hotel,,
+266995,International Student Center,New York City,,35.0,73,Hostel,,
+564851,Courtyard New York Manhattan/Upper East Side,New York City,3.5,40.0,1006,Hotel,Courtyard,"Marriott International, Inc."
+1025779,Candlewood Suites New York City Times Square,New York City,3.0,40.0,1993,Hotel,InterContinental,InterContinental Hotels Group PLC
+99288,Arthouse Hotel New York City,New York City,4.0,40.0,6620,Hotel,,
+1146072,Oakwood at 6th Avenue,New York City,,45.0,60,Hotel,Oakwood,Oakwood Worldwide
+2622936,Wyndham Garden Chinatown,New York City,4.0,45.0,1685,Hotel,Wyndham Garden,Wyndham Hotel Group
+12224088,Chelsea Art Suites,New York City,3.0,10.0,1,Hostel,,
+80112,San Carlos Hotel,New York City,4.5,45.0,1681,Hotel,,
+249712,The Westin New York at Times Square,New York City,4.5,40.0,3459,Hotel,Westin,"Marriott International, Inc."
+548336,Oasis Motel,Brooklyn,1.5,30.0,32,Hotel,,
+2218992,The Bowery House,New York City,2.0,35.0,632,Small Hotel,,
+2290672,Jazz on the Park,New York City,2.0,35.0,602,Hostel,,
+2441200,Holiday Inn Express Building 107 On Fort Hamilton (An IHG Army Hotel),Brooklyn,3.0,45.0,36,Specialty Hotel,,
+6201200,The Lex NYC,New York City,3.5,45.0,822,Hotel,None,
+15288816,Fairfield Inn & Suites by Marriott New York Manhattan/Times Square 36th St.,New York City,2.5,35.0,2,Hotel,Fairfield Inn,"Marriott International, Inc."
+207996,Soul Food Mont Morris,New York City,,45.0,633,Inn,None,
+1507452,Ambassador Suites,Brooklyn,,50.0,2,B&B,,
+284904,Senton Hotel,New York City,,15.0,23,Hotel,,
+596200,Hudson River Hotel,New York City,2.0,35.0,726,Hotel,None,
+1082216,Harlem 144 Guest House,New York City,2.0,35.0,24,B&B,,
+1218792,Hilton Garden Inn New York/West 35th Street,New York City,3.0,45.0,5761,Hotel,Hilton Hotels,Hilton Worldwide
+1653608,All of Our People,Queens,,50.0,1,Guest House,,
+6002536,Home2 Suites by Hilton New York Long Island City/ Manhattan View,Queens,2.5,45.0,1335,Hotel,Hilton Hotels,Hilton Worldwide
+8732904,Edge Hotel,New York City,3.5,45.0,347,Hotel,None,
+14485224,Dharma Home Suites Hoboken at Grand,Hoboken,4.0,,0,Condo,,
+93358,Pod 51 Hotel,New York City,3.0,40.0,5413,Hotel,None,
+93486,Millennium Broadway New York Times Square,New York City,4.0,40.0,6311,Hotel,Millennium,Millennium & Copthorne Hotels plc
+93614,The St. Regis New York,New York City,5.0,45.0,974,Hotel,St. Regis,"Marriott International, Inc."
+99758,Oxbridge Apartments Carnegie Hill,New York City,,30.0,37,Condo,,
+247982,Oxbridge Apts Gramecy Park,New York City,,30.0,1,Hotel,,
+267182,Windsor Hotel,New York City,2.0,25.0,274,Hotel,,
+660142,The Sutton Residence,New York City,,45.0,86,Guest House,,
+671150,The Empire Hotel,New York City,4.0,35.0,7428,Hotel,None,
+1197102,short term stay nyc,New York City,,50.0,3,Condo,,
+1752366,Prive,New York City,2.0,45.0,46,Guest House,,
+7316142,Courtyard,New York City,,40.0,6,Hotel,Courtyard,"Marriott International, Inc."
+8669230,The Quiet Inn on Central Park,New York City,,,0,Hostel,,
+93454,Crowne Plaza Times Square Manhattan,New York City,4.0,40.0,11083,Hotel,InterContinental,InterContinental Hotels Group PLC
+121998,The Marmara Manhattan,New York City,3.5,45.0,1087,Hotel,,
+234766,Oakwood Sonoma,New York City,,,0,Hotel,,
+1567886,A accomodation B&B,New York City,,40.0,1,B&B,,
+6727310,The Ludlow New York City,New York City,4.5,45.0,814,Hotel,None,
+208888,Riff Chelsea,New York City,2.0,25.0,275,Hotel,,
+530296,Red Carpet Inn,Brooklyn,2.0,25.0,201,Hotel,Red Carpet Inn,Hospitality International Franchise System
+656248,Red Lion Inn and Suites Brooklyn,Brooklyn,3.5,35.0,210,Hotel,Red Lion Inn & Suites,Red Lion Hotels Corporation
+2194552,Village Apartments,New York City,2.5,25.0,9,Condo,,

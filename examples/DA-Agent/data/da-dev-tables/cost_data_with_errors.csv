@@ -1,0 +1,819 @@
+,name,dates_active,max_storm_cat,max_sust_wind,min_p,areas_affected,damage_USD,deaths,year,damage_imputed
+0,ARLENE,April 19 – 21,1,43.4488,990.0,None,0.0,0.0,2017,0
+1,BRET,June 19 – 20,1,43.4488,1007.0,"Guyana, Venezuela, Trinidad and Tobago, Windward Islands",3000000.0,2.0,2017,0
+2,CINDY,June 20 – 23,1,52.13856,991.0,"Honduras, Belize, Cayman Islands, Yucatán Peninsula, Cuba, Southern United States, Eastern United States",25000000.0,2.0,2017,0
+3,FOUR,July 5 – 7,0,26.06928,1009.0,None,0.0,0.0,2017,0
+4,DON,July 17 – 18,1,43.4488,1005.0,"Windward Islands, Barbados, Trinidad and Tobago",0.0,0.0,2017,0
+5,EMILY,July 30 – August 1,1,52.13856,1001.0,Florida,10000000.0,0.0,2017,0
+6,FRANKLIN,August 7 – 10,2,73.86296,981.0,"Nicaragua, Honduras, Guatemala, Belize, Yucatán Peninsula, Central Mexico",15000000.0,0.0,2017,0
+7,GERT,August 12 – 17,3,95.58735999999999,962.0,"Bermuda, East Coast of the United States, Atlantic Canada",0.0,2.0,2017,0
+8,HARVEY,August 17 – September 1,5,112.96688,937.0,"Barbados, Suriname, Guyana, Windward Islands, Nicaragua, Belize, Yucatán Peninsula, Northeastern Mexico, Southern United States (Texas, Louisiana), Eastern United States",125000000000.0,107.0,2017,0
+9,IRMA,August 30 – September 12,6,156.41568,914.0,"Cape Verde, Leeward Islands (Barbuda, Saint Martin, Saint Barthelemy, U.S. Virgin Islands), Puerto Rico, Hispaniola, Turks and Caicos Islands, The Bahamas, Cuba, Southeastern United States (Florida and Georgia), Northeastern United States",64760000000.00001,134.0,2017,0
+10,JOSE,September 5 – 22,5,134.69128,938.0,"Leeward Islands, East Coast of the United States",2840000.0,1.0,2017,0
+11,KATIA,September 5 – 9,3,91.24248,972.0,Eastern Mexico,75001.0,3.0,2017,1
+12,LEE,September 15 – 30,4,99.93224,962.0,None,0.0,0.0,2017,0
+13,MARIA,September 16 – 30,6,152.0708,908.0,"Lesser Antilles (British Virgin Islands, Dominica, Guadeloupe, Martinique, Saint Croix), Puerto Rico, Hispaniola, Turks and Caicos Islands, The Bahamas, Southeastern United States, Mid-Atlantic States, United Kingdom, Ireland, France, Spain",91606000000.0,3057.0,2017,0
+14,NATE,October 4 – 9,2,78.20784,981.0,"Nicaragua, Honduras, Costa Rica, El Salvador, Panama, Mexico, Cayman Islands, Cuba, Southeastern United States (Louisiana, Alabama, Mississippi, and Florida Panhandle), Northeastern United States, Atlantic Canada",787000000.0,48.0,2017,0
+15,OPHELIA,October 9 – 16,4,99.93224,959.0,"Azores, Portugal, Spain, France, Ireland, United Kingdom, Norway, Sweden, Finland, Estonia, Russia",13600000.0,5.0,2017,0
+16,PHILIPPE,October 28 – 29,1,34.75904,1000.0,"Central America, Cayman Islands, Yucatán Peninsula, Cuba, Florida",75001.0,0.0,2017,1
+17,RINA,November 5 – 9,1,52.13856,991.0,None,0.0,0.0,2017,0
+18,ALEX,January 12 – 15,2,73.86296,981.0,"Bermuda, Azores",75001.0,1.0,2016,1
+19,BONNIE,May 27 – June 4,1,39.10392,1006.0,"The Bahamas, Southeastern United States",640000.0,2.0,2016,0
+20,COLIN,June 5 – 7,1,43.4488,1001.0,"Yucatán Peninsula, Cuba, Florida, East Coast of the United States",1040000.0,6.0,2016,0
+21,DANIELLE,June 19 – 21,1,39.10392,1007.0,"Yucatán Peninsula, Eastern Mexico",75001.0,1.0,2016,1
+22,EARL,August 2 – 6,2,73.86296,979.0,"Lesser Antilles, Puerto Rico, Hispaniola, Jamaica, Cayman Islands, Central America, Mexico",250000000.0,106.0,2016,0
+23,FIONA,August 16 – 23,1,43.4488,1004.0,None,0.0,0.0,2016,0
+24,GASTON,August 22 – September 2,4,104.27712,955.0,Azores,0.0,0.0,2016,0
+25,EIGHT,August 28 – September 1,0,30.41416,1010.0,North Carolina,0.0,0.0,2016,0
+26,HERMINE,August 28 – September 3,2,69.51808,981.0,"Dominican Republic, Cuba, Florida, The Bahamas, East Coast of the United States, Atlantic Canada",550000000.0,5.0,2016,0
+27,IAN,September 12 – 16,1,52.13856,994.0,None,0.0,0.0,2016,0
+28,JULIA,September 14 – 19,1,43.4488,1007.0,Southeastern United States,6130000.0,0.0,2016,0
+29,KARL,September 14 – 25,1,60.82832,988.0,"Cape Verde, Bermuda",75001.0,0.0,2016,1
+30,LISA,September 19 – 25,1,43.4488,999.0,None,0.0,0.0,2016,0
+31,MATTHEW,September 28 – October 9,6,143.38103999999998,934.0,"Antilles, Venezuela, Colombia, East Coast of the United States, Atlantic Canada",15090000000.0,603.0,2016,0
+32,NICOLE,October 4 – 18,5,121.65664,950.0,Bermuda,15000000.0,1.0,2016,0
+33,OTTO,November 20 – 25,4,99.93224,975.0,"Panama, Costa Rica, Nicaragua, Colombia",190000000.0,23.0,2016,0
+34,ANA,May 8 – 11,1,52.13856,998.0,Southeastern United States (South Carolina),75001.0,2.0,2015,1
+35,BILL,June 16 – 18,1,52.13856,997.0,"Central America, Yucatán Peninsula, Southern United States (Texas), Midwestern United States",17900000.0,9.0,2015,0
+36,CLAUDETTE,July 13 – 14,1,43.4488,1003.0,"East Coast of the United States, Newfoundland",0.0,0.0,2015,0
+37,DANNY,August 18 – 24,4,108.622,960.0,"Lesser Antilles, Puerto Rico",75001.0,0.0,2015,1
+38,ERIKA,August 25 – 29,1,43.4488,1001.0,"Lesser Antilles (Dominica), Greater Antilles, Florida",511400000.0,35.0,2015,0
+39,FRED,August 30 – September 6,2,73.86296,986.0,"West Africa, Cape Verde",2500000.0,9.0,2015,0
+40,GRACE,September 5 – 9,1,52.13856,1000.0,None,0.0,0.0,2015,0
+41,HENRI,September 8 – 11,1,43.4488,1003.0,None,0.0,0.0,2015,0
+42,NINE,September 16 – 19,0,30.41416,1006.0,None,0.0,0.0,2015,0
+43,IDA,September 18 – 27,1,43.4488,1001.0,None,0.0,0.0,2015,0
+44,JOAQUIN,September 28 – October 8,5,134.69128,931.0,"Turks and Caicos Islands, The Bahamas, Cuba, Haiti, Southeastern United States, Bermuda, Azores, Iberian Peninsula",200000000.0,34.0,2015,0
+45,KATE,November 8 – 11,2,73.86296,980.0,"The Bahamas, United Kingdom, Ireland",75001.0,0.0,2015,1
+46,ARTHUR,July 1–5,3,86.8976,973.0,"The Bahamas, East Coast of the United States (North Carolina), Atlantic Canada (Nova Scotia)",16800000.0,1.0,2014,0
+47,TWO,July 21–23,0,30.41416,1012.0,None,0.0,0.0,2014,0
+48,BERTHA,August 1–6,2,69.51808,998.0,"Lesser Antilles, Puerto Rico, Hispaniola, Cuba, Lucayan Archipelago, East Coast of the United States, Western Europe",75001.0,4.0,2014,1
+49,CRISTOBAL,August 23–29,2,73.86296,965.0,"Puerto Rico, Hispaniola, Turks and Caicos Islands, Bermuda, East Coast of the United States, Iceland",75001.0,7.0,2014,1
+50,DOLLY,September 1–3,1,43.4488,1000.0,"Mexico (Tamaulipas), Texas",6500000.0,1.0,2014,0
+51,EDOUARD,September 11–19,4,104.27712,955.0,East Coast of the United States,75001.0,2.0,2014,1
+52,FAY,October 10–13,2,69.51808,983.0,Bermuda,3800000.0,0.0,2014,0
+53,GONZALO,October 12–19,5,126.00152,940.0,"Lesser Antilles, Puerto Rico, Bermuda, Newfoundland, Europe",316000000.0,6.0,2014,0
+54,HANNA,October 22–28,1,34.75904,1000.0,"Southeastern Mexico (Campeche), Central America (Nicaragua, Belize)",75001.0,0.0,2014,1
+55,ANDREA,June 5–7,1,56.48344,992.0,"Yucatán Peninsula, Cuba, Eastern United States, Atlantic Canada",86000.0,4.0,2013,0
+56,BARRY,June 17–20,1,39.10392,1003.0,"Central America (Belize), Mexico (Veracruz)",75001.0,5.0,2013,1
+57,CHANTAL,July 7–10,1,56.48344,1003.0,"Lesser Antilles, Puerto Rico, Hispaniola",10000000.0,1.0,2013,0
+58,DORIAN,July 23 – August 3,1,52.13856,1002.0,"The Bahamas, Florida",0.0,0.0,2013,0
+59,ERIN,August 15–18,1,39.10392,1006.0,Cape Verde,75001.0,0.0,2013,1
+60,FERNAND,August 25–26,1,52.13856,1001.0,Mexico (Veracruz),1000000.0,14.0,2013,0
+61,GABRIELLE,September 4–13,1,56.48344,1003.0,"Lesser Antilles, Puerto Rico, Hispaniola, Bermuda, Atlantic Canada",75001.0,0.0,2013,1
+62,EIGHT,September 6–7,0,30.41416,1008.0,Mexico (Tamaulipas),0.0,0.0,2013,0
+63,HUMBERTO,September 8–19,2,78.20784,979.0,Cape Verde,75001.0,0.0,2013,1
+64,INGRID,September 12–17,2,73.86296,983.0,"Mexico (Tamaulipas), Texas",1500000000.0,23.0,2013,0
+65,JERRY,September 29 – October 3,1,43.4488,1005.0,Azores,0.0,0.0,2013,0
+66,KAREN,October 3–6,1,56.48344,998.0,"Yucatán Peninsula, United States Gulf Coast, Northeastern United States",75001.0,0.0,2013,1
+67,LORENZO,October 21–24,1,43.4488,1000.0,None,0.0,0.0,2013,0
+68,MELISSA,November 18–21,1,56.48344,980.0,Azores,0.0,0.0,2013,0
+69,UNNAMED,December 5–7,1,43.4488,997.0,Azores,0.0,0.0,2013,0
+70,ALBERTO,May 19 – May 22,1,52.13856,995.0,Southeastern United States,75001.0,0.0,2012,1
+71,BERYL,May 26 – May 30,1,60.82832,992.0,"Cuba, The Bahamas, Southeastern United States (Florida)",148000.0,3.0,2012,0
+72,CHRIS,June 18 – June 22,2,73.86296,974.0,"Bermuda, Atlantic Canada",0.0,0.0,2012,0
+73,DEBBY,June 23 – June 27,1,56.48344,990.0,"Cuba, Central America, Southeastern United States (Florida), Bermuda",250000000.0,10.0,2012,0
+74,ERNESTO,August 1 – August 10,3,86.8976,973.0,"Windward Islands, Jamaica, Central America, Mexico (Yucatán Peninsula, Veracruz)",252200000.0,12.0,2012,0
+75,FLORENCE,August 3 – August 6,1,52.13856,1002.0,Cape Verde,0.0,0.0,2012,0
+76,HELENE,August 9 – August 18,1,39.10392,1004.0,"Windward Islands, Trinidad and Tobago, Central America, Mexico (Tamaulipas)",17000000.0,2.0,2012,0
+77,GORDON,August 15 – August 20,3,95.58735999999999,965.0,Azores (Santa Maria Island),0.0,0.0,2012,0
+78,ISAAC,August 21 – September 1,2,69.51808,965.0,"Leeward Islands, Puerto Rico, Hispaniola (Haiti), Cuba, The Bahamas, Southeastern United States (Louisiana), Midwestern United States, Kentucky",3110000000.0,41.0,2012,0
+79,JOYCE,August 22 – August 24,1,34.75904,1006.0,None,0.0,0.0,2012,0
+80,KIRK,August 28 – September 2,3,91.24248,970.0,None,0.0,0.0,2012,0
+81,LESLIE,August 30 – September 11,2,69.51808,968.0,"Leeward Islands, Bermuda, Atlantic Canada",10100000.0,0.0,2012,0
+82,MICHAEL,September 3 – September 11,4,99.93224,964.0,None,0.0,0.0,2012,0
+83,NADINE,September 10 – October 4,2,78.20784,978.0,"Azores, United Kingdom",75001.0,0.0,2012,1
+84,OSCAR,October 3 – October 5,1,43.4488,994.0,None,0.0,0.0,2012,0
+85,PATTY,October 11 – October 13,1,39.10392,1005.0,The Bahamas,0.0,0.0,2012,0
+86,RAFAEL,October 12 – October 17,2,78.20784,969.0,"Lesser Antilles, Bermuda, Atlantic Canada, United States East Coast, Azores, Western Europe",2000000.0,1.0,2012,0
+87,SANDY,October 22 – October 29,4,99.93224,940.0,"Greater Antilles (Jamaica, Cuba), The Bahamas, East Coast of the United States (New Jersey), Bermuda, Atlantic Canada",68700000000.0,286.0,2012,0
+88,TONY,October 22 – October 25,1,43.4488,1000.0,None,0.0,0.0,2012,0
+89,ARLENE,June 28 – July 1,1,56.48344,993.0,"Central America, Mexico (Veracruz), Texas, Florida",223400000.0,22.0,2011,0
+90,BRET,July 17–22,1,60.82832,995.0,"Bahamas, Bermuda, East Coast of the United States",0.0,0.0,2011,0
+91,CINDY,July 20–22,1,60.82832,994.0,Bermuda,0.0,0.0,2011,0
+92,DON,July 27–30,1,43.4488,997.0,"Cuba, Yucatán Peninsula, Northeastern Mexico, Texas",0.0,0.0,2011,0
+93,EMILY,August 2–7,1,43.4488,1003.0,"Antilles, Florida, Bahamas",5000000.0,5.0,2011,0
+94,FRANKLIN,August 12–13,1,39.10392,1004.0,Bermuda,0.0,0.0,2011,0
+95,GERT,August 13–16,1,56.48344,1000.0,Bermuda,0.0,0.0,2011,0
+96,HARVEY,August 19–22,1,56.48344,994.0,"Lesser Antilles, Hispaniola, Central America (Belize), Mexico (Veracruz)",75001.0,5.0,2011,1
+97,IRENE,August 21–28,4,104.27712,942.0,"Antilles (US Virgin Islands, Puerto Rico), Lucayan Archipelago (Bahamas), Eastern United States (North Carolina, New Jersey, New York), Eastern Canada",14200000000.0,58.0,2011,0
+98,TEN,August 25–26,0,30.41416,1006.0,None,0.0,0.0,2011,0
+99,JOSE,August 27–28,1,39.10392,1006.0,Bermuda,0.0,0.0,2011,0
+100,KATIA,August 29 – September 10,5,121.65664,942.0,"Lesser Antilles, East Coast of the United States, Canada, Europe",157000000.0,4.0,2011,0
+101,UNNAMED,August 31 – September 3,1,39.10392,1002.0,None,0.0,0.0,2011,0
+102,LEE,September 1–5,1,52.13856,986.0,"Gulf Coast of the United States (Louisiana), Eastern United States",2800000000.0,18.0,2011,0
+103,MARIA,September 6–16,2,69.51808,983.0,"Lesser Antilles, Bermuda, Newfoundland, Europe",1300000.0,0.0,2011,0
+104,NATE,September 7–11,2,65.1732,994.0,Mexico (Veracruz),75001.0,5.0,2011,1
+105,OPHELIA,September 20 – October 3,5,121.65664,940.0,"Leeward Islands, Bermuda, Newfoundland, Europe",75001.0,0.0,2011,1
+106,PHILIPPE,September 24 – October 8,2,78.20784,976.0,None,0.0,0.0,2011,0
+107,RINA,October 23–28,4,99.93224,966.0,"Central America, Yucatán Peninsula (Quintana Roo), Cuba, Florida",2300000.0,0.0,2011,0
+108,SEAN,November 8–11,1,56.48344,982.0,Bermuda,75001.0,1.0,2011,1
+109,ALEX,June 25 – July 2,3,95.58735999999999,946.0,"Greater Antilles, Central America (Belize), Yucatan Peninsula, Northern Mexico, South Texas",1520000000.0,52.0,2010,0
+110,TWO,July 8 – 9,0,30.41416,1005.0,"Northern Mexico, South Texas",75001.0,0.0,2010,1
+111,BONNIE,July 22 – 24,1,39.10392,1005.0,"Puerto Rico, Hispaniola, Turks and Caicos, Bahamas, Florida",1360000.0,1.0,2010,0
+112,COLIN,August 2 – 8,1,52.13856,1005.0,"Leeward Islands, Bermuda, The Carolinas, New England",75001.0,1.0,2010,1
+113,FIVE,August 10 – 11,0,30.41416,1007.0,United States Gulf Coast,1000000.0,2.0,2010,0
+114,DANIELLE,August 21 – 30,5,112.96688,942.0,"Bermuda, United States East Coast",75001.0,2.0,2010,1
+115,EARL,August 25 – September 4,5,126.00152,927.0,"Leeward Islands, Puerto Rico, Bahamas, Eastern United States, Atlantic Canada, Quebec",45000000.0,8.0,2010,0
+116,FIONA,August 30 – September 3,1,56.48344,998.0,"Leeward Islands, Bermuda",75001.0,0.0,2010,1
+117,GASTON,September 1 – 2,1,34.75904,1005.0,"Leeward Islands, Puerto Rico",0.0,0.0,2010,0
+118,HERMINE,September 5 – 9,1,60.82832,989.0,"Central America, Mexico, Texas, Oklahoma, Kansas",740000000.0,102.0,2010,0
+119,IGOR,September 8 – 21,5,134.69128,924.0,"Cabo Verde, Leeward Islands, Bermuda, United States East Coast, Newfoundland",200500000.0,4.0,2010,0
+120,JULIA,September 12 – 20,5,121.65664,948.0,Cabo Verde,75001.0,0.0,2010,1
+121,KARL,September 14 – 18,4,108.622,956.0,"Belize, Yucatán Peninsula, Veracruz",3900000000.0,22.0,2010,0
+122,LISA,September 20 – 26,2,73.86296,982.0,None,0.0,0.0,2010,0
+123,MATTHEW,September 23 – 26,1,52.13856,998.0,"Venezuela, Central America (Nicaragua, Belize), Mexico, Jamaica, Haiti",171200000.0,126.0,2010,0
+124,NICOLE,September 28 – 29,1,39.10392,995.0,"Cayman Islands, Jamaica, Cuba, Florida, Bahamas, United States East Coast",245400000.0,16.0,2010,0
+125,OTTO,October 6 -10,2,73.86296,976.0,"Leeward Islands, Virgin Islands, Puerto Rico",22500000.0,0.0,2010,0
+126,PAULA,October 11 – 15,3,91.24248,981.0,"Nicaragua, Honduras, Mexico, Cuba, Bahamas, Florida",75001.0,1.0,2010,1
+127,RICHARD,October 20 – 26,3,86.8976,977.0,"Honduras, Belize, Guatemala, Mexico",80000000.0,2.0,2010,0
+128,SHARY,October 28 – 30,2,65.1732,989.0,Bermuda,75001.0,0.0,2010,1
+129,TOMAS,October 29 – November 7,3,86.8976,982.0,"Windward Islands (Barbados, St. Vincent), Leeward Antilles, Greater Antilles, Lucayan Archipelago (Caicos Islands)",463400000.0,51.0,2010,0
+130,ONE,May 28 – 29,0,30.41416,1006.0,North Carolina,0.0,0.0,2009,0
+131,ANA,August 11 – 16,1,34.75904,1003.0,"Lesser Antilles, Puerto Rico, Hispaniola, Cuba, The Bahamas",75001.0,0.0,2009,1
+132,BILL,August 15 – 24,5,112.96688,943.0,"Leeward Islands, Puerto Rico, Hispaniola, United States East Coast, Bermuda, Atlantic Canada (Newfoundland), Europe",46200000.0,2.0,2009,0
+133,CLAUDETTE,August 16 – 18,1,52.13856,1005.0,Southeastern United States (Florida),350000.0,2.0,2009,0
+134,DANNY,August 26 – 29,1,52.13856,1006.0,"North Carolina, Northeastern United States, Atlantic Canada",75001.0,1.0,2009,1
+135,ERIKA,September 1 – 3,1,43.4488,1004.0,"Lesser Antilles, Puerto Rico, Dominican Republic",35000.0,0.0,2009,0
+136,FRED,September 7 – 12,4,104.27712,958.0,Cape Verde,0.0,0.0,2009,0
+137,EIGHT,September 25 – 26,0,30.41416,1008.0,None,0.0,0.0,2009,0
+138,GRACE,October 4 – 6,1,56.48344,986.0,"Azores, Portugal, British Isles",75001.0,0.0,2009,1
+139,HENRI,October 6 – 8,1,43.4488,1005.0,None,0.0,0.0,2009,0
+140,IDA,November 4 – 10,3,91.24248,975.0,"Central America (Nicaragua), Cayman Islands, Yucatán Peninsula, Cuba, Southeastern United States",11400000.0,4.0,2009,0
+141,ARTHUR,May 31 – June 2,1,39.10392,1004.0,"Belize, Yucatan Peninsula, Southwestern Mexico",78000000.0,9.0,2008,0
+142,BERTHA,July 3 – July 20,4,108.622,952.0,"Cape Verde, Bermuda, United States East Coast",75001.0,3.0,2008,1
+143,CRISTOBAL,July 19 – July 23,1,56.48344,998.0,"Florida, The Carolinas, Atlantic Canada",10000.0,0.0,2008,0
+144,DOLLY,July 20 – July 25,3,86.8976,963.0,"Guatemala, Yucatan Peninsula (Quintana Roo), Northeastern Mexico, South Texas, New Mexico, Arizona",1600000000.0,22.0,2008,0
+145,EDOUARD,August 3 – August 6,1,56.48344,996.0,United States Gulf Coast (Southeast Texas),5500000.0,6.0,2008,0
+146,FAY,August 15 – August 27,1,60.82832,986.0,"Leeward Islands, Puerto Rico, Dominican Republic, Haiti, Jamaica, Cuba, Southeastern United States (Florida)",560000000.0,36.0,2008,0
+147,GUSTAV,August 25 – September 4,5,134.69128,941.0,"Lesser Antilles, Dominican Republic, Haiti, Jamaica, Cayman Islands, Western Cuba, United States Gulf Coast (Louisiana), Midwestern United States",8310000000.000001,153.0,2008,0
+148,HANNA,August 28 – September 7,2,73.86296,977.0,"Puerto Rico, Turks and Caicos Islands, Bahamas, Haiti, Dominican Republic, United States East Coast (South Carolina), Atlantic Canada",160000000.0,537.0,2008,0
+149,IKE,September 1 – September 14,5,126.00152,935.0,"Dominican Republic, Turks and Caicos Islands, Haiti, The Bahamas, Cuba, United States Gulf Coast (Southeast Texas), Midwestern United States, Eastern Canada, Iceland",38000000000.0,195.0,2008,0
+150,JOSEPHINE,September 2 – September 6,1,56.48344,994.0,"Cape Verde, Leeward Islands",75001.0,0.0,2008,1
+151,KYLE,September 25 – September 29,2,73.86296,984.0,"Puerto Rico, Dominican Republic, Haiti, Bermuda, New England, The Maritimes (Nova Scotia)",57100000.0,8.0,2008,0
+152,LAURA,September 29 – October 1,1,52.13856,994.0,"British Isles, Netherlands, Norway",75001.0,0.0,2008,1
+153,MARCO,October 6 – October 7,1,56.48344,998.0,Eastern Mexico (Veracruz),75001.0,0.0,2008,1
+154,NANA,October 12 – October 14,1,34.75904,1004.0,None,0.0,0.0,2008,0
+155,OMAR,October 13 – October 18,5,112.96688,958.0,"Leeward Antilles, Venezuela, Leeward Islands, Puerto Rico",80000000.0,1.0,2008,0
+156,SIXTEEN,October 14 – October 15,0,26.06928,1004.0,"Honduras, Belize",150000000.0,75.0,2008,0
+157,PALOMA,November 5 – November 10,5,126.00152,944.0,"Nicaragua, Honduras, Cayman Islands, Jamaica, Cuba, The Bahamas, Florida",454500000.0,1.0,2008,0
+158,ANDREA,May 9 – 11,1,52.13856,1000.0,"Virginia, North Carolina, South Carolina, Georgia, Florida, The Bahamas",75001.0,6.0,2007,1
+159,BARRY,June 1 – 5,1,52.13856,997.0,"El Salvador, Western Cuba, Florida, East Coast of the United States",118000.0,3.0,2007,0
+160,CHANTAL,July 31 – August 1,1,43.4488,994.0,"Bermuda, Atlantic Canada, Newfoundland",24300000.0,0.0,2007,0
+161,DEAN,August 13 – 23,6,152.0708,905.0,"Lesser Antilles, Puerto Rico, Hispaniola, Jamaica, Cuba, Cayman Islands, Nicaragua, Honduras, Belize, Guatemala, Mexico",1660000000.0,45.0,2007,0
+162,ERIN,August 15 – 17,1,34.75904,1003.0,"Texas, Oklahoma, Central United States",248300000.0,21.0,2007,0
+163,FELIX,August 31 – September 5,6,152.0708,929.0,"Trinidad and Tobago, Windward Islands, Venezuela, Leeward Antilles, Colombia, Costa Rica, Nicaragua, Honduras, El Salvador, Belize, Guatemala, Mexico",720000000.0,133.0,2007,0
+164,GABRIELLE,September 8 – 11,1,52.13856,1004.0,North Carolina,5000.0,1.0,2007,0
+165,INGRID,September 12 – 17,1,39.10392,1002.0,None,0.0,0.0,2007,0
+166,HUMBERTO,September 12 – 14,2,78.20784,985.0,"Texas, Louisiana, Mississippi, The Carolinas",50000000.0,1.0,2007,0
+167,TEN,September 21 – 22,0,30.41416,1005.0,"Florida, Georgia, Alabama",6200000.0,0.0,2007,0
+168,JERRY,September 23 – 24,1,34.75904,1003.0,None,0.0,0.0,2007,0
+169,KAREN,September 25 – 29,2,65.1732,988.0,None,0.0,0.0,2007,0
+170,LORENZO,September 25 – 28,2,69.51808,990.0,Central Mexico,92000000.0,6.0,2007,0
+171,MELISSA,September 28 – 30,1,34.75904,1005.0,None,0.0,0.0,2007,0
+172,FIFTEEN,October 11 – 12,0,30.41416,1011.0,None,0.0,0.0,2007,0
+173,NOEL,October 28 – November 2,2,69.51808,980.0,"Leeward Islands, Puerto Rico, Hispaniola, Jamaica, Cuba, Turks and Caicos Islands, Bahamas, Florida, East Coast of the United States, Atlantic Canada, Greenland",580000000.0,222.0,2007,0
+174,OLGA,December 11 – 13,1,52.13856,1003.0,"Puerto Rico, Hispaniola, Yucatan Peninsula, Central Florida",45000000.0,40.0,2007,0
+175,ALBERTO,June 10 – 14,1,60.82832,995.0,"Southeast United States, Atlantic Canada, Florida",420000.0,2.0,2006,0
+176,UNNAMED,July 17 – 18,1,43.4488,998.0,"East Coast of the United States, Atlantic Canada",0.0,0.0,2006,0
+177,BERYL,July 18 – 21,1,52.13856,1000.0,"Long Island, Massachusetts, Atlantic Canada",75001.0,0.0,2006,1
+178,CHRIS,August 1 – 4,1,56.48344,1001.0,"Leeward Islands, Puerto Rico, Turks & Caicos Islands, Hispaniola, Bahamas, Eastern Cuba",75001.0,0.0,2006,1
+179,DEBBY,August 21 – 26,1,43.4488,999.0,Cape Verde,0.0,0.0,2006,0
+180,ERNESTO,August 24 – September 1,2,65.1732,985.0,"Lesser Antilles, Puerto Rico, Hispaniola, Cuba, East Coast of the United States (landfalls in Florida and North Carolina), Eastern Canada",500000000.0,11.0,2006,0
+181,FLORENCE,September 3 – 13,2,78.20784,974.0,"Bermuda, Newfoundland, East Coast of the United States, Atlantic Canada, Iceland, Greenland",200000.0,0.0,2006,0
+182,GORDON,September 11 – 20,4,104.27712,955.0,"Azores, Iberian Peninsula, British Isles",3800000.0,0.0,2006,0
+183,HELENE,September 12 – 24,4,104.27712,955.0,None,0.0,0.0,2006,0
+184,ISAAC,September 27 – October 2,2,73.86296,985.0,Newfoundland,75001.0,0.0,2006,1
+185,ARLENE,June 8 – 13,1,60.82832,989.0,"Cayman Islands, Cuba, Southeast United States, Midwest United States",11800000.0,1.0,2005,0
+186,BRET,June 28 – 30,1,34.75904,1002.0,Central Mexico,9300000.0,1.0,2005,0
+187,CINDY,July 3 – 7,2,65.1732,991.0,"Yucatan Peninsula, Southeastern US, East Coast of the United States",320000000.0,5.0,2005,0
+188,DENNIS,July 4 – 13,5,130.3464,930.0,"Windward Islands, Greater Antilles, Southeastern US, Great Lakes Region",3980000000.0,88.0,2005,0
+189,EMILY,July 11 – 21,6,139.03616,929.0,"Lesser Antilles, Greater Antilles, South America, Yucatan Peninsula, Mexico, Texas",1014000000.0,17.0,2005,0
+190,FRANKLIN,July 21 – 29,1,60.82832,997.0,"Bahamas, Bermuda, Newfoundland",0.0,0.0,2005,0
+191,GERT,July 23 – 25,1,39.10392,1005.0,Central Mexico,6000000.0,1.0,2005,0
+192,HARVEY,August 2 – 8,1,56.48344,994.0,Bermuda,0.0,0.0,2005,0
+193,IRENE,August 4 – 18,3,91.24248,970.0,East Coast of the US,0.0,1.0,2005,0
+194,TEN,August 13 – 14,0,30.41416,1008.0,None,0.0,0.0,2005,0
+195,JOSE,August 22 – 23,1,52.13856,998.0,Central Mexico,45000000.0,8.0,2005,0
+196,KATRINA,August 23 – 30,6,152.0708,902.0,"Bahamas, South Florida, Cuba, Southeastern US, Eastern US",125000000000.0,1836.0,2005,0
+197,LEE,August 28 – September 2,1,34.75904,1006.0,None,0.0,0.0,2005,0
+198,MARIA,September 1 – 10,4,99.93224,962.0,"Iceland, Scotland",3100000.0,4.0,2005,0
+199,NATE,September 5 – 10,2,78.20784,979.0,"Bermuda, Azores",0.0,2.0,2005,0
+200,OPHELIA,September 6 – 17,2,73.86296,976.0,"Bahamas, Florida, The Carolinas, East Coast of the US, Atlantic Canada, Europe",70000000.0,3.0,2005,0
+201,PHILIPPE,September 17 – 23,2,69.51808,985.0,Bermuda,75001.0,0.0,2005,1
+202,RITA,September 18 – 26,6,156.41568,895.0,"Hispaniola, Bahamas, Cuba, Florida, Gulf Coast of the United States, Midwestern United States",18500000000.0,125.0,2005,0
+203,NINETEEN,September 30 – October 2,0,30.41416,1006.0,None,0.0,0.0,2005,0
+204,STAN,October 1 – 5,2,69.51808,977.0,"Central America, Mexico",3960000000.0,1668.0,2005,0
+205,UNNAMED,October 4 – 5,1,43.4488,997.0,Azores,0.0,0.0,2005,0
+206,TAMMY,October 5 – 6,1,43.4488,1001.0,"Bahamas, Southeastern US",30000000.0,10.0,2005,0
+207,TWENTY-TWO,October 8 – 10,0,30.41416,1008.0,"Bermuda, New England",75001.0,10.0,2005,1
+208,VINCE,October 8 – 11,2,65.1732,988.0,"Portugal, Spain",75001.0,0.0,2005,1
+209,WILMA,October 15 – 26,6,160.76056,882.0,"Bahamas, Jamaica, Central America, Yucatan Peninsula, Cuba, South Florida, Bahamas, Atlantic Canada",27400000000.0,87.0,2005,0
+210,ALPHA,October 22 – 24,1,43.4488,998.0,"Hispaniola, Bahamas",75001.0,26.0,2005,1
+211,BETA,October 26 – 31,4,99.93224,962.0,"Central America, Colombia",15500000.0,9.0,2005,0
+212,GAMMA,November 14 – 21,1,43.4488,1002.0,"Lesser Antilles, Central America",18000000.0,39.0,2005,0
+213,DELTA,November 22 – 28,1,60.82832,980.0,"Canary Islands, North Africa",364000000.0,19.0,2005,0
+214,EPSILON,November 29 – December 8,2,73.86296,981.0,None,0.0,0.0,2005,0
+215,ZETA,December 30 – January 6,1,56.48344,994.0,None,0.0,0.0,2005,0
+216,ALEX,July 31 – August 6,4,104.27712,957.0,"Southeastern United States, Atlantic Canada",7500000.0,1.0,2004,0
+217,BONNIE,August 3 – August 14,1,56.48344,1001.0,"Lesser Antilles, Greater Antilles, Yucatán Peninsula, Southeastern United States (Florida), Mid-Atlantic states, New England, Atlantic Canada",1270000.0,4.0,2004,0
+218,CHARLEY,August 9 – August 14,5,130.3464,941.0,"Lesser Antilles, Greater Antilles (Cuba), East Coast of the United States (Florida)",16900000000.0,35.0,2004,0
+219,DANIELLE,August 13 – August 21,3,95.58735999999999,964.0,Cape Verde,0.0,0.0,2004,0
+220,EARL,August 13 – August 15,1,43.4488,1009.0,Windward Islands,0.0,1.0,2004,0
+221,FRANCES,August 24 – September 10,5,126.00152,935.0,"(The Bahamas), Southern United States, Midwestern United States, Mid-Atlantic states, New England, Atlantic Canada",10100000000.0,49.0,2004,0
+222,GASTON,August 27 – September 1,2,65.1732,985.0,"The Carolinas (South Carolina), Mid-Atlantic states, New England, Atlantic Canada",130000000.0,9.0,2004,0
+223,HERMINE,August 27 – August 31,1,52.13856,1002.0,"New England (Massachusetts), Atlantic Canada",75001.0,0.0,2004,1
+224,IVAN,September 2 – September 24,6,143.38103999999998,910.0,"Lesser Antilles, Venezuela, Greater Antilles, Gulf Coast of the United States (Alabama, Louisiana), Eastern United States, Atlantic Canada",26100000000.0,127.0,2004,0
+225,TEN,September 7 – September 9,0,30.41416,1009.0,None,0.0,0.0,2004,0
+226,JEANNE,September 13 – September 28,4,104.27712,950.0,"Leeward Islands (Guadeloupe), Greater Antilles (Puerto Rico, Dominican Republic), (The Bahamas), Southeastern United States (Florida), Mid-Atlantic states, New England, Atlantic Canada",7940000000.0,3042.0,2004,0
+227,KARL,September 16 – September 24,5,126.00152,938.0,"Faroe Islands, Iceland, Norway",75001.0,0.0,2004,1
+228,LISA,September 19 – October 3,2,65.1732,987.0,None,0.0,0.0,2004,0
+229,MATTHEW,October 8 – October 10,1,39.10392,997.0,"Gulf Coast of the United States (Louisiana), Midwestern United States, Great Plains",305000.0,0.0,2004,0
+230,NICOLE,October 10 – October 11,1,43.4488,986.0,"Bermuda, Maine, Atlantic Canada",0.0,0.0,2004,0
+231,OTTO,November 29 – December 3,1,43.4488,995.0,None,0.0,0.0,2004,0
+232,ANA,April 20 – 24,1,52.13856,994.0,"Florida, Bermuda, Azores, British Isles",75002.0,2.0,2003,1
+233,TWO,June 11,0,30.41416,1008.0,None,0.0,0.0,2003,0
+234,BILL,June 28 – July 2,1,52.13856,997.0,"Gulf Coast of the United States, Southeastern United States",50500000.0,4.0,2003,0
+235,CLAUDETTE,July 8 – 17,2,78.20784,979.0,"Yucatán Peninsula, Texas, Windward Islands, Jamaica",181000000.0,3.0,2003,0
+236,DANNY,July 16 – 21,2,65.1732,1000.0,None,0.0,0.0,2003,0
+237,SIX,July 19 – 21,0,30.41416,1010.0,None,0.0,0.0,2003,0
+238,SEVEN,July 25 – 27,0,30.41416,1016.0,Georgia,0.0,0.0,2003,0
+239,ERIKA,August 14 – 17,2,65.1732,988.0,"Florida, Mexico, Southern Texas",100000.0,2.0,2003,0
+240,NINE,August 21 – 22,0,30.41416,1007.0,"Lesser Antilles, Puerto Rico, Dominican Republic",200000.0,0.0,2003,0
+241,FABIAN,August 25 – September 8,5,121.65664,939.0,"Leeward Islands, Bermuda, Eastern Canada",300000000.0,8.0,2003,0
+242,GRACE,August 30 – September 2,1,34.75904,1007.0,"Texas, Oklahoma, Ohio Valley, Mid-Atlantic States",113000.0,0.0,2003,0
+243,HENRI,September 3 – 8,1,52.13856,997.0,"Florida, Delaware, Pennsylvania",19600000.0,0.0,2003,0
+244,ISABEL,September 6 – 19,6,143.38103999999998,915.0,"Lesser Antilles, Puerto Rico, Greater Antilles, Turks and Caicos Islands, Bahamas, East coast of the United States, Atlantic Canada",5500000000.0,51.0,2003,0
+245,FOURTEEN,September 8 – 10,0,30.41416,1007.0,None,0.0,0.0,2003,0
+246,JUAN,September 24 – 29,3,91.24248,969.0,Eastern Canada (Nova Scotia and Prince Edward Island),200000000.0,2.0,2003,0
+247,KATE,September 25 – October 7,4,108.622,952.0,"Newfoundland, Iceland, Europe",0.0,0.0,2003,0
+248,LARRY,October 1 – 6,1,56.48344,993.0,Central America,53600000.0,5.0,2003,0
+249,MINDY,October 10 – 14,1,39.10392,1002.0,"Hispaniola, Puerto Rico",500000.0,0.0,2003,0
+250,NICHOLAS,October 13 – 23,1,60.82832,990.0,None,0.0,0.0,2003,0
+251,ODETTE,December 4 – 7,1,56.48344,993.0,"Dominican Republic, Haiti, Puerto Rico",8000000.0,10.0,2003,0
+252,PETER,December 7 – 11,1,60.82832,990.0,None,0.0,0.0,2003,0
+253,ARTHUR,July 14 – July 16,1,52.13856,997.0,Southeastern United States,75001.0,1.0,2002,1
+254,BERTHA,August 4 – August 9,1,34.75904,1007.0,Mississippi,200000.0,1.0,2002,0
+255,CRISTOBAL,August 5 – August 8,1,43.4488,999.0,"Bermuda, New York",75001.0,3.0,2002,1
+256,DOLLY,August 29 – September 4,1,52.13856,997.0,None,0.0,0.0,2002,0
+257,EDOUARD,September 1 – September 6,1,56.48344,1002.0,Florida,75001.0,0.0,2002,1
+258,FAY,September 5 – September 8,1,52.13856,998.0,"Texas, Northern Mexico",4500000.0,0.0,2002,0
+259,SEVEN,September 7 - September 8,0,30.41416,1013.0,None,0.0,0.0,2002,0
+260,GUSTAV,September 8 - September 12,3,86.8976,960.0,"North Carolina, Virginia, New Jersey, New England",340000.0,4.0,2002,0
+261,HANNA,September 12 - September 15,1,52.13856,1001.0,"Florida, Louisiana, Alabama, Mississippi, Georgia, Southeastern U.S., Mid Atlantic",20000000.0,3.0,2002,0
+262,ISIDORE,September 14 - September 27,4,108.622,934.0,"Venezuela, Jamaica, Cayman Islands, Cuba, Yucatán Peninsula, Louisiana, Mississippi",1280000000.0,22.0,2002,0
+263,JOSEPHINE,September 17 - September 19,1,34.75904,1006.0,None,0.0,0.0,2002,0
+264,KYLE,September 20 - October 12,2,73.86296,980.0,"Bermuda, Florida, Georgia, South Carolina, North Carolina, British Isles",5000000.0,1.0,2002,0
+265,LILI,September 21 - October 4,5,126.00152,938.0,"Windward Islands, Haiti, Cuba, Cayman Islands, Louisiana",1160000000.0,15.0,2002,0
+266,FOURTEEN,October 14 - October 16,0,30.41416,1002.0,"Jamaica, Cayman Islands, Cuba",75001.0,0.0,2002,1
+267,ALLISON,June 4 – 18,1,52.13856,1000.0,"United States Gulf Coast, Eastern United States",75002.0,0.0,2001,1
+268,TWO,July 11 – 12,0,26.06928,1010.0,None,0.0,0.0,2001,0
+269,BARRY,August 2 – 8,1,60.82832,990.0,United States Gulf Coast,75002.0,0.0,2001,1
+270,CHANTAL,August 14 – 22,1,60.82832,997.0,"Windward Islands, Jamaica, Belize, Mexico",75002.0,0.0,2001,1
+271,DEAN,August 22 – 28,1,60.82832,994.0,"Puerto Rico, Newfoundland",75002.0,0.0,2001,1
+272,ERIN,September 1 – 15,4,104.27712,968.0,Bermuda,75001.0,0.0,2001,1
+273,FELIX,September 7 – 19,4,99.93224,962.0,None,0.0,0.0,2001,0
+274,GABRIELLE,September 11 – 19,2,69.51808,975.0,"Florida, Newfoundland",75002.0,0.0,2001,1
+275,NINE,September 19 – 20,0,30.41416,1005.0,Central America,75001.0,0.0,2001,1
+276,HUMBERTO,September 21 – 27,3,91.24248,970.0,Bermuda,75001.0,0.0,2001,1
+277,IRIS,October 4 – 9,5,126.00152,948.0,"Hispaniola, Jamaica, Belize, Guatemala, Mexico",75002.0,0.0,2001,1
+278,JERRY,October 6 – 8,1,43.4488,1004.0,Lesser Antilles,75001.0,0.0,2001,1
+279,KAREN,October 12 – 15,2,69.51808,982.0,Atlantic Canada,75002.0,0.0,2001,1
+280,LORENZO,October 27 – 31,1,34.75904,1007.0,None,0.0,0.0,2001,0
+281,MICHELLE,October 29 – November 5,5,121.65664,933.0,"Central America, Jamaica, Cuba, Bahamas",75002.0,0.0,2001,1
+282,NOEL,November 4 – 6,2,65.1732,986.0,None,0.0,0.0,2001,0
+283,OLGA,November 24 – December 4,2,78.20784,973.0,"Bermuda, Bahamas",0.0,0.0,2001,0
+284,ONE,June 7 – 8,0,26.06928,1008.0,"Mexico, Texas",0.0,0.0,2000,0
+285,TWO,June 23 – 25,0,30.41416,1008.0,None,0.0,0.0,2000,0
+286,ALBERTO,August 3 – 23,4,108.622,950.0,"Senegal, East Coast of the United States, Iceland and Jan Mayen",0.0,0.0,2000,0
+287,FOUR,August 8 – 11,0,30.41416,1009.0,None,0.0,0.0,2000,0
+288,BERYL,August 13 – 15,1,43.4488,1007.0,"Mexico (Tamaulipas), Texas",270000.0,1.0,2000,0
+289,CHRIS,August 17 – 19,1,34.75904,1008.0,None,0.0,0.0,2000,0
+290,DEBBY,August 19 – 24,2,73.86296,991.0,"Lesser Antilles (Barbuda, St. Barthelemy, Virgin Gorda), Greater Antilles, Turks and Caicos, Florida",735000.0,1.0,2000,0
+291,ERNESTO,September 1 – 3,1,34.75904,1008.0,None,0.0,0.0,2000,0
+292,NINE,September 8 – 9,0,30.41416,1008.0,Gulf Coast of the United States (Texas),0.0,0.0,2000,0
+293,FLORENCE,September 10 – 17,2,69.51808,985.0,"Bermuda, North Carolina, Newfoundland",0.0,3.0,2000,0
+294,GORDON,September 14 – 21,2,69.51808,981.0,"Mexico (Quintana Roo), Southeastern United States (Florida), Mid-Atlantic states, New England",10800000.0,26.0,2000,0
+295,HELENE,September 15 – 25,1,60.82832,986.0,Southeastern United States (Florida),16000000.0,2.0,2000,0
+296,ISAAC,September 21 – October 1,5,121.65664,943.0,"Bermuda, New York, British Isles",0.0,1.0,2000,0
+297,JOYCE,September 25 – October 2,2,78.20784,975.0,"Windward Islands, ABC Islands, Dominican Republic",75001.0,0.0,2000,1
+298,KEITH,September 28 – October 6,5,121.65664,939.0,"Central America (Belize), Mexico (Tamaulipas)",319000000.0,68.0,2000,0
+299,LESLIE,October 4 – 7,1,39.10392,1006.0,"Cuba, Florida, Bermuda, Newfoundland",950000000.0,3.0,2000,0
+300,MICHAEL,October 15 – 20,3,86.8976,965.0,"Bermuda, Maine, Atlantic Canada",75001.0,0.0,2000,1
+301,NADINE,October 19 – 21,1,52.13856,999.0,None,0.0,0.0,2000,0
+302,UNNAMED,October 25 – 29,1,56.48344,976.0,"New England, Atlantic Canada",75001.0,0.0,2000,1
+303,ARLENE,June 11 – 18,1,52.13856,1006.0,Bermuda,75001.0,0.0,1999,1
+304,TWO,July 2 – 3,0,30.41416,1004.0,Mexico,75001.0,0.0,1999,1
+305,BRET,August 18 – 25,5,126.00152,944.0,"Mexico, Texas",15000000.0,7.0,1999,0
+306,CINDY,August 19 – 31,5,121.65664,942.0,Cape Verde,0.0,0.0,1999,0
+307,DENNIS,August 24 – September 9,3,91.24248,962.0,"Southeastern United States, Mid-Atlantic, New England, Quebec",157000000.0,4.0,1999,0
+308,EMILY,August 24 – 28,1,43.4488,1006.0,None,0.0,0.0,1999,0
+309,SEVEN,September 5 – 7,0,30.41416,1006.0,"Mexico, Texas",75001.0,0.0,1999,1
+310,FLOYD,September 7 – 17,5,134.69128,921.0,"Lesser Antilles, Hispaniola, Cuba, Bahamas, Southeastern United States, Mid-Atlantic, New England, Atlantic Canada, Nova Scotia, Newfoundland",6500000000.0,107.0,1999,0
+311,GERT,September 11 – 23,5,130.3464,930.0,"Bermuda, Maine, Atlantic Canada",1900000.0,2.0,1999,0
+312,HARVEY,September 19 – 22,1,52.13856,994.0,"Southeastern United States, Atlantic Canada",22600000.0,0.0,1999,0
+313,ELEVEN,October 4 – 6,0,30.41416,1002.0,Mexico,75001.0,0.0,1999,1
+314,TWELVE,October 6 – 8,0,30.41416,1007.0,None,0.0,0.0,1999,0
+315,IRENE,October 12 – 19,3,95.58735999999999,958.0,"Cuba, Bahamas, Southeastern United States",800000000.0,18.0,1999,0
+316,JOSE,October 17 – 25,3,86.8976,979.0,"Lesser Antilles, Puerto Rico",5000000.0,3.0,1999,0
+317,KATRINA,October 27 – November 1,1,34.75904,999.0,"Central America, Mexico",75001.0,0.0,1999,1
+318,LENNY,November 13 – 23,5,134.69128,933.0,"Colombia, Jamaica, Hispaniola, Puerto Rico, Lesser Antilles",685800000.0,17.0,1999,0
+319,ALEX,July 27 – August 2,1,43.4488,1000.0,None,0.0,0.0,1998,0
+320,BONNIE,August 19 – August 30,4,99.93224,954.0,"Southeastern United States (North Carolina), Mid-Atlantic, Massachusetts, Atlantic Canada",1000000000.0,5.0,1998,0
+321,CHARLEY,August 21 – August 24,1,60.82832,1000.0,"Louisiana, Texas, Mexico",50000000.0,20.0,1998,0
+322,DANIELLE,August 24 – September 3,3,91.24248,960.0,"Puerto Rico, East Coast of the United States, Atlantic Canada, United Kingdom",50000.0,0.0,1998,0
+323,EARL,August 31 – September 3,3,86.8976,985.0,"Mexico, Southeastern United States (Florida)",79000000.0,3.0,1998,0
+324,FRANCES,September 8 – September 13,1,56.48344,990.0,"Mexico, Florida, Gulf Coast of the United States (Texas), Midwestern United States, New York, New England",500000000.0,2.0,1998,0
+325,GEORGES,September 15 – October 1,5,134.69128,937.0,"Lesser Antilles (Antigua, Saint Kitts, Saint Croix), Greater Antilles (Puerto Rico, Dominican Republic, Cuba), Southern United States (Mississippi)",9370000000.0,604.0,1998,0
+326,HERMINE,September 17 – September 20,1,39.10392,999.0,Southern United States (Louisiana),85000.0,2.0,1998,0
+327,IVAN,September 19 – September 27,2,78.20784,975.0,None,0.0,0.0,1998,0
+328,JEANNE,September 21 – October 1,3,91.24248,969.0,None,0.0,0.0,1998,0
+329,KARL,September 23 – September 28,3,91.24248,970.0,None,0.0,0.0,1998,0
+330,LISA,October 5 – October 9,2,65.1732,995.0,None,0.0,0.0,1998,0
+331,MITCH,October 22 – November 5,6,156.41568,905.0,"Cayman Islands, Cuba, Jamaica, Central America (Honduras), Mexico, Florida, Ireland",608000000000.0,385.0,1998,0
+332,NICOLE,November 24 – December 1,2,73.86296,979.0,None,0.0,0.0,1998,0
+333,UNNAMED,June 1 – June 2,1,43.4488,1003.0,None,0.0,0.0,1997,0
+334,ANA,June 30 – July 4,1,43.4488,1000.0,None,0.0,0.0,1997,0
+335,BILL,July 11 – July 13,2,65.1732,986.0,Newfoundland,0.0,0.0,1997,0
+336,CLAUDETTE,July 13 – July 16,1,39.10392,1003.0,East Coast of the United States,0.0,0.0,1997,0
+337,DANNY,July 16 – July 26,2,69.51808,984.0,"Gulf Coast of the United States (Louisiana and Alabama), Southeastern United States, Mid-Atlantic states, New England",100000000.0,9.0,1997,0
+338,FIVE,July 17 – July 19,0,30.41416,1008.0,None,0.0,0.0,1997,0
+339,ERIKA,September 3 – September 20,4,108.622,946.0,"Lesser Antilles, Azores",10000000.0,2.0,1997,0
+340,FABIAN,October 4 – October 8,1,34.75904,994.0,Lesser Antilles,0.0,0.0,1997,0
+341,GRACE,October 16 – October 17,1,39.10392,999.0,"United States Virgin Islands, Puerto Rico and Hispaniola",1460000.0,1.0,1997,0
+342,ARTHUR,June 17 – June 21,1,39.10392,1004.0,North Carolina,1000000.0,0.0,1996,0
+343,BERTHA,July 5 – July 14,4,99.93224,960.0,"Leeward Islands, Puerto Rico, Southeastern United States (North Carolina), Mid-Atlantic States, New England",335000000.0,12.0,1996,0
+344,CESAR,July 24 – July 29,2,73.86296,985.0,"Curaçao, Central America (Honduras), Colombia, Venezuela, Mexico",203000000.0,113.0,1996,0
+345,DOLLY,August 19 – August 26,2,69.51808,989.0,"Mexico (Quintana Roo and Veracruz), Texas",0.0,14.0,1996,0
+346,EDOUARD,August 19 – September 3,5,126.00152,933.0,"Southeastern United States, Mid-Atlantic states, New England, Nova Scotia",20000000.0,2.0,1996,0
+347,FRAN,August 23 – September 8,4,104.27712,946.0,"Southeastern United States (North Carolina), Mid-Atlantic states, Midwestern United States, New England, Ontario",5000000000.0,37.0,1996,0
+348,GUSTAV,August 26 – September 2,1,39.10392,1005.0,none,0.0,0.0,1996,0
+349,HORTENSE,September 3 – September 16,5,121.65664,935.0,"Lesser Antilles, Puerto Rico, Dominican Republic, Bahamas, Atlantic Canada (Nova Scotia)",158000000.0,39.0,1996,0
+350,ISIDORE,September 24 – October 1,4,99.93224,960.0,None,0.0,0.0,1996,0
+351,JOSEPHINE,October 4 – October 8,1,60.82832,981.0,"Gulf Coast of the United States, Southeastern United States (Florida), Mid-Atlantic states, New England, Atlantic Canada",130000000.0,3.0,1996,0
+352,KYLE,October 11 – October 13,1,43.4488,1001.0,"Central America (Guatemala), Mexico",0.0,0.0,1996,0
+353,LILI,October 14 – October 27,4,99.93224,960.0,"Central America, Cuba, Bahamas, Ireland, United Kingdom",662000000.0,22.0,1996,0
+354,MARCO,November 16 – November 26,2,65.1732,983.0,"Central America, Greater Antilles",8199999.999999999,14.0,1996,0
+355,ALLISON,June 2 – 10,2,65.1732,987.0,"Cuba, Southeastern United States (Florida), East Coast of the United States",1700000.0,1.0,1995,0
+356,BARRY,July 6 – 10,1,60.82832,989.0,Atlantic Canada (Nova Scotia),75001.0,0.0,1995,1
+357,CHANTAL,July 12 – 22,1,60.82832,991.0,Atlantic Canada,0.0,0.0,1995,0
+358,DEAN,July 28 – August 3,1,39.10392,999.0,"Gulf Coast of the United States (Texas), Great Plains, Midwestern United States",500000.0,1.0,1995,0
+359,ERIN,July 31 – August 6,3,86.8976,973.0,"Southeastern United States (Florida), Midwestern United States, Mid-Atlantic states, New England",700000000.0,13.0,1995,0
+360,SIX,August 5 – 7,0,30.41416,1002.0,Mexico (Veracruz),0.0,0.0,1995,0
+361,FELIX,August 8 – 22,5,121.65664,929.0,"Puerto Rico, Bermuda, East Coast of the United States, Atlantic Canada",3630000.0,9.0,1995,0
+362,GABRIELLE,August 9 – 12,1,60.82832,988.0,Mexico (Tamaulipas),75001.0,6.0,1995,1
+363,HUMBERTO,August 21 – September 1,3,95.58735999999999,968.0,None,0.0,0.0,1995,0
+364,IRIS,August 22 – September 4,3,95.58735999999999,965.0,"Lesser Antilles (Antigua, Montserrat, Barbuda)",75001.0,5.0,1995,1
+365,JERRY,August 22 – 28,1,34.75904,1002.0,Southeastern United States (Florida),40000000.0,8.0,1995,0
+366,KAREN,August 26 – September 3,1,43.4488,1000.0,None,0.0,0.0,1995,0
+367,LUIS,August 27 – September 11,5,130.3464,935.0,"Leeward Islands (Barbuda), Puerto Rico, Bermuda, East Coast of the United States, Atlantic Canada (Newfoundland)",2970000000.0,19.0,1995,0
+368,FOURTEEN,September 9 – 13,0,30.41416,1008.0,None,0.0,0.0,1995,0
+369,MARILYN,September 12 – 22,4,99.93224,949.0,"Lesser Antilles (Dominica), Virgin Islands (Saint Croix), Bermuda",2100000000.0,13.0,1995,0
+370,NOEL,September 26 – October 7,2,65.1732,987.0,None,0.0,0.0,1995,0
+371,OPAL,September 27 – October 5,5,130.3464,916.0,"Guatemala, Mexico (Yucatán Peninsula), Gulf Coast of the United States (Florida), Midwestern United States, Mid-Atlantic states, New England, Canada",4700000000.0,77.0,1995,0
+372,PABLO,October 4 – 8,1,52.13856,994.0,None,0.0,0.0,1995,0
+373,ROXANNE,October 7 – 21,4,99.93224,956.0,Mexico (Yucatán Peninsula),1500000000.0,29.0,1995,0
+374,SEBASTIEN,October 20 – 25,1,56.48344,1001.0,"Lesser Antilles (Anguilla), Puerto Rico",0.0,0.0,1995,0
+375,TANYA,October 26 – November 1,2,73.86296,972.0,Azores,75001.0,1.0,1995,1
+376,ALBERTO,June 30 – July 7,1,56.48344,993.0,Southern United States (Florida),1030000000.0,30.0,1994,0
+377,TWO,July 20 – July 21,0,30.41416,1015.0,"Southeastern United States (South Carolina), Mid-Atlantic states, New England",0.0,0.0,1994,0
+378,BERYL,August 14 – August 19,1,52.13856,1000.0,"Southeastern United States (Florida), Mid-Atlantic states, New England",73000000.0,1.0,1994,0
+379,CHRIS,August 16 – August 23,2,69.51808,979.0,Bermuda,0.0,0.0,1994,0
+380,FIVE,August 29 – August 31,0,30.41416,1005.0,Mexico,75001.0,0.0,1994,1
+381,DEBBY,September 9 – September 11,1,60.82832,1006.0,"Lesser Antilles (St. Lucia), Puerto Rico, Dominican Republic",230000000.0,9.0,1994,0
+382,ERNESTO,September 21 – September 26,1,52.13856,1000.0,None,0.0,0.0,1994,0
+383,EIGHT,September 24 – September 26,0,30.41416,1004.0,"Central America (Belize), Mexico",75001.0,0.0,1994,1
+384,NINE,September 27 – September 29,0,30.41416,1007.0,None,0.0,0.0,1994,0
+385,TEN,September 29 – September 30,0,30.41416,1004.0,"Cuba, Mexico, Southeastern United States",5000000.0,0.0,1994,0
+386,FLORENCE,November 2 – November 8,3,95.58735999999999,972.0,None,0.0,0.0,1994,0
+387,GORDON,November 8 – November 21,2,73.86296,980.0,"Central America (Nicaragua), Jamaica, Cuba, Haiti, Dominican Republic, Southeastern United States (Florida), Mid-Atlantic states",594000000.0,1149.0,1994,0
+388,ONE,May 31 – June 2,0,30.41416,999.0,"Cuba, Jamaica, Haiti, Florida, The Bahamas",75001.0,20.0,1993,1
+389,ARLENE,June 18 – June 21,1,34.75904,1000.0,"Guatemala, Mexico, Texas, Louisiana, Arkansas, Mississippi",60800000.0,26.0,1993,0
+390,BRET,August 4 – August 11,1,52.13856,1002.0,"Trinidad, Grenada, ABC islands, Venezuela, Colombia, Nicaragua",37500000.0,213.0,1993,0
+391,CINDY,August 14 – August 17,1,39.10392,1007.0,"Lesser Antilles (Martinique), Puerto Rico, Dominican Republic",19000000.0,4.0,1993,0
+392,DENNIS,August 23 – August 28,1,43.4488,1000.0,none,0.0,0.0,1993,0
+393,EMILY,August 22 – September 6,4,99.93224,960.0,"North Carolina, Virginia, Maryland, Delaware",35000000.0,3.0,1993,0
+394,FLOYD,September 7 – September 10,2,65.1732,990.0,Newfoundland,75001.0,0.0,1993,1
+395,GERT,September 14 – September 21,3,86.8976,970.0,"Central America (Nicaragua and Belize), Mexico",170000000.0,116.0,1993,0
+396,HARVEY,September 18 – September 21,2,65.1732,990.0,none,0.0,0.0,1993,0
+397,TEN,September 29 – September 30,0,30.41416,1008.0,none,0.0,0.0,1993,0
+398,UNNAMED,April 21 – April 24,1,43.4488,1002.0,None,0.0,0.0,1992,0
+399,ONE,June 25 – June 26,0,30.41416,1007.0,Florida,2600000.0,5.0,1992,0
+400,TWO,July 24 – July 26,0,30.41416,1015.0,None,0.0,0.0,1992,0
+401,ANDREW,August 16 – August 28,6,152.0708,922.0,"Bahamas (Bahama Banks and Berry Islands), Southeastern United States (Florida), Gulf Coast of the United States (Louisiana), Midwestern United States, Mid-Atlantic states",27300000000.0,65.0,1992,0
+402,BONNIE,September 17 – September 30,3,95.58735999999999,965.0,Azores,75001.0,1.0,1992,1
+403,CHARLEY,September 21 – September 27,3,95.58735999999999,965.0,Azores,75001.0,0.0,1992,1
+404,DANIELLE,September 22 – September 26,1,52.13856,1001.0,"North Carolina, Mid-Atlantic states (Maryland), New England",75001.0,2.0,1992,1
+405,SEVEN,September 25 – October 1,0,30.41416,1008.0,none,75001.0,0.0,1992,1
+406,EARL,September 26 – October 3,1,56.48344,990.0,"Florida, Georgia, North Carolina",0.0,0.0,1992,0
+407,FRANCES,October 23 – October 27,2,73.86296,976.0,"Newfoundland, Iberian Peninsula",0.0,0.0,1992,0
+408,ANA,July 2 – July 5,1,43.4488,1000.0,"South Carolina, Florida, Southeastern United States",75001.0,0.0,1991,1
+409,TWO,July 5 – July 7,0,30.41416,1003.0,Mexico,75001.0,0.0,1991,1
+410,BOB,August 16 – August 20,4,99.93224,950.0,"North Carolina, Mid-Atlantic States, New England, and Atlantic Canada",1500000000.0,17.0,1991,0
+411,FOUR,August 24 – August 26,0,30.41416,1009.0,none,0.0,0.0,1991,0
+412,FIVE,August 28 – August 31,0,30.41416,1009.0,none,0.0,0.0,1991,0
+413,CLAUDETTE,September 4 – September 14,5,112.96688,944.0,Bermuda,75001.0,0.0,1991,1
+414,DANNY,September 7 – September 11,1,43.4488,998.0,none,0.0,0.0,1991,0
+415,ERIKA,September 8 – September 12,1,52.13856,997.0,none,0.0,0.0,1991,0
+416,FABIAN,October 15 – October 16,1,39.10392,1002.0,"Cuba, Florida",75001.0,0.0,1991,1
+417,TEN,October 24 – October 25,0,26.06928,1009.0,none,0.0,0.0,1991,0
+418,GRACE,October 25 – October 29,3,91.24248,980.0,none,0.0,0.0,1991,0
+419,PERFECT STORM,October 31 – November 2,2,65.1732,972.0,"East Coast of the United States, Atlantic Canada",200000000.0,13.0,1991,0
+420,ONE,May 25 – May 26,0,26.06928,1007.0,"Cuba, Florida",75001.0,0.0,1990,1
+421,ARTHUR,July 22 – July 27,1,60.82832,995.0,Windward Islands,75001.0,0.0,1990,1
+422,BERTHA,July 24 – August 2,2,69.51808,973.0,"Florida, Atlantic Canada",3910000.0,9.0,1990,0
+423,CESAR,July 31 – August 7,1,43.4488,1000.0,None,0.0,0.0,1990,0
+424,DIANA,August 4 – 9,3,86.8976,980.0,"Yucatán Peninsula, Mexico",90700000.0,139.0,1990,0
+425,EDOUARD,August 4 – 11,1,39.10392,1003.0,Azores,75001.0,0.0,1990,1
+426,FRAN,August 11 – 15,1,34.75904,1007.0,Windward Islands,0.0,0.0,1990,0
+427,GUSTAV,August 24 – September 3,4,104.27712,956.0,Northern Leeward Islands,0.0,0.0,1990,0
+428,HORTENSE,August 25 – 31,1,56.48344,993.0,None,0.0,0.0,1990,0
+429,ISIDORE,September 4 – 17,3,86.8976,978.0,None,0.0,0.0,1990,0
+430,ELEVEN,September 19 – 27,0,30.41416,1003.0,None,0.0,0.0,1990,0
+431,JOSEPHINE,September 12 – October 6,2,73.86296,980.0,None,0.0,0.0,1990,0
+432,KLAUS,October 3 – 9,2,69.51808,985.0,"Lesser Antilles, the Bahamas",1000000.0,11.0,1990,0
+433,LILI,October 6 – 14,2,65.1732,987.0,"Bermuda, North Carolina, Atlantic Canada",0.0,0.0,1990,0
+434,MARCO,October 9 – 12,1,52.13856,989.0,"Florida, Georgia, United States East Coast",57000000.0,12.0,1990,0
+435,ONE,June 15 – June 17,0,26.06928,,None,0.0,0.0,1989,0
+436,ALLISON,June 24 – June 27,1,43.4488,999.0,"Southern United States (Texas), Midwestern United States, Mid-Atlantic states",360000000.0,11.0,1989,0
+437,BARRY,July 9 – July 14,1,43.4488,1005.0,None,0.0,0.0,1989,0
+438,CHANTAL,June 24 – June 27,2,69.51808,984.0,"Mexico, (Texas), Louisiana, Oklahoma Kansas, Midwestern United States",100000000.0,13.0,1989,0
+439,DEAN,July 31 – August 9,3,91.24248,968.0,"Leeward Islands, Bermuda, North Carolina, Atlantic Canada (Newfoundland)",8900000.0,0.0,1989,0
+440,SIX,August 8 – August 17,0,30.41416,,None,0.0,0.0,1989,0
+441,ERIN,August 18 – August 27,3,91.24248,968.0,Cape Verde,0.0,0.0,1989,0
+442,FELIX,August 25 – August 26,2,73.86296,979.0,None,0.0,0.0,1989,0
+443,NINE,August 27 – August 28,0,26.06928,,None,0.0,0.0,1989,0
+444,GABRIELLE,September 4 – September 13,5,126.00152,937.0,"Leeward Islands, Bermuda, East Coast of the United States, Atlantic Canada",0.0,9.0,1989,0
+445,HUGO,September 8 – September 19,6,139.03616,918.0,"Lesser Antilles, (Puerto Rico), Southeastern United States (South Carolina), Northeastern United States, Ontario, Quebec, Atlantic Canada, Southern Greenland",9470000000.0,100.0,1989,0
+446,IRIS,September 12 – September 17,1,60.82832,1001.0,United States Virgin Islands,0.0,0.0,1989,0
+447,THIRTEEN,October 2 – October 5,0,30.41416,,None,0.0,0.0,1989,0
+448,JERRY,October 12 – October 16,2,73.86296,982.0,"Southern United States (Texas), Midwestern United States, Mid-Atlantic states",70000000.0,3.0,1989,0
+449,KAREN,November 28 – December 4,1,56.48344,1000.0,Cuba,0.0,0.0,1989,0
+450,ONE,May 30 – June 2,0,26.06928,1002.0,Cuba,0.0,0.0,1988,0
+451,ALBERTO,August 5–8,1,34.75904,1002.0,"United States East Coast, Atlantic Canada",0.0,0.0,1988,0
+452,BERYL,August 8–10,1,,1001.0,United States Gulf Coast,75002.0,0.0,1988,1
+453,FOUR,August 12–15,0,,1012.0,Florida,0.0,0.0,1988,0
+454,FIVE,August 20 – September 1,0,,1006.0,None,0.0,0.0,1988,0
+455,SIX,August 20–23,0,,1006.0,Windward Islands,0.0,0.0,1988,0
+456,CHRIS,August 21–30,1,,1005.0,"Leeward Islands, Dominican Republic, Bahamas, United States",75002.0,0.0,1988,1
+457,DEBBY,August 31 – September 8,2,,987.0,"Tuxpan, Veracruz",75001.0,0.0,1988,1
+458,ERNESTO,September 3–5,1,,994.0,None,0.0,0.0,1988,0
+459,TEN,September 3–4,0,,1004.0,Louisiana,0.0,0.0,1988,0
+460,FLORENCE,September 7–11,2,,983.0,Mississippi River Delta,2900000.0,0.0,1988,0
+461,UNNAMED,September 7–10,1,,994.0,None,0.0,0.0,1988,0
+462,GILBERT,September 8–19,6,160.76056,888.0,"Venezuela, Central America, Hispaniola, Mexico",75002.0,0.0,1988,1
+463,HELENE,September 19–30,5,,938.0,None,0.0,0.0,1988,0
+464,FIFTEEN,September 27–28,0,,1009.0,None,0.0,0.0,1988,0
+465,ISAAC,September 28 – October 1,1,,1005.0,None,0.0,0.0,1988,0
+466,JOAN–MIRIAM,October 11 – November 2,5,126.00152,932.0,"Lesser Antilles, Colombia, Venezuela, Central America",75002.0,0.0,1988,1
+467,EIGHTEEN,October 20–21,0,,,None,0.0,0.0,1988,0
+468,KEITH,November 17–24,1,,,"Yucatán Peninsula, Florida",75002.0,0.0,1988,1
+469,ONE,May 24 – June 1,0,30.41416,1003.0,"Bahamas, Florida",75002.0,0.0,1987,1
+470,UNNAMED,August 9 – 17,1,39.10392,1007.0,United States Gulf Coast,75002.0,0.0,1987,1
+471,ARLENE,August 10 – 23,2,65.1732,987.0,"Bahamas, Bermuda",75002.0,0.0,1987,1
+472,FOUR,August 14 – 15,0,30.41416,1011.0,None,75002.0,0.0,1987,1
+473,BRET,August 17 – 24,1,43.4488,1000.0,Cape Verde Islands,75002.0,0.0,1987,1
+474,SIX,August 31 – September 4,0,30.41416,1006.0,None,75002.0,0.0,1987,1
+475,CINDY,September 5 – 10,1,43.4488,1000.0,None,75002.0,0.0,1987,1
+476,EIGHT,September 5 – 8,0,30.41416,1006.0,Nicaragua,75002.0,0.0,1987,1
+477,NINE,September 6 – 10,0,30.41416,1007.0,United States East Coast,75002.0,0.0,1987,1
+478,DENNIS,September 8 – 20,1,43.4488,1000.0,None,75002.0,0.0,1987,1
+479,ELEVEN,September 14 – 16,0,30.41416,1008.0,None,75002.0,0.0,1987,1
+480,EMILY,September 20 – 27,4,108.622,958.0,"Lesser Antilles, Greater Antilles, Bermuda",75002.0,0.0,1987,1
+481,FLOYD,October 9 – 13,2,65.1732,993.0,"Central America, Cuba, Florida, Bahamas",75002.0,0.0,1987,1
+482,FOURTEEN,October 31 – November 4,0,30.41416,1004.0,"Jamaica, Cayman Islands, Cuba, Florida",75002.0,0.0,1987,1
+483,ANDREW,June 5 – 8,1,43.4488,999.0,The Carolinas,75001.0,0.0,1986,1
+484,BONNIE,June 23 – 28,2,73.86296,992.0,"Texas, Louisiana, Southeastern United States",75002.0,0.0,1986,1
+485,THREE,July 23 – 28,0,30.41416,1012.0,None,0.0,0.0,1986,0
+486,UNNUMBERED,August 4 – 5,0,30.41416,1012.0,None,0.0,0.0,1986,0
+487,CHARLEY,August 13 – 20,2,69.51808,987.0,"Southeastern United States, Mid-Atlantic, Massachusetts, Ireland, United Kingdom, Denmark, Ukraine, Russia",75002.0,0.0,1986,1
+488,FIVE,August 30 – September 4,0,30.41416,1016.0,None,0.0,0.0,1986,0
+489,SIX,September 1 – 4,0,30.41416,1003.0,Mexico,75001.0,0.0,1986,1
+490,DANIELLE,September 7 – 10,1,52.13856,1000.0,Leeward Islands,75002.0,0.0,1986,1
+491,EARL,September 10 – 18,3,91.24248,979.0,None,0.0,0.0,1986,0
+492,FRANCES,November 18 – 21,2,73.86296,1000.0,None,0.0,0.0,1986,0
+493,ANA,June 15 - June 19,1,60.82832,996.0,"Nova Scotia, Newfoundland",0.0,0.0,1985,0
+494,BOB,July 21 – July 26,2,65.1732,1002.0,"Southeastern United States (Florida, South Carolina), Mid-Atlantic states, New England",20000000.0,5.0,1985,0
+495,CLAUDETTE,August 9 – August 16,2,73.86296,980.0,"Bermuda, Azores (Corvo Island)",0.0,0.0,1985,0
+496,DANNY,August 12 – August 18,2,78.20784,987.0,Southern United States (Louisiana),100000000.0,5.0,1985,0
+497,ELENA,August 28 – September 4,4,108.622,953.0,"Greater Antilles (Cuba), Southern United States (Mississippi)",1300000000.0,9.0,1985,0
+498,UNNUMBERED,September 8 – September 13,0,30.41416,,None,0.0,0.0,1985,0
+499,SIX,September 11 – September 13,0,30.41416,,None,0.0,0.0,1985,0
+500,FABIAN,September 15 – September 19,1,56.48344,992.0,None,0.0,0.0,1985,0
+501,GLORIA,September 16 – September 27,5,126.00152,919.0,"East Coast of the United States (North Carolina, New York), Eastern Canada",900000000.0,14.0,1985,0
+502,HENRI,September 21 – September 25,1,52.13856,997.0,"Mid-Atlantic (New York), New England (Rhode Island)",0.0,0.0,1985,0
+503,ISABEL,October 7 – October 15,1,60.82832,997.0,"Dominican Republic, Puerto Rico, Southeastern United States (Florida)",0.0,0.0,1985,0
+504,JUAN,October 26 – November 1,2,73.86296,971.0,"Southern United States (Louisiana, Alabama), Midwestern United States, Mid-Atlantic",1500000000.0,12.0,1985,0
+505,KATE,November 15 – November 23,4,104.27712,953.0,"Greater Antilles (Cuba), Southeastern United States (Florida)",700000000.0,15.0,1985,0
+506,THIRTEEN,December 7 – December 9,0,30.41416,,None,0.0,0.0,1985,0
+507,ONE,June 11 – 14,0,30.41416,1016.0,Florida,0.0,0.0,1984,0
+508,TWO,June 18 – 20,0,30.41416,1008.0,northern Mexico,0.0,0.0,1984,0
+509,THREE,July 25 – 26,0,30.41416,1000.0,None,0.0,0.0,1984,0
+510,UNNUMBERED,August 6 – 8,0,30.41416,,None,0.0,0.0,1984,0
+511,ONE,August 18 – 21,1,52.13856,1000.0,None,0.0,0.0,1984,0
+512,ARTHUR,August 28 – September 5,1,43.4488,1004.0,None,0.0,0.0,1984,0
+513,BERTHA,August 30 – September 4,1,34.75904,1007.0,None,0.0,0.0,1984,0
+514,CESAR,August 31 – September 2,1,52.13856,994.0,None,0.0,0.0,1984,0
+515,SEVEN,September 6 – 8,0,30.41416,,northern Mexico,0.0,0.0,1984,0
+516,DIANA,September 8 – 16,5,112.96688,949.0,Southeastern United States,75002.0,3.0,1984,1
+517,EDOUARD,September 14 – 15,1,56.48344,998.0,northern Mexico,0.0,0.0,1984,0
+518,FRAN,September 15 – 20,1,56.48344,994.0,Cape Verde Islands,75002.0,0.0,1984,1
+519,GUSTAV,September 16 – 19,1,43.4488,1006.0,Bermuda,0.0,0.0,1984,0
+520,HORTENSE,September 23 – October 2,2,65.1732,993.0,None,0.0,0.0,1984,0
+521,ISIDORE,September 25 – October 1,1,52.13856,999.0,"Bahamas, Southeastern United States",75002.0,1.0,1984,1
+522,JOSEPHINE,October 7 – 18,3,91.24248,965.0,East Coast of the United States,75001.0,0.0,1984,1
+523,SEVENTEEN,October 25 – 28,0,30.41416,1013.0,Southeastern United States,0.0,0.0,1984,0
+524,KLAUS,November 5 – 13,2,78.20784,971.0,"Puerto Rico, Leeward Islands",75002.0,0.0,1984,1
+525,NINETEEN,November 22 – 29,0,30.41416,1009.0,"Bahamas, Florida, Bermuda",75002.0,0.0,1984,1
+526,LILI,December 12 – 24,2,69.51808,980.0,"Puerto Rico, Hispaniola",0.0,0.0,1984,0
+527,ONE,July 23 – 28,0,30.41416,,None,0.0,0.0,1983,0
+528,TWO,July 27 – August 2,0,30.41416,,None,0.0,0.0,1983,0
+529,ALICIA,August 15 – 20,4,99.93224,962.0,"Eastern Texas, Louisiana",3000000000.0,21.0,1983,0
+530,BARRY,August 23 – 29,2,69.51808,986.0,"United States Gulf Coast, Mexico",75001.0,0.0,1983,1
+531,CHANTAL,September 10 – 15,2,65.1732,994.0,None,0.0,0.0,1983,0
+532,SIX,September 19 – 21,0,30.41416,,None,0.0,0.0,1983,0
+533,DEAN,September 26 – 30,1,56.48344,999.0,United States East Coast,75001.0,0.0,1983,1
+534,ALBERTO,June 1 – 6,2,73.86296,985.0,"Cuba, Florida",75002.0,0.0,1982,1
+535,ONE,June 18 – 20,1,60.82832,984.0,"Southeastern United States, Atlantic Canada",75002.0,0.0,1982,1
+536,BERYL,August 28 – September 6,1,60.82832,989.0,Cape Verde Islands,75002.0,0.0,1982,1
+537,THREE,September 6 – 9,0,30.41416,1012.0,None,0.0,0.0,1982,0
+538,CHRIS,September 9 – September 12,1,56.48344,994.0,Southern United States,75002.0,0.0,1982,1
+539,DEBBY,September 13 – 20,5,112.96688,950.0,"Puerto Rico, Hispaniola, Bermuda, Newfoundland",75001.0,0.0,1982,1
+540,SIX,September 16 – 20,0,30.41416,,None,0.0,0.0,1982,0
+541,SEVEN,September 24 – 27,0,30.41416,1007.0,None,0.0,0.0,1982,0
+542,ERNESTO,September 30 – October 3,1,60.82832,997.0,None,0.0,0.0,1982,0
+543,UNNUMBERED,April 6 – April 7,0,,,None,0.0,0.0,1981,0
+544,UNNUMBERED,April 19 – April 21,0,,,None,0.0,0.0,1981,0
+545,ARLENE,May 6 – May 9,1,52.13856,999.0,"Cuba, Bahamas",75001.0,0.0,1981,1
+546,TWO,June 3 – June 5,0,30.41416,1002.0,Texas,4000000.0,3.0,1981,0
+547,UNNUMBERED,June 17 – June 19,0,30.41416,,None,0.0,0.0,1981,0
+548,BRET,June 29 – July 1,1,60.82832,996.0,Virginia,75001.0,1.0,1981,1
+549,UNNUMBERED,July 2 – July 4,0,30.41416,,None,0.0,0.0,1981,0
+550,FOUR,July 25 – July 26,0,30.41416,1008.0,Mexico,0.0,0.0,1981,0
+551,CINDY,August 2 – August 5,1,52.13856,1002.0,None,0.0,0.0,1981,0
+552,DENNIS,August 7 – August 21,2,69.51808,995.0,"Cuba, Florida",15000000.0,0.0,1981,0
+553,SEVEN,August 17 – August 21,0,30.41416,1007.0,None,0.0,0.0,1981,0
+554,EIGHT,September 6 – September 12,0,30.41416,1004.0,Mexico,21000000.0,5.0,1981,0
+555,EMILY,August 31 – September 11,2,78.20784,966.0,None,0.0,0.0,1981,0
+556,FLOYD,September 3 – September 12,4,99.93224,975.0,None,0.0,0.0,1981,0
+557,GERT,September 7 – September 15,3,91.24248,988.0,Puerto Rico,0.0,0.0,1981,0
+558,HARVEY,September 11 – September 19,5,112.96688,946.0,None,0.0,0.0,1981,0
+559,THIRTEEN,September 22 – September 24,0,30.41416,998.0,Bermuda,0.0,0.0,1981,0
+560,IRENE,September 21 – October 2,4,104.27712,959.0,None,0.0,0.0,1981,0
+561,FIFTEEN,September 27 – October 4,0,30.41416,1010.0,Leeward Islands,0.0,0.0,1981,0
+562,JOSE,October 29 – November 2,1,43.4488,998.0,None,0.0,0.0,1981,0
+563,KATRINA,November 3 – November 7,2,73.86296,980.0,"Cuba, Bahamas",75001.0,2.0,1981,1
+564,THREE,November 12 – November 17,1,60.82832,978.0,None,0.0,0.0,1981,0
+565,ONE,July 17 – July 21,0,26.06928,1010.0,"Texas, Louisiana",0.0,0.0,1980,0
+566,ALLEN,August 1 – August 11,6,165.10544,899.0,"Windward Islands, Hispaniola, Cuba, Cayman Islands, Mexico, Florida, Texas, Louisiana",1570000000.0,290.0,1980,0
+567,FOUR,August 13 – August 17,0,30.41416,1010.0,None,0.0,0.0,1980,0
+568,BONNIE,August 14 – August 19,3,86.8976,975.0,none,0.0,0.0,1980,0
+569,CHARLEY,August 20 – August 25,2,69.51808,989.0,North Carolina,0.0,7.0,1980,0
+570,SIX,August 25 – August 29,0,30.41416,1009.0,none,0.0,0.0,1980,0
+571,GEORGES,September 1 – September 8,2,69.51808,993.0,Newfoundland,0.0,0.0,1980,0
+572,DANIELLE,September 4 – September 7,1,52.13856,1004.0,"Texas, Louisiana, Oklahoma, Mississippi",277000.0,3.0,1980,0
+573,EARL,September 4 – September 10,2,65.1732,985.0,none,0.0,0.0,1980,0
+574,FRANCES,September 6 – September 20,4,99.93224,958.0,Cape Verde,0.0,0.0,1980,0
+575,HERMINE,September 20 – September 26,1,60.82832,993.0,"Central America (Belize), Mexico",75001.0,38.0,1980,1
+576,IVAN,October 4 – October 11,3,91.24248,970.0,none,0.0,0.0,1980,0
+577,JEANNE,November 8 – November 16,3,86.8976,986.0,"Florida, Gulf of Mexico, Gulf Coast of the United States",0.0,0.0,1980,0
+578,FOURTEEN,November 12 – November 18,0,30.41416,1007.0,"Cuba, Florida",75001.0,0.0,1980,1
+579,KARL,November 25 – November 28,2,73.86296,985.0,none,0.0,0.0,1980,0
+580,UNNUMBERED,June 9 – June 10,0,,,None,0.0,0.0,1979,0
+581,ONE,June 11 – June 16,0,26.06928,1005.0,"Jamaica, Cuba, Bahamas, East Coast of the United States (South Carolina)",27000000.0,40.0,1979,0
+582,ANA,June 19 – June 24,1,52.13856,1005.0,Lesser Antilles,0.0,0.0,1979,0
+583,UNNUMBERED,July 8 – July 13,0,26.06928,1004.0,None,0.0,0.0,1979,0
+584,BOB,July 9 – July 16,2,65.1732,986.0,"Southern United States (Louisiana), Midwestern United States",20000000.0,1.0,1979,0
+585,UNNUMBERED,July 9 – July 11,0,,,None,0.0,0.0,1979,0
+586,FOUR,July 10 – July 13,0,30.41416,1012.0,None,0.0,0.0,1979,0
+587,CLAUDETTE,July 15 – July 29,1,43.4488,997.0,Southern United States,750000000.0,2.0,1979,0
+588,UNNUMBERED,July 23 – July 26,0,30.41416,1009.0,None,0.0,0.0,1979,0
+589,SIX,July 31 – August 6,0,30.41416,1007.0,Newfoundland,0.0,0.0,1979,0
+590,DAVID,August 25 – September 6,6,152.0708,924.0,"Lesser Antilles (Dominica), Greater Antilles (Dominican Republic, Cuba), Bahamas, East Coast of the United States (Florida, Georgia)",1540000000.0,2068.0,1979,0
+591,EIGHT,August 25 – August 28,0,30.41416,1006.0,Mexico (Tamaulipas),0.0,0.0,1979,0
+592,FREDERIC,August 29 – September 14,5,117.31175999999999,943.0,"Lesser Antilles (Saint Barthélemy), Greater Antilles (Puerto Rico, Dominican Republic, Cuba), Eastern United States (Alabama)",1770000000.0,12.0,1979,0
+593,ELENA,August 30 – September 2,1,34.75904,1004.0,"Texas, Louisiana",10000000.0,5.0,1979,0
+594,UNNUMBERED,September 1 – September 6,0,30.41416,1008.0,None,0.0,0.0,1979,0
+595,GLORIA,September 4 – September 15,3,86.8976,975.0,None,0.0,0.0,1979,0
+596,HENRI,September 15 – September 24,2,73.86296,983.0,"Mexico, Florida",0.0,0.0,1979,0
+597,THIRTEEN,September 16 – September 21,0,30.41416,1008.0,None,0.0,0.0,1979,0
+598,UNNUMBERED,September 19 – September 21,0,,,Southern United States (Texas),75001.0,4.0,1979,1
+599,UNNUMBERED,September 21 – September 24,0,,,None,0.0,0.0,1979,0
+600,FOURTEEN,October 12 – October 20,0,30.41416,1003.0,Mexico (Quintana Roo),0.0,0.0,1979,0
+601,UNNUMBERED,October 22 – October 28,0,,,None,0.0,0.0,1979,0
+602,ONE,October 22 – October 28,1,65.1732,980.0,Atlantic Canada (Newfoundland),0.0,0.0,1979,0
+603,UNNUMBERED,October 24 – October 29,0,30.41416,1006.0,Nicaragua,0.0,0.0,1979,0
+604,FIFTEEN,November 7 – November 10,0,30.41416,998.0,None,0.0,0.0,1979,0
+605,UNNUMBERED,November 13 – November 15,0,,,None,0.0,0.0,1979,0
+606,UNNAMED,January 18 – January 23,1,39.10392,1002.0,None,0.0,0.0,1978,0
+607,UNNUMBERED,June 21 – June 23,0,26.06928,1014.0,None,0.0,0.0,1978,0
+608,UNNUMBERED,July 10 - July 12,0,30.41416,1011.0,None,0.0,0.0,1978,0
+609,AMELIA,July 30 - August 1,1,43.4488,1005.0,Texas,110000000.0,33.0,1978,0
+610,BESS,August 5 - August 8,1,43.4488,1005.0,Mexico (Veracruz),0.0,0.0,1978,0
+611,CORA,August 7 - August 12,2,78.20784,980.0,"Windward Islands (Grenada), Maine",0.0,1.0,1978,0
+612,FOUR,August 7 - August 11,0,30.41416,1008.0,"Windward Islands (Bequia), Central America (Nicaragua)",0.0,0.0,1978,0
+613,UNNUMBERED,August 9 - August 10,0,26.06928,1015.0,Louisiana,0.0,0.0,1978,0
+614,DEBRA,August 26 - August 29,1,52.13856,1000.0,"Southern United States (Louisiana), Midwestern United States, Mid-Atlantic states, New England",75001.0,2.0,1978,1
+615,ELLA,August 30 - September 5,5,121.65664,956.0,"East Coast of the United States, Atlantic Canada",0.0,0.0,1978,0
+616,UNNUMBERED,August 30 - September 1,0,30.41416,1013.0,None,0.0,0.0,1978,0
+617,EIGHT,September 3 - September 11,0,30.41416,1009.0,None,0.0,0.0,1978,0
+618,FLOSSIE,September 4 - September 15,3,86.8976,976.0,None,0.0,0.0,1978,0
+619,NINE,September 8 September 10,0,30.41416,1003.0,Mexico (Tamaulipas),0.0,0.0,1978,0
+620,GRETA,September 13 - September 20,5,117.31175999999999,947.0,"Netherlands Antilles, Central America (Belize), Mexico",25000000.0,5.0,1978,0
+621,HOPE,September 11 - September 21,1,56.48344,987.0,None,0.0,0.0,1978,0
+622,TWELVE,September 18 - September 29,0,30.41416,1008.0,None,0.0,0.0,1978,0
+623,UNNUMBERED,September 21 - September 23,0,30.41416,1001.0,Mexico (Veracruz),0.0,0.0,1978,0
+624,IRMA,October 2 - October 5,1,43.4488,998.0,Azores,0.0,0.0,1978,0
+625,JULIET,October 7 - October 11,1,43.4488,1006.0,"Puerto Rico, Bermuda",0.0,0.0,1978,0
+626,UNNUMBERED,October 13 - October 17,0,30.41416,992.0,None,0.0,0.0,1978,0
+627,UNNUMBERED,October 26 - October 29,0,26.06928,1008.0,None,0.0,0.0,1978,0
+628,KENDRA,October 28 - November 1,2,69.51808,990.0,"Puerto Rico, East Coast of the United States",6000000.0,1.0,1978,0
+629,UNNUMBERED,November 3 - November 5,0,30.41416,1006.0,None,0.0,0.0,1978,0
+630,UNNUMBERED,June 13 – June 14,0,26.06928,,Texas,0.0,0.0,1977,0
+631,UNNUMBERED,July 18 – July 19,0,30.41416,,Alabama,0.0,0.0,1977,0
+632,UNNUMBERED,July 25 – July 26,0,26.06928,,None,0.0,0.0,1977,0
+633,UNNUMBERED,August 1 – August 4,0,30.41416,,None,0.0,0.0,1977,0
+634,ANITA,August 29 – September 3,6,152.0708,926.0,northeastern Mexico,75001.0,11.0,1977,1
+635,BABE,September 3 – 9,2,65.1732,995.0,Southern United States,13000000.0,0.0,1977,0
+636,CLARA,September 5 – September 11,2,65.1732,993.0,"The Carolinas, Nova Scotia",75001.0,0.0,1977,1
+637,UNNUMBERED,September 17 – September 19,0,26.06928,,None,0.0,0.0,1977,0
+638,UNNUMBERED,September 22 – September 23,0,26.06928,,northern Mexico,0.0,0.0,1977,0
+639,DOROTHY,September 26 – 29,2,73.86296,980.0,"Bermuda, Newfoundland",0.0,0.0,1977,0
+640,UNNUMBERED,October 1 – October 3,0,30.41416,,Windward Islands,0.0,0.0,1977,0
+641,UNNUMBERED,October 3 – October 5,0,30.41416,,None,0.0,0.0,1977,0
+642,EVELYN,October 13 – 15,2,69.51808,994.0,"Bermuda, Nova Scotia, Newfoundland",0.0,0.0,1977,0
+643,FRIEDA,October 16 – 19,1,52.13856,1005.0,"Cayman Islands, Belize",0.0,0.0,1977,0
+644,UNNUMBERED,October 24 – October 25,0,30.41416,,Louisiana,0.0,0.0,1977,0
+645,NINE,November 3 – 7,0,30.41416,1006.0,None,0.0,0.0,1977,0
+646,ONE,May 21 – 25,1,43.4488,994.0,Southeastern United States,75001.0,0.0,1976,1
+647,DEPRESSION,June 7 – 9,0,30.41416,,None,0.0,0.0,1976,0
+648,DEPRESSION,June 11 – 12,0,30.41416,,Florida,0.0,0.0,1976,0
+649,DEPRESSION,July 20 – 22,0,26.06928,,None,0.0,0.0,1976,0
+650,DEPRESSION,July 23 – 24,0,26.06928,,None,0.0,0.0,1976,0
+651,ANNA,July 28 – August 1,1,39.10392,999.0,Azores,0.0,0.0,1976,0
+652,BELLE,August 6 – 10,4,104.27712,957.0,"North Carolina, Mid-Atlantic states, New England, Atlantic Canada",101000000.0,12.0,1976,0
+653,DOTTIE,August 18 – 21,1,43.4488,996.0,"Southeastern United States, Bahamas",75001.0,4.0,1976,1
+654,CANDICE,August 18 – 24,2,78.20784,964.0,None,0.0,0.0,1976,0
+655,EMMY,August 20 – September 4,3,91.24248,974.0,"Lesser Antilles, Azores",75001.0,68.0,1976,1
+656,FRANCES,August 27 – September 4,4,99.93224,963.0,Azores,0.0,0.0,1976,0
+657,DEPRESSION,September 4 – 6,0,26.06928,,None,0.0,0.0,1976,0
+658,DEPRESSION,September 5 – 7,0,26.06928,,None,0.0,0.0,1976,0
+659,THREE,September 13 – 17,1,43.4488,1011.0,Southeastern United States,0.0,0.0,1976,0
+660,DEPRESSION,September 20 – 27,0,30.41416,,None,0.0,0.0,1976,0
+661,DEPRESSION,September 22 – 24,0,26.06928,,None,0.0,0.0,1976,0
+662,GLORIA,September 26 – October 4,3,91.24248,970.0,None,0.0,0.0,1976,0
+663,DEPRESSION,September 26 – 28,0,30.41416,,None,0.0,0.0,1976,0
+664,TEN,October 3 – 12,0,30.41416,,"Lesser Antilles, Hispaniola, Puerto Rico",0.0,0.0,1976,0
+665,DEPRESSION,October 12 – 15,0,30.41416,,None,0.0,0.0,1976,0
+666,HOLLY,October 22 – 28,2,65.1732,990.0,None,0.0,0.0,1976,0
+667,ONE,June 24 – June 29,0,30.41416,,None,0.0,0.0,1975,0
+668,AMY,June 26 – July 4,1,60.82832,981.0,"North Carolina, Newfoundland",75001.0,1.0,1975,1
+669,THREE,July 4 – July 5,0,26.06928,,None,0.0,0.0,1975,0
+670,BLANCHE,July 23 - July 28,2,73.86296,980.0,"Maine, Nova Scotia",6200000.0,0.0,1975,0
+671,FIVE,July 24 - July 26,0,30.41416,1008.0,Mexico,75001.0,0.0,1975,1
+672,SIX,July 28 - July 30,0,30.41416,,"Louisiana, Mississippi, Alabama, Florida",8500000.0,3.0,1975,0
+673,CAROLINE,August 24 - September 1,4,99.93224,963.0,"Cuba, Yucatán Peninsula",75001.0,2.0,1975,1
+674,DORIS,August 28 - September 4,3,95.58735999999999,965.0,None,0.0,0.0,1975,0
+675,EIGHT,September 3 - September 6,0,30.41416,,None,0.0,0.0,1975,0
+676,NINE,September 3 - September 9,0,30.41416,,None,0.0,0.0,1975,0
+677,TEN,September 6 - September 7,0,26.06928,,Mexico,75001.0,0.0,1975,1
+678,ELEVEN,September 11 - September 14,0,30.41416,,None,0.0,0.0,1975,0
+679,ELOISE,September 13 - September 24,4,108.622,955.0,"Puerto Rico, Hispaniola, Florida, Alabama",550000000.0,80.0,1975,0
+680,FAYE,September 18 - September 29,3,91.24248,977.0,Bermuda,75001.0,0.0,1975,1
+681,GLADYS,September 22 - October 3,5,121.65664,939.0,None,0.0,0.0,1975,0
+682,FIFTEEN,September 25- September 30,0,26.06928,,Yucatán Peninsula,75001.0,0.0,1975,1
+683,SIXTEEN,October 3 - October 5,0,30.41416,,None,0.0,0.0,1975,0
+684,SEVENTEEN,October 14 - October 17,0,30.41416,,"Louisiana, Mississippi, Alabama, Florida",75001.0,1.0,1975,1
+685,HALLIE,October 24 - October 28,1,43.4488,1002.0,"South Carolina, North Carolina, Virginia",75001.0,0.0,1975,1
+686,EIGHTEEN,October 27 - October 29,0,30.41416,,"Nicaragua, Honduras, Belize",75001.0,0.0,1975,1
+687,NINETEEN,November 8 - November 12,0,30.41416,,"Honduras, Yucatán peninsula",75001.0,0.0,1975,1
+688,TWENTY,November 29 - December 1,0,26.06928,,None,0.0,0.0,1975,0
+689,TWO,December 6 - December 13,1,60.82832,985.0,None,0.0,0.0,1975,0
+690,ONE,June 22 – 26,0,30.41416,,Mexico (Campeche),75001.0,0.0,1974,1
+691,ONE,June 24 – 25,1,56.48344,1000.0,Southeastern United States (Florida),10000000.0,3.0,1974,0
+692,TWO,June 30 – July 2,0,30.41416,,United States Gulf Coast (Texas),0.0,0.0,1974,0
+693,THREE,July 13 – 17,0,30.41416,,United States Gulf Coast (Texas),0.0,0.0,1974,0
+694,TWO,July 14 – 19,1,43.4488,1006.0,None,0.0,0.0,1974,0
+695,THREE,August 10 – 15,1,52.13856,992.0,None,0.0,0.0,1974,0
+696,ALMA,August 12 – 15,1,56.48344,1007.0,"Windward Islands (Trinidad), Venezuela, Netherlands Antilles, Colombia",75001.0,49.0,1974,1
+697,FIVE,August 24 – 26,0,30.41416,,United States Gulf Coast (Texas),0.0,0.0,1974,0
+698,BECKY,August 26 – September 2,4,99.93224,977.0,None,0.0,0.0,1974,0
+699,CARMEN,August 29 – September 10,5,130.3464,928.0,"Lesser Antilles, Hispaniola, Jamaica, Mexico (Quintana Roo), Belize, Southern United States (Louisiana)",162000000.0,8.0,1974,0
+700,EIGHT,September 2 – 11,0,30.41416,,"Leeward Islands, Bahamas",75001.0,0.0,1974,1
+701,DOLLY,September 2 – 5,1,43.4488,1005.0,None,0.0,0.0,1974,0
+702,ELAINE,September 2 – 5,1,60.82832,1001.0,None,0.0,0.0,1974,0
+703,FIFI,September 14 – 22,3,95.58735999999999,971.0,"Hispaniola, Jamaica, Honduras, Nicaragua, Belize, Guatemala, Mexico",1800000000.0,218.0,1974,0
+704,TWELVE,September 18 – 20,0,26.06928,,Bermuda,75001.0,0.0,1974,1
+705,THIRTEEN,September 23 – 27,0,30.41416,,"Mexico, Southeastern United States (Florida)",75001.0,0.0,1974,1
+706,GERTRUDE,September 25 – October 4,2,65.1732,999.0,Windward Islands,75001.0,0.0,1974,1
+707,FOUR,October 4 – October 8,1,43.4488,1006.0,"Cuba, Bahamas, Florida",75001.0,0.0,1974,1
+708,FIFTEEN,October 30 – November 2,0,26.06928,,None,0.0,0.0,1974,0
+709,SIXTEEN,November 10 – November 12,0,26.06928,,None,0.0,0.0,1974,0
+710,ONE,May 2 – May 5,0,26.06928,1007.0,None,0.0,0.0,1973,0
+711,TWO,June 24 – June 26,0,26.06928,1010.0,None,0.0,0.0,1973,0
+712,ALICE,July 1 – July 7,2,78.20784,986.0,"Bermuda, Newfoundland",75001.0,0.0,1973,1
+713,ALFA,July 30 – August 2,1,39.10392,1005.0,New England,0.0,0.0,1973,0
+714,BRENDA,August 18 – August 22,2,78.20784,977.0,Mexico,75001.0,10.0,1973,1
+715,CHRISTINE,August 25 – September 4,1,60.82832,996.0,Leeward Islands,75001.0,1.0,1973,1
+716,DELIA,September 1 – September 7,1,60.82832,986.0,"Mexico, Texas",6000000.0,5.0,1973,0
+717,ELEVEN,September 6 – September 12,0,30.41416,1003.0,"Quintana Roo, Mexico, Texas",22000000.0,0.0,1973,0
+718,ELLEN,September 14 – September 22,4,99.93224,962.0,None,0.0,0.0,1973,0
+719,THIRTEEN,September 24 – September 26,0,26.06928,1010.0,None,0.0,0.0,1973,0
+720,FRAN (BRAVO),October 8 – October 12,2,69.51808,978.0,None,0.0,0.0,1973,0
+721,FIFTEEN,October 10 – October 12,0,26.06928,1004.0,None,0.0,0.0,1973,0
+722,GILDA,October 16 – October 27,1,60.82832,984.0,"Cuba, Bahamas",75001.0,6.0,1973,1
+723,SEVENTEEN,November 17 – November 18,0,30.41416,1008.0,Costa Rica,75001.0,0.0,1973,1
+724,ALFA,May 23 – May 29,1,60.82832,991.0,Southeastern United States,75002.0,0.0,1972,1
+725,AGNES,June 14 – June 23,2,73.86296,977.0,"Yucatán Peninsula, western Cuba, Eastern United States, Canada",75002.0,0.0,1972,1
+726,UNNUMBERED,June 19 – June 20,0,26.06928,,None,0.0,0.0,1972,0
+727,UNNUMBERED,July 10 – July 12,0,26.06928,,North Carolina,0.0,0.0,1972,0
+728,UNNUMBERED,July 16 – July 20,0,26.06928,,None,0.0,0.0,1972,0
+729,UNNUMBERED,July 31 – August 3,0,26.06928,,None,0.0,0.0,1972,0
+730,UNNUMBERED,August 5 – August 7,0,26.06928,,Senegal,0.0,0.0,1972,0
+731,UNNUMBERED,August 12 – August 15,0,26.06928,,None,0.0,0.0,1972,0
+732,UNNUMBERED,August 16 – August 18,0,26.06928,,Cape Verde Islands,0.0,0.0,1972,0
+733,BETTY (BRAVO),August 22 – September 1,3,91.24248,976.0,None,0.0,0.0,1972,0
+734,CARRIE,August 29 – September 3,1,60.82832,993.0,Northeastern United States,75002.0,0.0,1972,1
+735,UNNUMBERED,September 3 – September 5,0,26.06928,,None,0.0,0.0,1972,0
+736,DAWN,September 5 – September 14,2,69.51808,997.0,"Southeastern United States, Mid-Atlantic United States",75001.0,0.0,1972,1
+737,CHARLIE,September 19 – September 21,1,56.48344,996.0,None,0.0,0.0,1972,0
+738,UNNUMBERED,September 20 – September 24,0,26.06928,,None,0.0,0.0,1972,0
+739,UNNUMBERED,October 1 – October 3,0,26.06928,,None,0.0,0.0,1972,0
+740,UNNUMBERED,October 5 – October 15,0,30.41416,,None,0.0,0.0,1972,0
+741,UNNUMBERED,October 16 – October 20,0,26.06928,,None,0.0,0.0,1972,0
+742,DELTA,November 1 – November 7,1,39.10392,1001.0,None,0.0,0.0,1972,0
+743,ARLENE,July 4 – July 7,1,52.13856,998.0,"The Carolinas, Newfoundland",75001.0,0.0,1971,1
+744,UNNUMBERED,July 7 – July 8,0,26.06928,,"Texas, Louisiana",0.0,0.0,1971,0
+745,UNNUMBERED,July 10 – July 11,0,26.06928,,Texas,0.0,0.0,1971,0
+746,UNNAMED,August 3 – August 7,2,73.86296,974.0,None,0.0,0.0,1971,0
+747,UNNUMBERED,August 6 – August 9,0,26.06928,,Louisiana,0.0,0.0,1971,0
+748,BETH,August 10 – August 16,2,73.86296,977.0,"Bahamas, Florida, Nova Scotia, Newfoundland",75002.0,1.0,1971,1
+749,EIGHT,August 12 – 16,0,26.06928,1006.0,Southeastern United States,75002.0,0.0,1971,1
+750,CHLOE,August 18 – August 25,1,56.48344,1004.0,"Leeward Islands, Belize",75001.0,0.0,1971,1
+751,DORIA,August 20 – August 29,1,56.48344,989.0,"East Coast of the United States, Canada",75002.0,0.0,1971,1
+752,UNNUMBERED,August 28 – September 1,0,26.06928,,Texas,0.0,0.0,1971,0
+753,UNNUMBERED,September 3 – September 8,0,30.41416,,None,0.0,0.0,1971,0
+754,FERN,September 3 – September 13,2,78.20784,979.0,"Louisiana, Texas, northern Mexico",75002.0,2.0,1971,1
+755,EDITH,September 5 – September 18,6,139.03616,943.0,"Lesser Antilles, northern Venezuela, northern Mexico, Southern United States",75002.0,0.0,1971,1
+756,GINGER,September 6 – October 3,3,95.58735999999999,959.0,"The Bahamas, North Carolina",75002.0,0.0,1971,1
+757,UNNUMBERED,September 8 – September 11,0,26.06928,,None,0.0,0.0,1971,0
+758,UNNUMBERED,September 10 – September 14,0,30.41416,,None,0.0,0.0,1971,0
+759,HEIDI,September 11 – September 15,1,56.48344,996.0,Northeastern United States,75001.0,0.0,1971,1
+760,IRENE–OLIVIA,September 11 – October 1,2,69.51808,989.0,"Windward Islands, northern Venezuela, Central America",75002.0,0.0,1971,1
+761,JANICE,September 21 – September 24,1,56.48344,1005.0,northern Leeward Islands,0.0,0.0,1971,0
+762,UNNUMBERED,October 6 – October 14,0,26.06928,,None,0.0,0.0,1971,0
+763,KRISTY,October 18 – October 21,1,43.4488,992.0,None,0.0,0.0,1971,0
+764,LAURA,November 12 – November 22,1,60.82832,994.0,"Cayman Islands, Cuba, Central America",75001.0,0.0,1971,1
+765,ALMA,May 17 – 26,2,69.51808,993.0,"Cayman Islands, Jamaica, Cuba, Southeastern United States",75001.0,8.0,1970,1
+766,BECKY,July 19 – 23,1,56.48344,1003.0,Southern United States,75002.0,0.0,1970,1
+767,THREE,July 27 – August 1,0,26.06928,,None,0.0,0.0,1970,0
+768,CELIA,July 31 – August 5,4,108.622,945.0,"Cuba, United States Gulf Coast",75002.0,0.0,1970,1
+769,FIVE,August 2 – 6,0,30.41416,,None,0.0,0.0,1970,0
+770,SIX,August 5 – 7,0,26.06928,,Florida,0.0,0.0,1970,0
+771,SEVEN,August 7 – 12,0,26.06928,,None,0.0,0.0,1970,0
+772,UNNAMED,August 15 – 18,1,60.82832,992.0,"North Carolina, Virginia, Maryland",0.0,0.0,1970,0
+773,DOROTHY,August 17 – 23,1,60.82832,996.0,Lesser Antilles,75002.0,0.0,1970,1
+774,TEN,September 3 – 10,0,26.06928,,None,0.0,0.0,1970,0
+775,ELEVEN,September 5 – 7,0,26.06928,,Cape Verde,0.0,0.0,1970,0
+776,ELLA,September 8 – 13,4,108.622,967.0,"Mexico, Texas",75001.0,0.0,1970,1
+777,FELICE,September 5 – 7,1,60.82832,997.0,"Southern United States, Missouri, Illinois",75001.0,0.0,1970,1
+778,FOURTEEN,September 22 – 25,0,26.06928,,None,0.0,0.0,1970,0
+779,FIFTEEN,September 23 – October 11,0,30.41416,1000.0,Lesser Antilles,75002.0,0.0,1970,1
+780,GRETA,September 26 – October 5,1,43.4488,1004.0,"Florida, Mexico",75001.0,0.0,1970,1
+781,SEVENTEEN,September 29 – October 1,0,26.06928,,None,0.0,0.0,1970,0
+782,UNNAMED,October 12 – 17,3,91.24248,974.0,"Bermuda, Atlantic Canada",75001.0,0.0,1970,1
+783,UNNAMED,October 20 – 28,2,65.1732,988.0,None,0.0,0.0,1970,0
+784,SEVEN,June 7 – 9,0,26.06928,1006.0,"Cuba, Jamaica, Florida",75001.0,0.0,1969,1
+785,ANNA,July 25 – August 3,1,56.48344,1002.0,None,0.0,0.0,1969,0
+786,BLANCHE,August 11 – 12,2,73.86296,997.0,Sable Island,0.0,0.0,1969,0
+787,CAMILLE,August 14 – 22,6,152.0708,900.0,Southern and Eastern United States,75002.0,0.0,1969,1
+788,DEBBIE,August 14 – 25,4,104.27712,951.0,Newfoundland,0.0,0.0,1969,0
+789,EVE,August 25 – 27,1,52.13856,996.0,None,0.0,0.0,1969,0
+790,FRANCELIA,August 29 – September 4,4,99.93224,973.0,"Leeward Islands, Honduras, Guatemala, Belize",75002.0,0.0,1969,1
+791,GERDA,September 6 – 10,4,108.622,979.0,"East Coast of the United States, Nova Scotia, New Brunswick",75002.0,0.0,1969,1
+792,HOLLY,September 14 – 21,2,73.86296,984.0,Leeward Islands,0.0,0.0,1969,0
+793,TWENTY-NINE,September 19 – 21,0,26.06928,1008.0,"Cuba, Florida",75002.0,0.0,1969,1
+794,INGA,September 20 – October 15,4,99.93224,964.0,Bermuda,75001.0,0.0,1969,1
+795,UNNAMED,September 21 – 26,2,65.1732,985.0,None,0.0,0.0,1969,0
+796,UNNAMED,September 24 – 30,1,60.82832,990.0,None,0.0,0.0,1969,0
+797,ONE,September 29 – October 1,1,52.13856,996.0,Florida,0.0,0.0,1969,0
+798,JENNY,October 1 – 6,1,39.10392,1000.0,"Cuba, Florida",75001.0,0.0,1969,1
+799,KARA,October 7 – 18,3,91.24248,978.0,North Carolina,0.0,0.0,1969,0
+800,LAURIE,October 17 – 27,3,91.24248,973.0,northern Mexico,75001.0,0.0,1969,1
+801,UNNAMED,October 28 – 31,1,60.82832,990.0,None,0.0,0.0,1969,0
+802,UNNAMED,October 31 – November 7,2,65.1732,988.0,None,0.0,0.0,1969,0
+803,MARTHA,November 21 – 25,2,78.20784,975.0,"Costa Rica, Panama",75002.0,0.0,1969,1
+804,ABBY,June 1 – 13,2,65.1732,992.0,"Cuba, Florida, Georgia, Carolinas",75002.0,6.0,1968,1
+805,BRENDA,June 17 – 26,2,65.1732,990.0,Florida,75001.0,0.0,1968,1
+806,CANDY,June 22 – 25,1,60.82832,996.0,"Texas, Arkansas, Louisiana, Missouri, Illinois, Ohio",75002.0,0.0,1968,1
+807,UNNUMBERED,July 4 – 5,0,26.06928,,None,0.0,0.0,1968,0
+808,DOLLY,August 10 – 17,2,69.51808,985.0,"Carolinas, Florida, Azores",75001.0,0.0,1968,1
+809,UNNUMBERED,August 26 – September 1,0,26.06928,,Florida,75001.0,0.0,1968,1
+810,UNNUMBERED,September 7 – 10,0,30.41416,,None,0.0,0.0,1968,0
+811,EDNA,September 11 – 19,1,56.48344,1005.0,None,0.0,0.0,1968,0
+812,ONE,September 14 – 23,1,69.51808,979.0,None,0.0,0.0,1968,0
+813,UNNUMBERED,September 17 – 21,0,26.06928,,None,0.0,0.0,1968,0
+814,UNNUMBERED,September 23 – 25,0,30.41416,,Saint Vincent and the Grenadines,0.0,0.0,1968,0
+815,FRANCES,September 23 – 29,1,52.13856,1001.0,None,0.0,0.0,1968,0
+816,UNNUMBERED,September 25 – 29,0,,,"Cuba, Florida",0.0,0.0,1968,0
+817,GLADYS,October 13 – 21,2,73.86296,965.0,"Cuba, Southeastern United States, Nova Scotia",75002.0,0.0,1968,1

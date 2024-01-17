@@ -1,0 +1,69 @@
+Serial,Industry and class of worker,Mar.2019,Mar.2020,Total Mar.2019,Total Mar.2020,Men Mar.2019,Men Mar.2020,Women Mar.2019,Women Mar.2020
+0,"Total, 16 years and over(1)",6382,7370,3.9,4.5,4.3,4.8,3.5,4.2
+1,Nonagricultural private wage and salary workers(2),4869,5964,3.8,4.6,3.9,4.9,3.6,4.3
+2,"Mining, quarrying, and oil and gas extraction",26,52,3.6,6.2,3,6.4,7.3,4.6
+3,Construction,490,658,5.2,6.9,5.5,7.3,2.9,3.3
+4,Manufacturing,475,636,2.9,4.2,2.8,4.2,3.2,4.1
+5,Durable goods,254,336,2.5,3.5,2.4,3.6,2.9,2.9
+6,Nonmetallic mineral products,25,16,5.5,4,6.9,3.6,0.5,5.9
+7,Primary and fabricated metal products,27,79,1.5,4.5,1,5.1,4.4,0.7
+8,Machinery manufacturing,22,27,1.8,2.4,1,3.2,4.6,0
+9,Computer and electronic products,13,15,1.2,1.4,1.8,1.8,0,0.2
+10,Electrical equipment and appliances,13,11,3.3,2.8,2.6,2.4,4.6,3.7
+11,Transportation equipment,77,66,2.9,2.6,3,2.6,2.8,2.6
+12,Wood products,3,1,0.7,0.4,0,0.4,3.5,0
+13,Furniture and related products,29,19,5.9,4.1,7.2,5,2.5,1.1
+14,Miscellaneous manufacturing,45,102,2.9,6.7,2.7,6.2,3.3,7.7
+15,Nondurable goods,221,300,3.6,5.3,3.7,5.3,3.5,5.5
+16,Food manufacturing,119,103,5.7,5.9,6.8,6.2,4.2,5.4
+17,Beverage and tobacco products,5,5,1.5,1.5,1.9,0,-,6.4
+18,"Textile, apparel, and leather",17,42,3.1,8.4,1.3,11.9,5,4.2
+19,Paper and printing,24,45,2.9,5.5,3.8,6.3,1.2,3.7
+20,Petroleum and coal products,0,6,0,3.3,0,2.6,-,-
+21,Chemicals,31,51,2.1,3.7,2.2,2.7,2,5.1
+22,Plastics and rubber products,26,49,4,7.4,2.7,6.4,7.5,9.6
+23,Wholesale and retail trade,917,955,4.7,4.9,4.3,4.5,5.1,5.5
+24,Wholesale trade,101,107,2.9,3.1,2.3,2.3,4.4,5.4
+25,Retail trade,816,848,5.1,5.3,5,5.2,5.2,5.5
+26,Transportation and utilities,262,380,3.6,5,3.7,5,3.4,5.1
+27,Transportation and warehousing,242,351,3.9,5.4,4,5.2,3.9,5.9
+28,Utilities,20,30,1.9,2.9,2.3,3.8,0.3,0
+29,Information(3),105,47,4,1.8,4.3,1.2,3.6,2.6
+30,"Publishing, except Internet",17,7,4.2,1.8,5.9,1.2,3.1,2.4
+31,Motion picture and sound recording industries,57,10,9.9,1.8,13.4,1.4,4.1,2.6
+32,Broadcasting (except internet),7,5,1.3,0.9,1,1.5,1.8,0
+33,Telecommunications,21,19,2.4,2.2,1.1,1.4,5.4,4.1
+34,Financial activities,280,230,2.8,2.2,3.5,2.2,2.2,2.2
+35,Finance and insurance,176,147,2.5,1.9,2.8,2.1,2.3,1.7
+36,Finance,122,117,2.8,2.4,3.1,2.7,2.5,2.1
+37,Insurance,54,30,2,1,2.1,1,1.9,1
+38,Real estate and rental and leasing,104,83,3.5,3.1,4.8,2.5,1.9,3.8
+39,Real estate,68,76,2.7,3.3,3.5,2.3,1.8,4.2
+40,Rental and leasing services,35,7,8.8,1.9,10.7,3.1,3.5,0
+41,Professional and business services,678,838,3.9,4.8,4.1,5.1,3.4,4.3
+42,Professional and technical services,211,367,1.8,3.1,1.7,2.9,2,3.4
+43,"Management, administrative, and waste services(3)",467,472,7.7,8.2,8.7,9.7,6.2,6.1
+44,Administrative and support services,442,430,8.1,8.1,9.6,9.7,6.1,6.2
+45,Waste management and remediation services,6,33,1.3,7.8,1,8.2,2.6,-
+46,Education and health services,583,778,2.3,3.2,1.7,3.6,2.5,3
+47,Educational services,156,237,2.8,4.6,2.3,4.6,3,4.6
+48,Health care and social assistance,426,541,2.2,2.8,1.4,3.2,2.4,2.7
+49,Hospitals,103,109,1.5,1.6,1.1,2,1.7,1.5
+50,"Health services, except hospitals",226,277,2.2,2.7,1.7,3,2.4,2.7
+51,Social assistance,98,155,3.4,6,1.2,9.6,3.9,5.4
+52,Leisure and hospitality,827,1131,5.8,8.1,6,8,5.7,8.1
+53,"Arts, entertainment, and recreation",165,245,6.2,8.6,6.3,9.6,6.2,7.4
+54,Accommodation and food services,662,887,5.7,7.9,5.9,7.5,5.5,8.3
+55,Accommodation,72,56,4.6,4.1,3.3,3.6,5.5,4.5
+56,Food services and drinking places,590,831,5.9,8.5,6.3,8,5.5,8.9
+57,Other services,224,258,3.4,3.9,2.7,2.6,3.9,5
+58,"Other services, except private households",169,173,2.9,3,2.5,2.7,3.3,3.3
+59,Repair and maintenance,21,74,1.3,4.2,1.2,4,2.1,5.2
+60,Personal and laundry services,81,72,3.8,3.6,4.9,1.4,3.4,4.5
+61,Membership associations and organizations,67,27,3.3,1.3,3,1.1,3.5,1.4
+62,Private households,55,85,6.4,10.7,-,2,6.1,11.7
+63,Agricultural and related private wage and salary workers(2),195,139,11.5,8.3,12.7,7,7.4,11.6
+65,Government wage and salary workers,405,490,1.9,2.2,2.6,1.7,1.4,2.6
+66,"Self-employed workers, unincorporated, and unpaid family workers",375,327,3.8,3.4,4.5,3.9,2.8,2.5
+67,No previous work experience,539,449,-,-,-,-,-,-
+69,,,,,,,,,
