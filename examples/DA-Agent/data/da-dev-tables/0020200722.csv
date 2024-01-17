@@ -1,0 +1,449 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN
+0020200722,0,12,0,1,7:13 PM,12:00,,,,,
+0020200722,1,10,0,1,7:14 PM,12:00,Jump Ball Ilgauskas vs. Garnett: Tip to Palacio,,,,
+0020200722,2,5,1,1,7:15 PM,11:46,Ilgauskas Bad Pass Turnover (P1.T1),,Peeler STEAL (1 STL),,
+0020200722,3,5,2,1,7:16 PM,11:43,,,Peeler Lost Ball Turnover (P1.T1),,
+0020200722,4,2,5,1,7:16 PM,11:22,MISS Ilgauskas  Layup,,Nesterovic BLOCK (1 BLK),,
+0020200722,5,4,0,1,7:16 PM,11:20,Davis REBOUND (Off:1 Def:0),,,,
+0020200722,6,2,1,1,7:16 PM,11:16,MISS Davis 21' Jump Shot,,,,
+0020200722,7,4,0,1,7:16 PM,11:14,,,Garnett REBOUND (Off:0 Def:1),,
+0020200722,8,5,2,1,7:16 PM,10:57,Boozer STEAL (1 STL),,Garnett Lost Ball Turnover (P1.T2),,
+0020200722,9,1,5,1,7:16 PM,10:52,Palacio 1' Layup (2 PTS) (Ilgauskas 1 AST),,,0 - 2,2
+0020200722,10,6,2,1,7:17 PM,10:38,Palacio S.FOUL (P1.T1),,,,
+0020200722,11,3,11,1,7:17 PM,10:38,,,Hudson Free Throw 1 of 2 (1 PTS),1 - 2,1
+0020200722,12,3,12,1,7:17 PM,10:38,,,Hudson Free Throw 2 of 2 (2 PTS),2 - 2,TIE
+0020200722,13,1,5,1,7:18 PM,10:20,Boozer 1' Layup (2 PTS) (Davis 1 AST),,,2 - 4,2
+0020200722,14,6,2,1,7:18 PM,10:20,,,Szczerbiak S.FOUL (P1.T1),,
+0020200722,15,3,10,1,7:18 PM,10:20,Boozer Free Throw 1 of 1 (3 PTS),,,2 - 5,3
+0020200722,16,1,1,1,7:18 PM,10:10,,,Szczerbiak 19' Jump Shot (2 PTS) (Hudson 1 AST),4 - 5,1
+0020200722,17,2,1,1,7:18 PM,9:56,MISS Palacio 11' Jump Shot,,,,
+0020200722,19,4,0,1,7:18 PM,9:54,Boozer REBOUND (Off:1 Def:0),,,,
+0020200722,18,1,4,1,7:18 PM,9:54,Boozer  Tip Shot (5 PTS),,,4 - 7,3
+0020200722,20,1,1,1,7:19 PM,9:36,,,Hudson 22' Jump Shot (4 PTS),6 - 7,1
+0020200722,21,1,1,1,7:19 PM,9:21,Davis 24' 3PT Jump Shot (3 PTS) (Ilgauskas 2 AST),,,6 - 10,4
+0020200722,22,1,1,1,7:19 PM,9:09,,,Hudson 26' 3PT Jump Shot (7 PTS),9 - 10,1
+0020200722,23,2,1,1,7:20 PM,8:44,MISS Ilgauskas 4' Jump Shot,,Nesterovic BLOCK (2 BLK),,
+0020200722,24,4,0,1,7:20 PM,8:42,,,Garnett REBOUND (Off:0 Def:2),,
+0020200722,25,5,1,1,7:20 PM,8:38,Palacio STEAL (1 STL),,Peeler Bad Pass Turnover (P2.T3),,
+0020200722,26,2,42,1,7:20 PM,8:32,MISS Palacio  Driving Layup,,,,
+0020200722,28,4,0,1,7:20 PM,8:29,Ilgauskas REBOUND (Off:1 Def:0),,,,
+0020200722,27,1,4,1,7:20 PM,8:29,Ilgauskas  Tip Shot (2 PTS),,,9 - 12,3
+0020200722,29,2,1,1,7:20 PM,8:22,,,MISS Peeler 19' Jump Shot,,
+0020200722,30,4,0,1,7:20 PM,8:20,Davis REBOUND (Off:1 Def:1),,,,
+0020200722,31,1,1,1,7:20 PM,8:01,Davis 10' Jump Shot (5 PTS),,,9 - 14,5
+0020200722,32,2,47,1,7:21 PM,7:39,,,MISS Garnett 15' Turnaround Jump Shot,,
+0020200722,33,4,0,1,7:21 PM,7:36,Davis REBOUND (Off:1 Def:2),,,,
+0020200722,34,2,1,1,7:21 PM,7:24,MISS Ilgauskas 8' Jump Shot,,,,
+0020200722,36,4,0,1,7:21 PM,7:21,Boozer REBOUND (Off:2 Def:0),,,,
+0020200722,35,2,4,1,7:21 PM,7:21,MISS Boozer  Tip Shot,,,,
+0020200722,38,4,0,1,7:21 PM,7:18,Palacio REBOUND (Off:1 Def:0),,,,
+0020200722,37,1,4,1,7:21 PM,7:18,Palacio 1' Tip Shot (4 PTS),,,9 - 16,7
+0020200722,39,9,1,1,7:21 PM,7:14,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,
+0020200722,43,6,2,1,7:24 PM,7:07,Palacio S.FOUL (P2.T2),,,,
+0020200722,44,3,11,1,7:24 PM,7:07,,,Hudson Free Throw 1 of 2 (8 PTS),10 - 16,6
+0020200722,45,3,12,1,7:24 PM,7:07,,,Hudson Free Throw 2 of 2 (9 PTS),11 - 16,5
+0020200722,46,1,42,1,7:25 PM,6:50,Davis  Driving Layup (7 PTS) (Miles 1 AST),,,11 - 18,7
+0020200722,47,2,1,1,7:25 PM,6:37,,,MISS Garnett 19' Jump Shot,,
+0020200722,48,4,0,1,7:25 PM,6:35,Davis REBOUND (Off:1 Def:3),,,,
+0020200722,49,1,1,1,7:25 PM,6:25,Davis 25' 3PT Jump Shot (10 PTS) (Ilgauskas 3 AST),,,11 - 21,10
+0020200722,50,9,2,1,7:25 PM,6:18,,,Timberwolves Timeout: Short (Reg.1 Short 1),,
+0020200722,52,8,0,1,7:26 PM,6:18,,,SUB: Gill FOR Peeler,,
+0020200722,54,2,1,1,7:26 PM,6:12,,,MISS Hudson 17' Jump Shot,,
+0020200722,55,4,0,1,7:26 PM,6:10,,,Nesterovic REBOUND (Off:1 Def:0),,
+0020200722,56,1,1,1,7:26 PM,6:07,,,Gill 12' Jump Shot (2 PTS) (Nesterovic 1 AST),13 - 21,8
+0020200722,57,2,63,1,7:27 PM,5:54,MISS Boozer 5' Fadeaway Jumper,,,,
+0020200722,58,4,0,1,7:27 PM,5:52,,,Gill REBOUND (Off:0 Def:1),,
+0020200722,59,1,3,1,7:27 PM,5:39,,,Nesterovic 1' Hook Shot (2 PTS),15 - 21,6
+0020200722,60,5,1,1,7:27 PM,5:20,Davis Bad Pass Turnover (P1.T2),,Szczerbiak STEAL (1 STL),,
+0020200722,61,2,5,1,7:27 PM,5:16,Davis BLOCK (1 BLK),,MISS Gill 1' Layup,,
+0020200722,63,4,0,1,7:27 PM,5:11,,,Garnett REBOUND (Off:1 Def:2),,
+0020200722,62,1,5,1,7:27 PM,5:11,,,Garnett  Layup (2 PTS),17 - 21,4
+0020200722,64,2,1,1,7:28 PM,4:58,MISS Davis 26' 3PT Jump Shot,,,,
+0020200722,65,4,0,1,7:28 PM,4:55,Palacio REBOUND (Off:2 Def:0),,,,
+0020200722,66,1,8,1,7:28 PM,4:53,Ilgauskas 1' Slam Dunk (4 PTS) (Palacio 1 AST),,,17 - 23,6
+0020200722,67,2,1,1,7:28 PM,4:38,,,MISS Gill 18' Jump Shot,,
+0020200722,68,4,0,1,7:28 PM,4:36,Miles REBOUND (Off:0 Def:1),,,,
+0020200722,69,1,8,1,7:28 PM,4:32,Boozer  Slam Dunk (7 PTS) (Miles 2 AST),,,17 - 25,8
+0020200722,70,1,5,1,7:28 PM,4:14,,,Szczerbiak 1' Layup (4 PTS) (Gill 1 AST),19 - 25,6
+0020200722,71,1,1,1,7:29 PM,3:47,Davis 25' 3PT Jump Shot (13 PTS) (Palacio 2 AST),,,19 - 28,9
+0020200722,72,1,42,1,7:29 PM,3:29,,,Gill  Driving Layup (4 PTS),21 - 28,7
+0020200722,73,1,1,1,7:29 PM,3:18,Miles 4' Jump Shot (2 PTS),,,21 - 30,9
+0020200722,74,8,0,1,7:29 PM,3:09,SUB: Diop FOR Ilgauskas,,,,
+0020200722,75,8,0,1,7:29 PM,3:09,SUB: Wagner FOR Palacio,,,,
+0020200722,76,1,1,1,7:30 PM,3:07,,,Hudson 18' Jump Shot (11 PTS) (Szczerbiak 1 AST),23 - 30,7
+0020200722,77,6,4,1,7:30 PM,2:55,Wagner OFF.Foul (P1),,,,
+0020200722,78,5,5,1,7:30 PM,2:55,Wagner Foul Turnover (P1.T3),,,,
+0020200722,79,9,1,1,7:30 PM,2:55,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,
+0020200722,83,5,1,1,7:33 PM,2:38,,,Garnett Bad Pass Turnover (P2.T4),,
+0020200722,84,2,1,1,7:33 PM,2:29,MISS Wagner 25' 3PT Jump Shot,,,,
+0020200722,85,4,0,1,7:33 PM,2:27,,,Nesterovic REBOUND (Off:1 Def:1),,
+0020200722,86,1,5,1,7:33 PM,2:22,,,Gill  Layup (6 PTS) (Hudson 2 AST),25 - 30,5
+0020200722,87,5,1,1,7:33 PM,1:59,Boozer Bad Pass Turnover (P1.T4),,Nesterovic STEAL (1 STL),,
+0020200722,88,1,1,1,7:34 PM,1:55,,,Szczerbiak 9' Jump Shot (6 PTS) (Nesterovic 2 AST),27 - 30,3
+0020200722,89,9,2,1,7:34 PM,1:39,CAVALIERS Timeout: Short (Full 1 Short 1),,,,
+0020200722,91,2,42,1,7:35 PM,1:33,MISS Davis  Driving Layup,,,,
+0020200722,92,4,0,1,7:35 PM,1:30,Davis REBOUND (Off:2 Def:3),,,,
+0020200722,93,2,5,1,7:35 PM,1:19,MISS Boozer 1' Layup,,Szczerbiak BLOCK (1 BLK),,
+0020200722,94,4,0,1,7:35 PM,1:17,,,Timberwolves Rebound,,
+0020200722,95,8,0,1,7:35 PM,1:17,,,SUB: Jackson FOR Nesterovic,,
+0020200722,96,8,0,1,7:35 PM,1:17,,,SUB: Rakocevic FOR Hudson,,
+0020200722,97,2,47,1,7:36 PM,1:01,Diop BLOCK (1 BLK),,MISS Jackson 3' Turnaround Jump Shot,,
+0020200722,98,4,0,1,7:36 PM,0:57,Davis REBOUND (Off:2 Def:4),,,,
+0020200722,99,2,1,1,7:36 PM,0:54,MISS Diop 21' Jump Shot,,,,
+0020200722,100,4,0,1,7:36 PM,0:53,,,Timberwolves Rebound,,
+0020200722,101,6,3,1,7:36 PM,0:53,Boozer L.B.FOUL (P1.T3),,,,
+0020200722,102,8,0,1,7:36 PM,0:53,SUB: Jones FOR Miles,,,,
+0020200722,103,8,0,1,7:36 PM,0:53,SUB: Coles FOR Davis,,,,
+0020200722,105,6,2,1,7:37 PM,0:41,Boozer S.FOUL (P2.PN),,,,
+0020200722,106,3,11,1,7:37 PM,0:41,,,Garnett Free Throw 1 of 2 (3 PTS),28 - 30,2
+0020200722,107,3,12,1,7:37 PM,0:41,,,Garnett Free Throw 2 of 2 (4 PTS),29 - 30,1
+0020200722,109,2,42,1,7:38 PM,0:20,MISS Wagner 1' Driving Layup,,,,
+0020200722,111,4,0,1,7:38 PM,0:20,Jones REBOUND (Off:1 Def:0),,,,
+0020200722,110,1,4,1,7:38 PM,0:20,Jones  Tip Shot (2 PTS),,,29 - 32,3
+0020200722,112,1,1,1,7:38 PM,0:02,,,Szczerbiak 24' 3PT Jump Shot (9 PTS) (Garnett 1 AST),32 - 32,TIE
+0020200722,113,2,1,1,7:38 PM,0:00,MISS Coles 70' 3PT Jump Shot,,,,
+0020200722,114,4,0,1,7:38 PM,0:00,CAVALIERS Rebound,,,,
+0020200722,115,13,0,1,7:38 PM,0:00,,,,32 - 32,TIE
+0020200722,118,12,0,2,7:40 PM,12:00,,,,32 - 32,TIE
+0020200722,120,2,1,2,7:41 PM,11:49,,,MISS Szczerbiak 20' Jump Shot,,
+0020200722,122,4,0,2,7:41 PM,11:46,,,Garnett REBOUND (Off:2 Def:2),,
+0020200722,121,2,4,2,7:41 PM,11:46,,,MISS Garnett  Tip Shot,,
+0020200722,123,4,0,2,7:41 PM,11:42,Wagner REBOUND (Off:0 Def:1),,,,
+0020200722,124,2,1,2,7:41 PM,11:38,MISS Jones  3PT Jump Shot,,,,
+0020200722,125,4,0,2,7:41 PM,11:36,,,Gill REBOUND (Off:0 Def:2),,
+0020200722,126,2,1,2,7:41 PM,11:20,Mihm BLOCK (1 BLK),,MISS Garnett 3' Jump Shot,,
+0020200722,127,4,0,2,7:41 PM,11:17,Wagner REBOUND (Off:0 Def:2),,,,
+0020200722,128,1,5,2,7:42 PM,11:13,Coles 1' Layup (2 PTS) (Jones 1 AST),,,32 - 34,2
+0020200722,129,5,1,2,7:42 PM,10:51,Diop STEAL (1 STL),,Rakocevic Bad Pass Turnover (P1.T5),,
+0020200722,130,2,56,2,7:42 PM,10:42,MISS Diop  Running Hook Shot,,,,
+0020200722,131,4,0,2,7:42 PM,10:37,,,Szczerbiak REBOUND (Off:0 Def:1),,
+0020200722,132,6,17,2,7:42 PM,10:24,CAVALIERS T.Foul (Def. 3 Sec Diop ),,,,
+0020200722,133,8,0,2,7:43 PM,10:24,,,SUB: Hudson FOR Rakocevic,,
+0020200722,134,8,0,2,7:43 PM,10:24,,,SUB: Trent FOR Garnett,,
+0020200722,137,3,16,2,7:43 PM,10:24,,,Szczerbiak Free Throw Technical (10 PTS),33 - 34,1
+0020200722,138,8,0,2,7:43 PM,10:24,SUB: Ilgauskas FOR Diop,,,,
+0020200722,140,2,42,2,7:43 PM,10:18,,,MISS Hudson  Driving Layup,,
+0020200722,141,4,0,2,7:43 PM,10:15,Coles REBOUND (Off:0 Def:1),,,,
+0020200722,142,2,1,2,7:44 PM,10:01,MISS Jones 21' Jump Shot,,,,
+0020200722,143,4,0,2,7:44 PM,9:59,,,Gill REBOUND (Off:0 Def:3),,
+0020200722,144,6,2,2,7:44 PM,9:55,Jones S.FOUL (P1.T1),,,,
+0020200722,145,3,11,2,7:44 PM,9:55,,,Szczerbiak Free Throw 1 of 2 (11 PTS),34 - 34,TIE
+0020200722,146,3,12,2,7:44 PM,9:55,,,Szczerbiak Free Throw 2 of 2 (12 PTS),35 - 34,-1
+0020200722,147,1,1,2,7:45 PM,9:36,Jones  3PT Jump Shot (5 PTS) (Wagner 1 AST),,,35 - 37,2
+0020200722,148,2,63,2,7:45 PM,9:16,Ilgauskas BLOCK (1 BLK),,MISS Gill 5' Fadeaway Jumper,,
+0020200722,149,4,0,2,7:45 PM,9:11,Mihm REBOUND (Off:0 Def:1),,,,
+0020200722,150,2,1,2,7:45 PM,9:05,MISS Jones 15' Jump Shot,,,,
+0020200722,151,4,0,2,7:45 PM,9:03,,,Gill REBOUND (Off:0 Def:4),,
+0020200722,152,1,47,2,7:46 PM,8:55,,,Jackson 15' Turnaround Jump Shot (2 PTS) (Gill 2 AST),37 - 37,TIE
+0020200722,153,2,1,2,7:46 PM,8:34,MISS Mihm 16' Jump Shot,,,,
+0020200722,154,4,0,2,7:46 PM,8:33,,,Gill REBOUND (Off:0 Def:5),,
+0020200722,155,2,1,2,7:46 PM,8:24,,,MISS Gill 17' Jump Shot,,
+0020200722,156,4,0,2,7:46 PM,8:22,Jones REBOUND (Off:1 Def:1),,,,
+0020200722,157,1,1,2,7:46 PM,8:15,Wagner 24' 3PT Jump Shot (3 PTS) (Coles 1 AST),,,37 - 40,3
+0020200722,158,1,47,2,7:47 PM,7:54,,,Trent 3' Turnaround Jump Shot (2 PTS),39 - 40,1
+0020200722,159,1,47,2,7:47 PM,7:30,Mihm 7' Turnaround Jump Shot (2 PTS) (Ilgauskas 4 AST),,,39 - 42,3
+0020200722,160,5,1,2,7:47 PM,7:15,Coles STEAL (1 STL),,Hudson Bad Pass Turnover (P1.T6),,
+0020200722,161,6,9,2,7:47 PM,7:13,,,Szczerbiak C.P.FOUL (P2.T1),,
+0020200722,162,9,4,2,7:48 PM,7:13,,,,,
+0020200722,165,8,0,2,7:49 PM,7:13,,,SUB: Peeler FOR Szczerbiak,,
+0020200722,167,3,17,2,7:50 PM,7:13,Jones Free Throw Clear Path (6 PTS),,,39 - 43,4
+0020200722,168,1,3,2,7:50 PM,7:02,Mihm 8' Hook Shot (4 PTS) (Ilgauskas 5 AST),,,39 - 45,6
+0020200722,170,2,1,2,7:51 PM,6:45,,,MISS Jackson 20' Jump Shot,,
+0020200722,171,4,0,2,7:51 PM,6:43,,,Gill REBOUND (Off:1 Def:5),,
+0020200722,172,1,1,2,7:51 PM,6:40,,,Gill 18' Jump Shot (8 PTS),41 - 45,4
+0020200722,173,2,1,2,7:51 PM,6:17,MISS Jones 22' Jump Shot,,,,
+0020200722,174,4,0,2,7:51 PM,6:15,,,Trent REBOUND (Off:0 Def:1),,
+0020200722,175,2,1,2,7:51 PM,6:09,,,MISS Gill 24' 3PT Jump Shot,,
+0020200722,176,4,0,2,7:51 PM,6:07,,,Trent REBOUND (Off:1 Def:1),,
+0020200722,177,1,5,2,7:51 PM,6:04,,,Trent 1' Layup (4 PTS),43 - 45,2
+0020200722,178,2,3,2,7:52 PM,5:47,MISS Ilgauskas 6' Hook Shot,,,,
+0020200722,179,4,0,2,7:52 PM,5:42,,,Trent REBOUND (Off:1 Def:2),,
+0020200722,180,6,2,2,7:52 PM,5:40,Ilgauskas S.FOUL (P1.T2),,,,
+0020200722,181,6,11,2,7:52 PM,5:40,,,Jackson T.FOUL (P0.T1),,
+0020200722,182,9,1,2,7:52 PM,5:40,CAVALIERS Timeout: Regular (Full 2 Short 1),,,,
+0020200722,184,8,0,2,7:54 PM,5:40,SUB: Davis FOR Wagner,,,,
+0020200722,185,8,0,2,7:54 PM,5:40,,,SUB: Garnett FOR Gill,,
+0020200722,186,3,16,2,7:54 PM,5:40,Coles Free Throw Technical (3 PTS),,,43 - 46,3
+0020200722,187,3,11,2,7:54 PM,5:40,,,Jackson Free Throw 1 of 2 (3 PTS),44 - 46,2
+0020200722,188,3,12,2,7:54 PM,5:40,,,Jackson Free Throw 2 of 2 (4 PTS),45 - 46,1
+0020200722,189,2,1,2,7:55 PM,5:20,MISS Jones 24' 3PT Jump Shot,,,,
+0020200722,190,4,0,2,7:55 PM,5:18,,,Hudson REBOUND (Off:0 Def:1),,
+0020200722,191,2,5,2,7:55 PM,5:14,Ilgauskas BLOCK (2 BLK),,MISS Trent  Layup,,
+0020200722,192,4,0,2,7:55 PM,5:09,Jones REBOUND (Off:1 Def:2),,,,
+0020200722,193,5,2,2,7:55 PM,4:54,Mihm Lost Ball Turnover (P1.T5),,Jackson STEAL (1 STL),,
+0020200722,194,6,1,2,7:55 PM,4:53,Ilgauskas P.FOUL (P2.T3),,,,
+0020200722,195,8,0,2,7:56 PM,4:53,SUB: Boozer FOR Ilgauskas,,,,
+0020200722,196,6,2,2,7:56 PM,4:39,Mihm S.FOUL (P1.T4),,,,
+0020200722,197,3,11,2,7:56 PM,4:39,,,Garnett Free Throw 1 of 2 (5 PTS),46 - 46,TIE
+0020200722,198,8,0,2,7:57 PM,4:39,SUB: Miles FOR Jones,,,,
+0020200722,199,3,12,2,7:57 PM,4:39,,,Garnett Free Throw 2 of 2 (6 PTS),47 - 46,-1
+0020200722,200,5,1,2,7:57 PM,4:29,Miles Bad Pass Turnover (P1.T6),,,,
+0020200722,201,2,1,2,7:57 PM,4:20,,,MISS Hudson 20' Jump Shot,,
+0020200722,202,4,0,2,7:57 PM,4:17,Miles REBOUND (Off:0 Def:2),,,,
+0020200722,203,2,1,2,7:58 PM,4:03,MISS Miles 18' Jump Shot,,,,
+0020200722,204,4,0,2,7:58 PM,4:01,,,Trent REBOUND (Off:1 Def:3),,
+0020200722,205,1,63,2,7:58 PM,3:49,,,Garnett 12' Fadeaway Jumper (8 PTS),49 - 46,-3
+0020200722,206,2,1,2,7:58 PM,3:32,MISS Davis 19' Jump Shot,,,,
+0020200722,207,4,0,2,7:58 PM,3:30,Boozer REBOUND (Off:3 Def:0),,,,
+0020200722,208,8,0,2,7:58 PM,3:30,SUB: Wagner FOR Coles,,,,
+0020200722,209,1,1,2,7:59 PM,3:24,Wagner 4' Jump Shot (5 PTS),,,49 - 48,-1
+0020200722,210,6,2,2,7:59 PM,3:24,,,Hudson S.FOUL (P1.T2),,
+0020200722,211,3,10,2,7:59 PM,3:24,Wagner Free Throw 1 of 1 (6 PTS),,,49 - 49,TIE
+0020200722,212,1,1,2,7:59 PM,3:01,,,Peeler 18' Jump Shot (2 PTS) (Hudson 3 AST),51 - 49,-2
+0020200722,214,2,5,2,8:00 PM,2:47,MISS Davis  Layup,,,,
+0020200722,215,4,0,2,8:00 PM,2:44,,,Timberwolves Rebound,,
+0020200722,216,6,3,2,8:00 PM,2:44,Mihm L.B.FOUL (P2.PN),,,,
+0020200722,217,9,1,2,8:00 PM,2:44,,,Timberwolves Timeout: Regular (Reg.2 Short 1),,
+0020200722,222,3,11,2,8:02 PM,2:44,,,Trent Free Throw 1 of 2 (5 PTS),52 - 49,-3
+0020200722,223,3,12,2,8:02 PM,2:44,,,Trent Free Throw 2 of 2 (6 PTS),53 - 49,-4
+0020200722,225,6,17,2,8:03 PM,2:32,,,Timberwolves T.Foul (Def. 3 Sec Garnett ),,
+0020200722,226,8,0,2,8:03 PM,2:32,,,SUB: Szczerbiak FOR Trent,,
+0020200722,227,3,16,2,8:03 PM,2:32,Davis Free Throw Technical (14 PTS),,,53 - 50,-3
+0020200722,233,2,45,2,8:03 PM,2:32,MISS Davis 25' 3PT Jump Shot,,,,
+0020200722,229,4,0,2,8:04 PM,2:21,Mihm REBOUND (Off:1 Def:1),,,,
+0020200722,230,6,2,2,8:04 PM,2:20,,,Jackson S.FOUL (P1.T3),,
+0020200722,231,3,11,2,8:04 PM,2:20,Mihm Free Throw 1 of 2 (5 PTS),,,53 - 51,-2
+0020200722,232,3,12,2,8:04 PM,2:20,Mihm Free Throw 2 of 2 (6 PTS),,,53 - 52,-1
+0020200722,234,2,1,2,8:05 PM,2:05,,,MISS Garnett 19' Jump Shot,,
+0020200722,235,4,0,2,8:05 PM,2:03,,,Szczerbiak REBOUND (Off:1 Def:1),,
+0020200722,237,1,5,2,8:05 PM,1:44,,,Garnett 2' Layup (10 PTS) (Hudson 4 AST),55 - 52,-3
+0020200722,238,6,2,2,8:05 PM,1:44,Mihm S.FOUL (P3.PN),,,,
+0020200722,240,3,10,2,8:05 PM,1:44,,,MISS Garnett Free Throw 1 of 1,,
+0020200722,242,4,0,2,8:06 PM,1:43,Boozer REBOUND (Off:3 Def:1),,,,
+0020200722,244,6,1,2,8:06 PM,1:37,,,Peeler P.FOUL (P1.T4),,
+0020200722,245,8,0,2,8:06 PM,1:37,SUB: Diop FOR Mihm,,,,
+0020200722,247,1,1,2,8:06 PM,1:28,Boozer 15' Jump Shot (9 PTS) (Wagner 2 AST),,,55 - 54,-1
+0020200722,249,1,42,2,8:07 PM,1:10,,,Garnett  Driving Layup (12 PTS),57 - 54,-3
+0020200722,251,8,0,2,8:07 PM,0:52,,,SUB: Gill FOR Szczerbiak,,
+0020200722,253,2,1,2,8:07 PM,0:44,MISS Miles 10' Jump Shot,,,,
+0020200722,254,4,0,2,8:07 PM,0:42,,,Jackson REBOUND (Off:0 Def:1),,
+0020200722,256,2,1,2,8:08 PM,0:37,,,MISS Peeler 25' 3PT Jump Shot,,
+0020200722,257,4,0,2,8:08 PM,0:35,Miles REBOUND (Off:0 Def:3),,,,
+0020200722,259,2,43,2,8:08 PM,0:15,MISS Diop 1' Alley Oop Layup,,,,
+0020200722,260,4,0,2,8:08 PM,0:12,,,Jackson REBOUND (Off:0 Def:2),,
+0020200722,264,13,0,2,8:10 PM,0:00,,,,57 - 54,-3
+0020200722,266,12,0,3,8:25 PM,12:00,,,,57 - 54,-3
+0020200722,267,1,1,3,8:25 PM,11:44,,,Garnett 17' Jump Shot (14 PTS) (Szczerbiak 2 AST),59 - 54,-5
+0020200722,268,2,1,3,8:26 PM,11:22,MISS Ilgauskas 17' Jump Shot,,,,
+0020200722,269,4,0,3,8:26 PM,11:20,,,Garnett REBOUND (Off:2 Def:3),,
+0020200722,270,2,42,3,8:26 PM,11:15,Miles BLOCK (1 BLK),,MISS Peeler  Driving Layup,,
+0020200722,271,4,0,3,8:26 PM,11:11,Palacio REBOUND (Off:2 Def:1),,,,
+0020200722,272,2,1,3,8:26 PM,10:57,MISS Boozer 16' Jump Shot,,,,
+0020200722,273,4,0,3,8:26 PM,10:55,,,Nesterovic REBOUND (Off:1 Def:2),,
+0020200722,274,1,47,3,8:26 PM,10:43,,,Nesterovic 18' Turnaround Jump Shot (4 PTS),61 - 54,-7
+0020200722,275,2,1,3,8:27 PM,10:25,MISS Davis 18' Jump Shot,,,,
+0020200722,276,4,0,3,8:27 PM,10:24,,,Hudson REBOUND (Off:0 Def:2),,
+0020200722,277,2,47,3,8:27 PM,10:17,,,MISS Hudson 17' Turnaround Jump Shot,,
+0020200722,278,4,0,3,8:27 PM,10:14,Ilgauskas REBOUND (Off:1 Def:1),,,,
+0020200722,279,5,4,3,8:27 PM,9:57,Ilgauskas Traveling Turnover (P2.T7),,,,
+0020200722,280,2,1,3,8:27 PM,9:44,,,MISS Szczerbiak 22' Jump Shot,,
+0020200722,281,4,0,3,8:27 PM,9:42,Ilgauskas REBOUND (Off:1 Def:2),,,,
+0020200722,282,2,1,3,8:28 PM,9:19,MISS Miles 16' Jump Shot,,,,
+0020200722,283,4,0,3,8:28 PM,9:17,,,Garnett REBOUND (Off:2 Def:4),,
+0020200722,284,1,1,3,8:28 PM,9:04,,,Peeler 18' Jump Shot (4 PTS) (Hudson 5 AST),63 - 54,-9
+0020200722,285,9,1,3,8:28 PM,9:03,CAVALIERS Timeout: Regular (Full 3 Short 1),,,,
+0020200722,289,2,44,3,8:30 PM,8:47,MISS Palacio 1' Reverse Layup,,,,
+0020200722,291,4,0,3,8:30 PM,8:45,Boozer REBOUND (Off:4 Def:1),,,,
+0020200722,290,2,4,3,8:30 PM,8:45,MISS Boozer 1' Tip Shot,,,,
+0020200722,292,4,0,3,8:31 PM,8:42,,,Peeler REBOUND (Off:0 Def:1),,
+0020200722,293,2,5,3,8:31 PM,8:39,Davis BLOCK (2 BLK),,MISS Nesterovic 1' Layup,,
+0020200722,294,4,0,3,8:31 PM,8:36,Miles REBOUND (Off:0 Def:4),,,,
+0020200722,295,1,1,3,8:31 PM,8:33,Palacio 10' Jump Shot (6 PTS) (Miles 3 AST),,,63 - 56,-7
+0020200722,296,5,1,3,8:31 PM,8:21,Boozer STEAL (2 STL),,Hudson Bad Pass Turnover (P2.T7),,
+0020200722,298,7,2,3,8:31 PM,8:16,,,Garnett Violation:Defensive Goaltending,,
+0020200722,297,1,5,3,8:31 PM,8:16,Palacio  Layup (8 PTS) (Miles 4 AST),,,63 - 58,-5
+0020200722,299,1,47,3,8:31 PM,8:04,,,Garnett 16' Turnaround Jump Shot (16 PTS) (Hudson 6 AST),65 - 58,-7
+0020200722,300,6,1,3,8:32 PM,7:51,,,Peeler P.FOUL (P2.T1),,
+0020200722,301,1,1,3,8:32 PM,7:42,Davis 24' 3PT Jump Shot (17 PTS) (Palacio 3 AST),,,65 - 61,-4
+0020200722,302,2,7,3,8:33 PM,7:24,Boozer BLOCK (1 BLK),,MISS Szczerbiak 1' Dunk,,
+0020200722,303,4,0,3,8:33 PM,7:20,Ilgauskas REBOUND (Off:1 Def:3),,,,
+0020200722,304,2,63,3,8:33 PM,7:06,MISS Boozer 17' Fadeaway Jumper,,,,
+0020200722,305,4,0,3,8:33 PM,7:03,,,Nesterovic REBOUND (Off:1 Def:3),,
+0020200722,306,1,1,3,8:33 PM,6:44,,,Szczerbiak 20' Jump Shot (14 PTS),67 - 61,-6
+0020200722,307,6,1,3,8:34 PM,6:33,,,Nesterovic P.FOUL (P1.T2),,
+0020200722,308,8,0,3,8:34 PM,6:33,,,SUB: Gill FOR Peeler,,
+0020200722,309,5,2,3,8:34 PM,6:20,Boozer Lost Ball Turnover (P2.T8),,Szczerbiak STEAL (2 STL),,
+0020200722,310,2,5,3,8:34 PM,6:13,Ilgauskas BLOCK (3 BLK),,MISS Szczerbiak  Layup,,
+0020200722,313,4,0,3,8:34 PM,5:58,,,Garnett REBOUND (Off:3 Def:4),,
+0020200722,312,1,5,3,8:34 PM,5:58,,,Garnett 1' Layup (18 PTS),69 - 61,-8
+0020200722,314,2,1,3,8:35 PM,5:55,MISS Davis 18' Jump Shot,,,,
+0020200722,315,4,0,3,8:35 PM,5:55,,,Timberwolves Rebound,,
+0020200722,316,6,3,3,8:35 PM,5:55,Ilgauskas L.B.FOUL (P3.T1),,,,
+0020200722,317,8,0,3,8:35 PM,5:55,SUB: Jones FOR Ilgauskas,,,,
+0020200722,318,8,0,3,8:35 PM,5:55,SUB: Stewart FOR Boozer,,,,
+0020200722,320,2,1,3,8:35 PM,5:43,,,MISS Gill 21' Jump Shot,,
+0020200722,321,4,0,3,8:35 PM,5:41,Davis REBOUND (Off:2 Def:5),,,,
+0020200722,322,2,1,3,8:35 PM,5:35,MISS Miles 6' Jump Shot,,,,
+0020200722,323,4,0,3,8:35 PM,5:33,,,Garnett REBOUND (Off:3 Def:5),,
+0020200722,324,2,1,3,8:35 PM,5:22,,,MISS Nesterovic 19' Jump Shot,,
+0020200722,325,4,0,3,8:36 PM,5:20,,,Garnett REBOUND (Off:4 Def:5),,
+0020200722,326,2,1,3,8:36 PM,5:14,,,MISS Garnett 4' Jump Shot,,
+0020200722,328,4,0,3,8:36 PM,5:12,,,Nesterovic REBOUND (Off:2 Def:3),,
+0020200722,327,2,4,3,8:36 PM,5:12,,,MISS Nesterovic 1' Tip Shot,,
+0020200722,329,4,0,3,8:36 PM,5:09,Stewart REBOUND (Off:0 Def:1),,,,
+0020200722,330,5,2,3,8:36 PM,5:07,Palacio Lost Ball Turnover (P1.T9),,Hudson STEAL (1 STL),,
+0020200722,331,2,5,3,8:36 PM,5:01,,,MISS Hudson  Layup,,
+0020200722,332,4,0,3,8:36 PM,5:00,Palacio REBOUND (Off:2 Def:2),,,,
+0020200722,333,2,1,3,8:36 PM,4:49,MISS Davis 26' 3PT Jump Shot,,,,
+0020200722,334,4,0,3,8:36 PM,4:47,,,Garnett REBOUND (Off:4 Def:6),,
+0020200722,335,9,1,3,8:36 PM,4:36,,,Timberwolves Timeout: Regular (Reg.3 Short 1),,
+0020200722,337,8,0,3,8:38 PM,4:35,,,SUB: Jackson FOR Nesterovic,,
+0020200722,339,1,47,3,8:39 PM,4:27,,,Garnett 9' Turnaround Jump Shot (20 PTS) (Hudson 7 AST),71 - 61,-10
+0020200722,340,5,1,3,8:39 PM,4:15,Palacio Bad Pass Turnover (P2.T10),,Gill STEAL (1 STL),,
+0020200722,341,5,1,3,8:39 PM,4:11,Davis STEAL (1 STL),,Hudson Bad Pass Turnover (P3.T8),,
+0020200722,342,2,1,3,8:39 PM,3:51,MISS Jones  3PT Jump Shot,,,,
+0020200722,343,4,0,3,8:39 PM,3:49,Stewart REBOUND (Off:1 Def:1),,,,
+0020200722,344,2,5,3,8:39 PM,3:49,MISS Stewart 1' Layup,,,,
+0020200722,345,4,0,3,8:39 PM,3:49,CAVALIERS Rebound,,,,
+0020200722,346,8,0,3,8:39 PM,3:49,SUB: Wagner FOR Palacio,,,,
+0020200722,347,8,0,3,8:39 PM,3:49,,,SUB: Rakocevic FOR Hudson,,
+0020200722,348,5,1,3,8:40 PM,3:41,Davis Bad Pass Turnover (P2.T11),,Garnett STEAL (1 STL),,
+0020200722,349,6,1,3,8:40 PM,3:27,Stewart P.FOUL (P1.T2),,,,
+0020200722,350,8,0,3,8:40 PM,3:27,SUB: Coles FOR Davis,,,,
+0020200722,351,10,0,3,8:40 PM,3:24,Jump Ball Coles vs. Rakocevic: Tip to Miles,,,,
+0020200722,353,5,2,3,8:40 PM,3:24,Coles STEAL (2 STL),,Rakocevic Lost Ball Turnover (P2.T9),,
+0020200722,354,5,2,3,8:41 PM,3:18,Miles Lost Ball Turnover (P2.T12),,,,
+0020200722,355,5,10,3,8:41 PM,3:10,,,Timberwolves Turnover: 8 Second Violation (T#10),,
+0020200722,356,2,1,3,8:42 PM,2:51,MISS Wagner 5' Jump Shot,,Garnett BLOCK (1 BLK),,
+0020200722,357,4,0,3,8:42 PM,2:48,,,Jackson REBOUND (Off:0 Def:3),,
+0020200722,358,5,4,3,8:42 PM,2:47,,,Rakocevic Traveling Turnover (P3.T11),,
+0020200722,359,1,1,3,8:42 PM,2:26,Jones  3PT Jump Shot (9 PTS) (Coles 2 AST),,,71 - 64,-7
+0020200722,360,6,1,3,8:43 PM,2:20,Coles P.FOUL (P1.T3),,,,
+0020200722,361,8,0,3,8:43 PM,2:20,SUB: Mihm FOR Miles,,,,
+0020200722,362,1,1,3,8:43 PM,2:12,,,Szczerbiak 18' Jump Shot (16 PTS) (Gill 3 AST),73 - 64,-9
+0020200722,363,2,1,3,8:43 PM,1:47,MISS Jones 24' 3PT Jump Shot,,,,
+0020200722,364,4,0,3,8:43 PM,1:44,,,Garnett REBOUND (Off:4 Def:7),,
+0020200722,365,1,42,3,8:44 PM,1:40,,,Rakocevic  Driving Layup (2 PTS) (Garnett 2 AST),75 - 64,-11
+0020200722,366,1,5,3,8:44 PM,1:20,Mihm  Layup (8 PTS) (Wagner 3 AST),,,75 - 66,-9
+0020200722,367,7,5,3,8:44 PM,1:08,Coles Violation:Kicked Ball,,,,
+0020200722,368,8,0,3,8:44 PM,1:08,SUB: Ilgauskas FOR Stewart,,,,
+0020200722,369,1,1,3,8:45 PM,0:59,,,Szczerbiak 14' Jump Shot (18 PTS) (Garnett 3 AST),77 - 66,-11
+0020200722,370,5,1,3,8:45 PM,0:41,Coles Bad Pass Turnover (P1.T13),,,,
+0020200722,371,1,1,3,8:45 PM,0:30,,,Rakocevic 25' 3PT Jump Shot (5 PTS) (Szczerbiak 3 AST),80 - 66,-14
+0020200722,372,2,46,3,8:46 PM,0:09,MISS Wagner 9' Running Jump Shot,,,,
+0020200722,373,4,0,3,8:46 PM,0:03,Wagner REBOUND (Off:1 Def:2),,,,
+0020200722,374,2,1,3,8:46 PM,0:00,MISS Wagner 8' Jump Shot,,,,
+0020200722,375,4,0,3,8:46 PM,0:00,,,Garnett REBOUND (Off:4 Def:8),,
+0020200722,376,2,1,3,8:46 PM,0:00,,,MISS Garnett 71' 3PT Jump Shot,,
+0020200722,377,4,0,3,8:46 PM,0:00,,,Timberwolves Rebound,,
+0020200722,378,13,0,3,8:46 PM,0:00,,,,80 - 66,-14
+0020200722,380,12,0,4,8:48 PM,12:00,,,,80 - 66,-14
+0020200722,381,6,1,4,8:49 PM,11:50,,,Gill P.FOUL (P1.T1),,
+0020200722,382,2,5,4,8:49 PM,11:41,MISS Ilgauskas  Layup,,Garnett BLOCK (2 BLK),,
+0020200722,383,4,0,4,8:49 PM,11:41,Ilgauskas REBOUND (Off:2 Def:3),,,,
+0020200722,384,6,2,4,8:49 PM,11:41,,,Jackson S.FOUL (P2.T2),,
+0020200722,385,3,11,4,8:49 PM,11:41,Ilgauskas Free Throw 1 of 2 (5 PTS),,,80 - 67,-13
+0020200722,386,3,12,4,8:49 PM,11:41,MISS Ilgauskas Free Throw 2 of 2,,,,
+0020200722,387,4,0,4,8:50 PM,11:41,,,Jackson REBOUND (Off:0 Def:4),,
+0020200722,388,6,1,4,8:50 PM,11:37,Wagner P.FOUL (P2.T1),,,,
+0020200722,389,6,1,4,8:50 PM,11:31,Ilgauskas P.FOUL (P4.T2),,,,
+0020200722,390,6,1,4,8:51 PM,11:23,Mihm P.FOUL (P4.T3),,,,
+0020200722,391,1,1,4,8:51 PM,11:13,,,Garnett 21' Jump Shot (22 PTS) (Peeler 1 AST),82 - 67,-15
+0020200722,392,5,1,4,8:51 PM,10:58,Mihm Bad Pass Turnover (P2.T14),,,,
+0020200722,393,8,0,4,8:51 PM,10:58,,,SUB: Nesterovic FOR Jackson,,
+0020200722,394,2,1,4,8:52 PM,10:43,,,MISS Peeler 17' Jump Shot,,
+0020200722,396,4,0,4,8:52 PM,10:40,,,Gill REBOUND (Off:2 Def:5),,
+0020200722,395,2,4,4,8:52 PM,10:40,,,MISS Gill  Tip Shot,,
+0020200722,397,4,0,4,8:52 PM,10:37,Jones REBOUND (Off:1 Def:3),,,,
+0020200722,398,6,1,4,8:52 PM,10:34,,,Rakocevic P.FOUL (P1.T3),,
+0020200722,399,8,0,4,8:52 PM,10:34,,,SUB: Trent FOR Rakocevic,,
+0020200722,400,8,0,4,8:52 PM,10:34,,,SUB: Hudson FOR Garnett,,
+0020200722,401,6,4,4,8:53 PM,10:28,Wagner OFF.Foul (P3),,,,
+0020200722,402,5,5,4,8:53 PM,10:28,Wagner Foul Turnover (P2.T15),,,,
+0020200722,403,8,0,4,8:53 PM,10:15,SUB: Boozer FOR Mihm,,,,
+0020200722,404,6,2,4,8:54 PM,10:08,Ilgauskas S.FOUL (P5.T4),,,,
+0020200722,405,3,11,4,8:54 PM,10:08,,,Gill Free Throw 1 of 2 (9 PTS),83 - 67,-16
+0020200722,406,3,12,4,8:54 PM,10:08,,,Gill Free Throw 2 of 2 (10 PTS),84 - 67,-17
+0020200722,407,6,2,4,8:54 PM,10:00,,,Gill S.FOUL (P2.T4),,
+0020200722,408,3,11,4,8:55 PM,10:00,Davis Free Throw 1 of 2 (18 PTS),,,84 - 68,-16
+0020200722,409,8,0,4,8:55 PM,10:00,SUB: Coles FOR Wagner,,,,
+0020200722,410,3,12,4,8:55 PM,10:00,Davis Free Throw 2 of 2 (19 PTS),,,84 - 69,-15
+0020200722,411,1,1,4,8:55 PM,9:46,,,Nesterovic 15' Jump Shot (6 PTS) (Hudson 8 AST),86 - 69,-17
+0020200722,412,2,1,4,8:55 PM,9:37,MISS Davis 16' Jump Shot,,,,
+0020200722,413,4,0,4,8:55 PM,9:35,,,Nesterovic REBOUND (Off:2 Def:4),,
+0020200722,414,2,1,4,8:56 PM,9:25,,,MISS Peeler 20' Jump Shot,,
+0020200722,415,4,0,4,8:56 PM,9:22,Ilgauskas REBOUND (Off:2 Def:4),,,,
+0020200722,416,5,1,4,8:56 PM,9:18,Jones Bad Pass Turnover (P1.T16),,,,
+0020200722,417,8,0,4,8:56 PM,9:18,SUB: Miles FOR Ilgauskas,,,,
+0020200722,418,2,1,4,8:56 PM,8:56,Jones BLOCK (1 BLK),,MISS Trent 6' Jump Shot,,
+0020200722,419,4,0,4,8:56 PM,8:53,,,Trent REBOUND (Off:2 Def:3),,
+0020200722,420,1,5,4,8:56 PM,8:51,,,Trent  Layup (8 PTS),88 - 69,-19
+0020200722,421,1,1,4,8:57 PM,8:38,Davis 16' Jump Shot (21 PTS) (Boozer 1 AST),,,88 - 71,-17
+0020200722,422,2,1,4,8:57 PM,8:15,,,MISS Hudson 25' 3PT Jump Shot,,
+0020200722,423,4,0,4,8:57 PM,8:13,Davis REBOUND (Off:2 Def:6),,,,
+0020200722,424,2,1,4,8:57 PM,7:58,MISS Boozer 17' Jump Shot,,,,
+0020200722,426,4,0,4,8:57 PM,7:56,Jones REBOUND (Off:2 Def:3),,,,
+0020200722,425,1,5,4,8:57 PM,7:56,Jones  Layup (11 PTS),,,88 - 73,-15
+0020200722,427,1,44,4,8:57 PM,7:47,,,Gill  Reverse Layup (12 PTS) (Peeler 2 AST),90 - 73,-17
+0020200722,428,5,1,4,8:58 PM,7:23,Davis Bad Pass Turnover (P3.T17),,Gill STEAL (2 STL),,
+0020200722,429,1,5,4,8:58 PM,7:18,,,Trent  Layup (10 PTS) (Hudson 9 AST),92 - 73,-19
+0020200722,430,9,1,4,8:58 PM,7:15,CAVALIERS Timeout: Regular (Full 4 Short 1),,,,
+0020200722,432,8,0,4,9:00 PM,7:15,SUB: Palacio FOR Coles,,,,
+0020200722,434,2,1,4,9:01 PM,7:02,MISS Jones  3PT Jump Shot,,Nesterovic BLOCK (3 BLK),,
+0020200722,435,4,0,4,9:01 PM,6:59,,,Trent REBOUND (Off:2 Def:4),,
+0020200722,436,2,1,4,9:01 PM,6:44,,,MISS Peeler 20' Jump Shot,,
+0020200722,437,4,0,4,9:01 PM,6:42,Jones REBOUND (Off:2 Def:4),,,,
+0020200722,438,1,42,4,9:01 PM,6:38,Palacio  Driving Layup (10 PTS) (Jones 2 AST),,,92 - 75,-17
+0020200722,439,2,1,4,9:01 PM,6:24,Miles BLOCK (2 BLK),,MISS Gill 4' Jump Shot,,
+0020200722,440,4,0,4,9:01 PM,6:24,,,Timberwolves Rebound,,
+0020200722,441,8,0,4,9:01 PM,6:24,,,SUB: Szczerbiak FOR Peeler,,
+0020200722,442,2,1,4,9:02 PM,6:20,,,MISS Nesterovic 20' Jump Shot,,
+0020200722,443,4,0,4,9:02 PM,6:20,CAVALIERS Rebound,,,,
+0020200722,444,6,3,4,9:02 PM,6:20,,,Trent L.B.FOUL (P1.PN),,
+0020200722,445,3,11,4,9:02 PM,6:20,Jones Free Throw 1 of 2 (12 PTS),,,92 - 76,-16
+0020200722,446,8,0,4,9:02 PM,6:20,,,SUB: Garnett FOR Trent,,
+0020200722,447,3,12,4,9:02 PM,6:20,Jones Free Throw 2 of 2 (13 PTS),,,92 - 77,-15
+0020200722,448,5,1,4,9:03 PM,6:14,,,Hudson Bad Pass Turnover (P4.T12),,
+0020200722,449,1,42,4,9:03 PM,6:02,Miles  Driving Layup (4 PTS),,,92 - 79,-13
+0020200722,450,5,1,4,9:03 PM,5:48,Boozer STEAL (3 STL),,Szczerbiak Bad Pass Turnover (P1.T13),,
+0020200722,451,1,5,4,9:03 PM,5:44,Jones 1' Layup (15 PTS) (Palacio 4 AST),,,92 - 81,-11
+0020200722,452,9,1,4,9:04 PM,5:43,,,Timberwolves Timeout: Regular (Reg.4 Short 1),,
+0020200722,456,1,7,4,9:06 PM,5:36,,,Nesterovic  Dunk (8 PTS) (Hudson 10 AST),94 - 81,-13
+0020200722,457,1,5,4,9:06 PM,5:16,Palacio  Layup (12 PTS) (Boozer 2 AST),,,94 - 83,-11
+0020200722,458,5,2,4,9:06 PM,4:50,,,Hudson Lost Ball Turnover (P5.T14),,
+0020200722,459,6,4,4,9:07 PM,4:35,Palacio OFF.Foul (P3),,,,
+0020200722,460,5,5,4,9:07 PM,4:35,Palacio Foul Turnover (P3.T18),,,,
+0020200722,461,6,1,4,9:07 PM,4:18,Boozer P.FOUL (P3.PN),,,,
+0020200722,462,3,11,4,9:07 PM,4:18,,,Garnett Free Throw 1 of 2 (23 PTS),95 - 83,-12
+0020200722,463,8,0,4,9:08 PM,4:18,SUB: Ilgauskas FOR Miles,,,,
+0020200722,464,3,12,4,9:08 PM,4:18,,,Garnett Free Throw 2 of 2 (24 PTS),96 - 83,-13
+0020200722,465,2,1,4,9:09 PM,4:03,MISS Jones 25' 3PT Jump Shot,,,,
+0020200722,466,4,0,4,9:09 PM,4:01,,,Garnett REBOUND (Off:4 Def:9),,
+0020200722,467,5,3,4,9:09 PM,4:00,,,Garnett Out Of Bounds Turnover (P3.T15),,
+0020200722,468,2,47,4,9:09 PM,3:51,MISS Boozer 17' Turnaround Jump Shot,,,,
+0020200722,469,4,0,4,9:09 PM,3:49,,,Garnett REBOUND (Off:4 Def:10),,
+0020200722,470,2,5,4,9:10 PM,3:28,Jones BLOCK (2 BLK),,MISS Gill  Layup,,
+0020200722,471,10,0,4,9:10 PM,3:28,Jump Ball Jones vs. Gill: Tip to Ilgauskas,,,,
+0020200722,472,4,0,4,9:10 PM,3:28,CAVALIERS Rebound,,,,
+0020200722,473,2,1,4,9:10 PM,3:16,MISS Ilgauskas 19' Jump Shot,,,,
+0020200722,474,4,0,4,9:10 PM,3:14,,,Garnett REBOUND (Off:4 Def:11),,
+0020200722,475,5,2,4,9:10 PM,3:14,,,Garnett Lost Ball Turnover (P4.T16),,
+0020200722,476,5,1,4,9:11 PM,3:07,Jones Bad Pass Turnover (P2.T19),,Gill STEAL (3 STL),,
+0020200722,477,6,1,4,9:11 PM,3:07,Boozer P.FOUL (P4.PN),,,,
+0020200722,478,3,11,4,9:11 PM,3:07,,,Gill Free Throw 1 of 2 (13 PTS),97 - 83,-14
+0020200722,479,3,12,4,9:11 PM,3:07,,,Gill Free Throw 2 of 2 (14 PTS),98 - 83,-15
+0020200722,480,1,1,4,9:12 PM,2:50,Jones 24' 3PT Jump Shot (18 PTS) (Davis 2 AST),,,98 - 86,-12
+0020200722,481,5,2,4,9:12 PM,2:24,,,Garnett Lost Ball Turnover (P5.T17),,
+0020200722,482,9,4,4,9:12 PM,2:24,,,,,
+0020200722,486,1,42,4,9:15 PM,2:16,Davis  Driving Layup (23 PTS),,,98 - 88,-10
+0020200722,487,6,2,4,9:15 PM,2:16,,,Garnett S.FOUL (P1.PN),,
+0020200722,488,3,10,4,9:15 PM,2:16,Davis Free Throw 1 of 1 (24 PTS),,,98 - 89,-9
+0020200722,489,1,1,4,9:15 PM,1:58,,,Garnett 22' Jump Shot (26 PTS) (Szczerbiak 4 AST),100 - 89,-11
+0020200722,490,2,1,4,9:15 PM,1:46,MISS Ilgauskas 12' Jump Shot,,,,
+0020200722,491,4,0,4,9:16 PM,1:44,,,Garnett REBOUND (Off:4 Def:12),,
+0020200722,492,6,4,4,9:16 PM,1:39,,,Szczerbiak OFF.Foul (P3),,
+0020200722,493,5,5,4,9:16 PM,1:39,,,Szczerbiak Foul Turnover (P2.T18),,
+0020200722,494,2,1,4,9:16 PM,1:32,MISS Davis 19' Jump Shot,,,,
+0020200722,495,4,0,4,9:16 PM,1:30,,,Nesterovic REBOUND (Off:2 Def:5),,
+0020200722,496,2,1,4,9:16 PM,1:15,,,MISS Szczerbiak 23' Jump Shot,,
+0020200722,497,4,0,4,9:16 PM,1:13,Davis REBOUND (Off:2 Def:7),,,,
+0020200722,498,2,1,4,9:16 PM,0:58,MISS Boozer 16' Jump Shot,,,,
+0020200722,499,4,0,4,9:17 PM,0:55,,,Garnett REBOUND (Off:4 Def:13),,
+0020200722,501,1,1,4,9:17 PM,0:32,,,Gill 22' Jump Shot (16 PTS) (Garnett 4 AST),102 - 89,-13
+0020200722,502,9,1,4,9:17 PM,0:31,CAVALIERS Timeout: Regular (Full 5 Short 1),,,,
+0020200722,504,8,0,4,9:19 PM,0:31,,,SUB: Wilks FOR Szczerbiak,,
+0020200722,505,8,0,4,9:19 PM,0:31,,,SUB: Trent FOR Garnett,,
+0020200722,506,8,0,4,9:19 PM,0:31,,,SUB: Woods FOR Nesterovic,,
+0020200722,507,8,0,4,9:19 PM,0:31,,,SUB: Rakocevic FOR Hudson,,
+0020200722,509,1,1,4,9:19 PM,0:13,Davis 18' Jump Shot (26 PTS),,,102 - 91,-11
+0020200722,510,13,0,4,9:20 PM,0:00,,,,102 - 91,-11

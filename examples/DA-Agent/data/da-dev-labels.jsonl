@@ -1,0 +1,311 @@
+{"id": 0, "common_answers": [["mean_fare", "34.65"]]}
+{"id": 5, "common_answers": [["correlation_coefficient", "0.21"]]}
+{"id": 6, "common_answers": [["mean_fare_elderly", "43.47"], ["mean_fare_teenager", "31.98"], ["mean_fare_child", "31.09"], ["mean_fare_adult", "35.17"]]}
+{"id": 7, "common_answers": [["prediction_accuracy", "0.78"]]}
+{"id": 8, "common_answers": [["median_fare_class1", "69.30"], ["median_fare_class2", "15.05"], ["std_dev_fare_class1", "80.86"], ["mean_fare_class3", "13.23"], ["std_dev_fare_class2", "13.19"], ["mean_fare_class2", "21.47"], ["std_dev_fare_class3", "10.04"], ["mean_fare_class1", "87.96"]]}
+{"id": 9, "common_answers": [["mean_close_price", "570.68"]]}
+{"id": 10, "common_answers": [["is_normal", "no"]]}
+{"id": 11, "common_answers": [["relationship_type", "linear"], ["correlation_coefficient", "0.99"]]}
+{"id": 14, "common_answers": [["price_range_mean", "16.65"], ["price_range_std_dev", "6.72"], ["price_range_median", "15.67"]]}
+{"id": 18, "common_answers": [["mean_mar_2019", "171.44"], ["sd_mar_2019", "188.25"]]}
+{"id": 19, "common_answers": [["is_normal", "No"]]}
+{"id": 21, "common_answers": [["top5_industry", "Miscellaneous manufacturing"], ["top1_industry", "Waste management and remediation services"], ["top4_industry", "Textile, apparel, and leather"], ["top3_industry", "Primary and fabricated metal products"], ["top2_industry", "Repair and maintenance"]]}
+{"id": 23, "common_answers": [["Mean_Squared_Error", "11439.6"]]}
+{"id": 24, "common_answers": [["mean_age", "39.21"]]}
+{"id": 25, "common_answers": [["bmi_distribution", "normal"]]}
+{"id": 26, "common_answers": [["correlation_coefficient", "0.07"]]}
+{"id": 27, "common_answers": [["median_charges_outliers", "40974.16"], ["mean_charges_outliers", "42103.95"], ["total_outliers", "139"]]}
+{"id": 28, "common_answers": [["mean_smoker", "0.2048"], ["mean_children", "0.2190"], ["mean_sex", "0.5052"], ["mean_age", "0.4610"], ["mean_bmi", "0.3956"], ["mean_charges", "0.1939"]]}
+{"id": 29, "common_answers": [["percentage_underweight", "1.49"], ["percentage_normal_weight", "16.59"], ["percentage_obese", "53.74"], ["percentage_overweight", "28.18"]]}
+{"id": 30, "common_answers": [["model_rmse", "11464.74"]]}
+{"id": 32, "common_answers": [["importance_score_std", "0.01"], ["importance_score_mean", "0.0"]]}
+{"id": 33, "common_answers": [["normality_decision", "not normally distributed"]]}
+{"id": 34, "common_answers": [["p_value", "0.4058"], ["relationship_type", "none"], ["correlation_coefficient", "-0.04"]]}
+{"id": 35, "common_answers": [["removed_outliers_count", "0"]]}
+{"id": 36, "common_answers": [["mean_value", "178325.15"], ["std_dev", "369893.95"]]}
+{"id": 37, "common_answers": [["rmse_value", "0.01"]]}
+{"id": 39, "common_answers": [["is_normal", "0.0"]]}
+{"id": 40, "common_answers": [["correlation_coefficient", "-0.01"], ["model_performance", "NA"]]}
+{"id": 42, "common_answers": [["outlier_count", "25"]]}
+{"id": 45, "common_answers": [["min_class10", "0"]]}
+{"id": 55, "common_answers": [["mean_cases", "2081990"]]}
+{"id": 56, "common_answers": [["max_deaths_country", "Nigeria"], ["max_deaths_year", "2010"]]}
+{"id": 57, "common_answers": [["correlation_coefficient", "0.97"]]}
+{"id": 58, "common_answers": [["percentage_cases_min", "36.45"], ["percentage_deaths_max", "38.79"]]}
+{"id": 59, "common_answers": [["country_name", "Congo"]]}
+{"id": 62, "common_answers": [["mean_no_of_deaths_with_outliers", "10149.43"], ["mean_no_of_deaths_without_outliers", "5949.08"]]}
+{"id": 64, "common_answers": [["std_wage", "4.66"], ["mean_wage", "6.31"]]}
+{"id": 66, "common_answers": [["correlation_coefficient", "0.23"], ["relationship_type", "nonlinear"]]}
+{"id": 69, "common_answers": [["correlation", "0.252"]]}
+{"id": 70, "common_answers": [["RMSE", "3.63"]]}
+{"id": 71, "common_answers": [["mean_volume", "22607406.19"], ["std_dev_volume", "8254791.71"]]}
+{"id": 72, "common_answers": [["normality_test_result", "Non-normal"]]}
+{"id": 73, "common_answers": [["correlation_coefficient", "1.0"]]}
+{"id": 75, "common_answers": [["daily_return_std", "0.94"], ["daily_return_mean", "-0.14"]]}
+{"id": 77, "common_answers": [["Highest_Monthly_Average_Close_Price", "1, 2018, 88.32"]]}
+{"id": 105, "common_answers": [["correlation_coefficient", "0.49"]]}
+{"id": 108, "common_answers": [["mean_total_income", "6375.18"], ["std_dev_total_income", "5199.42"]]}
+{"id": 109, "common_answers": [["graduate_mean_loan", "141.36"], ["not_graduate_mean_loan", "118.57"], ["significance", "significant"]]}
+{"id": 111, "common_answers": [["std_dev_loan", "60.96"]]}
+{"id": 112, "common_answers": [["average_happiness_score", "5.38"]]}
+{"id": 113, "common_answers": [["correlation_coefficient", "0.781"]]}
+{"id": 114, "common_answers": [["country_with_highest_score", "Switzerland"]]}
+{"id": 116, "common_answers": [["outlier_countries", ""]]}
+{"id": 117, "common_answers": [["correlation_type", "negative"], ["strongest_correlation_variable", "Happiness Rank"]]}
+{"id": 118, "common_answers": [["coefficient_determination", "0.67"], ["model_fit", "poor fit"]]}
+{"id": 120, "common_answers": [["mean_total_vaccinations", "56713.63909313725"]]}
+{"id": 121, "common_answers": [["p_value", "0.0"]]}
+{"id": 122, "common_answers": [["correlation_coefficient", "0.0929"], ["relationship_type", "nonlinear"], ["p_value", "5.91e-08"]]}
+{"id": 123, "common_answers": [["country_with_highest_average_daily_vaccinations", "Gibraltar"]]}
+{"id": 124, "common_answers": [["significance_of_difference", "no"]]}
+{"id": 125, "common_answers": [["significant_predictor", "yes,yes"], ["r_squared", "0.6059"]]}
+{"id": 129, "common_answers": [["std_dev_fare", "49.67"]]}
+{"id": 130, "common_answers": [["is_normal", "False"]]}
+{"id": 132, "common_answers": [["outlier_count", "20"]]}
+{"id": 133, "common_answers": [["median_age", "36.0"], ["row_count", "204"]]}
+{"id": 136, "common_answers": [["p_value_class_1", "0.0000"], ["p_value_class_3", "0.0000"], ["p_value_class_2", "0.0000"]]}
+{"id": 137, "common_answers": [["model_score", "0.61"]]}
+{"id": 138, "common_answers": [["average_votes_dem", "20734"]]}
+{"id": 139, "common_answers": [["normality_status", "not normal"]]}
+{"id": 140, "common_answers": [["correlation_coefficient", "0.828"], ["relationship_type", "linear"]]}
+{"id": 142, "common_answers": [["relationship_type", "none"], ["correlation_coefficient", "0.02"], ["p_value", "0.1704"]]}
+{"id": 144, "common_answers": [["std_dev_dem", "0.153"], ["mean_dem", "0.32"], ["std_dev_gop", "0.156"], ["mean_gop", "0.64"]]}
+{"id": 145, "common_answers": [["Correlation_coefficient", "0.308"], ["voter_ratio_mean", "0.3176"]]}
+{"id": 148, "common_answers": [["average_height", "6.13"]]}
+{"id": 149, "common_answers": [["correlation_coefficient", "0.19"]]}
+{"id": 153, "common_answers": [["height_mean", "0.18"]]}
+{"id": 174, "common_answers": [["fare_skewness", "4.79"]]}
+{"id": 175, "common_answers": [["outliers_count", "2"]]}
+{"id": 176, "common_answers": [["median_age", "31.5"]]}
+{"id": 177, "common_answers": [["significance", "Yes"]]}
+{"id": 178, "common_answers": [["sex_encoded_count", "314, 577"], ["fare_after_scaling", "0.00, 1.00, 0.0629"]]}
+{"id": 179, "common_answers": [["correlation_coefficient", "-0.123"]]}
+{"id": 180, "common_answers": [["class2_outliers", "7"], ["class1_outliers", "3"], ["class3_outliers", "14"]]}
+{"id": 207, "common_answers": [["missing_columns_in_object_type", "author, urlToImage"]]}
+{"id": 208, "common_answers": [["compound_mean", "0.141"], ["compound_std", "0.899"]]}
+{"id": 209, "common_answers": [["correlation_coefficient", "-0.24"]]}
+{"id": 210, "common_answers": [["mean_neg", "0.07"], ["std_dev_neg", "0.04"]]}
+{"id": 211, "common_answers": [["range_length", "28927"]]}
+{"id": 214, "common_answers": [["pos_length_corr", "-0.35"], ["neu_length_corr", "0.42"]]}
+{"id": 216, "common_answers": [["std_dev", "1.50"], ["mean", "4.61"]]}
+{"id": 217, "common_answers": [["site_identifier", "57"]]}
+{"id": 218, "common_answers": [["correlation_coefficient", "0.08"]]}
+{"id": 219, "common_answers": [["outlier_values", "9.03,9.0"], ["site_identifiers", "(HA2)121,326"]]}
+{"id": 220, "common_answers": [["missing_values_handling", "No missing values were found."]]}
+{"id": 222, "common_answers": [["skewness_value", "0.14"]]}
+{"id": 224, "common_answers": [["accuracy_score", "0.98"]]}
+{"id": 234, "common_answers": [["average_duration", "364"]]}
+{"id": 237, "common_answers": [["skewness_type", "None"], ["tail_type", "None"]]}
+{"id": 243, "common_answers": [["mean_batting_average", "0.258"]]}
+{"id": 244, "common_answers": [["normality_test", "not_normal"]]}
+{"id": 246, "common_answers": [["number_of_walks", "2"]]}
+{"id": 247, "common_answers": [["average_runs_by_not_eligible_for_free_agency", "39.63"], ["average_runs_by_eligible_for_free_agency", "57.41"]]}
+{"id": 248, "common_answers": [["number_of_strikeouts", "151, 151, 175, 149, 152"], ["outlier_strikeout_players", "20, 191, 195, 200, 322"]]}
+{"id": 249, "common_answers": [["correlation_coefficient", "0.58"]]}
+{"id": 250, "common_answers": [["mean", "-0.07"], ["std_dev", "0.03"]]}
+{"id": 251, "common_answers": [["mean_gdp_2007", "12473.03"]]}
+{"id": 252, "common_answers": [["highest_skewness_country", "Afghanistan"]]}
+{"id": 254, "common_answers": [["outlier_countries", "Kuwait, Saudi Arabia"]]}
+{"id": 255, "common_answers": [["standard_deviation_gdp2007", "14154.94"], ["mean_gdp2007", "12473.03"]]}
+{"id": 258, "common_answers": [["median", "2571.42"], ["mean", "8187.47"], ["ks_test_p_value", "0.00063"]]}
+{"id": 268, "common_answers": [["normality_test_result", "Not Normal"]]}
+{"id": 269, "common_answers": [["correlation_type", "Positive Correlation"], ["correlation_coefficient", "0.99"], ["p_value", "0.000"]]}
+{"id": 271, "common_answers": [["norm_TOTUSJZ", "0.107"], ["log_MEANJZH", "-2.543"], ["clean_entries", "1153"]]}
+{"id": 272, "common_answers": [["mean_ratio", "22756785531.29"], ["stddev_ratio", "969133356.79"]]}
+{"id": 273, "common_answers": [["correlation_coefficient", "0.922"], ["outlier_count", "0"], ["outlier_list", "["]]}
+{"id": 275, "common_answers": [["duplicate_count", "0"], ["new_feature_mean", "-89.04"]]}
+{"id": 277, "common_answers": [["correlation_coefficient", "0.7366"]]}
+{"id": 278, "common_answers": [["outliers_count", "0"]]}
+{"id": 280, "common_answers": [["correlation", "0.74"]]}
+{"id": 281, "common_answers": [["outliers_count", "0"]]}
+{"id": 282, "common_answers": [["number_of_outliers", "0"], ["correlation_coefficient", "-0.17"]]}
+{"id": 294, "common_answers": [["mean_nsnps", "16.99"]]}
+{"id": 295, "common_answers": [["outliers_indices", "["], ["total_outliers", "0"]]}
+{"id": 297, "common_answers": [["mean_with_tree_notnull", "45.48"], ["mean_with_tree_null", "4.58"]]}
+{"id": 298, "common_answers": [["is_normal", "yes"]]}
+{"id": 300, "common_answers": [["correlation_coefficient", "0.54"], ["correlation", "correlated"]]}
+{"id": 301, "common_answers": [["maximum_start", "29875000"], ["minimum_start", "0"]]}
+{"id": 304, "common_answers": [["normality_test_result", "False"]]}
+{"id": 305, "common_answers": [["correlation_coefficient", "0.1"]]}
+{"id": 307, "common_answers": [["family_size_sum", "674"]]}
+{"id": 308, "common_answers": [["average_fare_Mrs", "45.14"], ["average_fare_Mr", "24.44"]]}
+{"id": 309, "common_answers": [["fare_kurtosis", "33.20"], ["age_values_within_one_stdev", "516"], ["fare_skewness", "4.78"], ["fare_values_within_one_stdev", "818"], ["age_skewness", "0.39"], ["age_kurtosis", "0.17"]]}
+{"id": 310, "common_answers": [["strongest_correlation_coefficient", "0.41"]]}
+{"id": 320, "common_answers": [["mean_eventmsgtype", "3.98"]]}
+{"id": 321, "common_answers": [["outlier_count", "0"]]}
+{"id": 323, "common_answers": [["average_duration", "DataFrame"]]}
+{"id": 324, "common_answers": [["max_missing_values", "NEUTRALDESCRIPTION"]]}
+{"id": 326, "common_answers": [["relationship", "none"], ["correlation_coefficient", "0.08"], ["p_value", "0.0749"]]}
+{"id": 337, "common_answers": [["skewness_type", "Positive Skewness"], ["skewness_coefficient", "0.08"]]}
+{"id": 338, "common_answers": [["correlation_type", "Positive Correlation"], ["correlation_coefficient", "0.178"]]}
+{"id": 339, "common_answers": [["region_count", "0"]]}
+{"id": 349, "common_answers": [["mean_age", "1.1"]]}
+{"id": 350, "common_answers": [["is_normal", "False"]]}
+{"id": 351, "common_answers": [["correlation_coefficient", "0.32"]]}
+{"id": 352, "common_answers": [["fare_outliers", ""]]}
+{"id": 353, "common_answers": [["age_stddev_norm", "0.23"], ["fare_stddev_norm", "0.38"], ["age_mean_norm", "0.27"]]}
+{"id": 354, "common_answers": [["average_familysize", "2.6"]]}
+{"id": 355, "common_answers": [["relationship_age", "not significant"], ["relationship_pclass", "significant"], ["coef_pclass", "-0.98"], ["coef_age", "-0.05"]]}
+{"id": 359, "common_answers": [["skewness_value", "0.83"], ["skewness_type", "positive"]]}
+{"id": 360, "common_answers": [["correlation_strength", "moderate"], ["correlation_coefficient", "-0.64"]]}
+{"id": 361, "common_answers": [["outlier_count", "0"]]}
+{"id": 363, "common_answers": [["mean_squared_error", "1.18"]]}
+{"id": 372, "common_answers": [["mean", "21144.08"]]}
+{"id": 374, "common_answers": [["outliers", "outliers_indices"]]}
+{"id": 375, "common_answers": [["skewness", "0.1520"], ["kurtosis", "-1.1336"], ["shapiro_w", "0.9543"], ["p_value", "0.0027"]]}
+{"id": 376, "common_answers": [["trips_per_membership_median", "0.16"], ["trips_per_day_mean", "21144.08"], ["trips_per_membership_mean", "0.17"]]}
+{"id": 378, "common_answers": [["post_skewness", "0.15"], ["pre_mean", "21144.08"], ["pre_kurtosis", "-1.13"], ["post_sd", "9889.93"], ["pre_skewness", "0.15"], ["post_kurtosis", "-1.13"], ["post_mean", "21144.08"], ["pre_sd", "9889.93"]]}
+{"id": 408, "common_answers": [["correlation_coefficient", "0.10"], ["relationship_type", "nonlinear"], ["p_value", "0.0102"]]}
+{"id": 409, "common_answers": [["missing_values", "687"]]}
+{"id": 410, "common_answers": [["is_significantly_different", "True"]]}
+{"id": 411, "common_answers": [["outlier_range_high", "512.33"], ["outlier_count", "116"]]}
+{"id": 412, "common_answers": [["mean_familysize_survived", "0.94"], ["mean_familysize_did_not_survive", "0.88"]]}
+{"id": 413, "common_answers": [["correlation_coefficient", "-0.53"], ["relationship_significance", "significant"], ["p_value", "0.0000"]]}
+{"id": 414, "common_answers": [["first_class_average_age", "38.23"], ["second_class_average_age", "29.88"], ["third_class_average_age", "25.14"]]}
+{"id": 415, "common_answers": [["survived_fare_mean", "40.82"], ["not_survived_fare_std", "32.41"], ["fare_difference_significance", "significant"], ["not_survived_fare_mean", "21.96"], ["survived_fare_std", "71.36"]]}
+{"id": 418, "common_answers": [["outliers_count", "1"]]}
+{"id": 419, "common_answers": [["weekday_mean_price", "37.30"], ["weekend_mean_price", "38.49"], ["p_value", "0.8463"], ["significance", "No"]]}
+{"id": 421, "common_answers": [["mean_volume", "2260508.04"]]}
+{"id": 423, "common_answers": [["relationship_type", "none"], ["correlation_coefficient", "-0.09"]]}
+{"id": 424, "common_answers": [["feature2", "High"]]}
+{"id": 425, "common_answers": [["missing_values_count", "24"]]}
+{"id": 426, "common_answers": [["max_wind_speed", "156.42"]]}
+{"id": 427, "common_answers": [["null_entries_count", "101"]]}
+{"id": 428, "common_answers": [["p_value", "0.4911"], ["difference_type", "none"]]}
+{"id": 429, "common_answers": [["correlation_coefficient", "0.19"], ["relationship_type", "nonlinear"], ["p_value", "0.0"]]}
+{"id": 431, "common_answers": [["high_damage_relationship_type", "linear"], ["high_damage_correlation_coefficient", "0.56"], ["high_damage_p_value", "0.0000"]]}
+{"id": 432, "common_answers": [["mean_squared_error", "263.1896"]]}
+{"id": 446, "common_answers": [["mean_windspeed", "5.979"]]}
+{"id": 447, "common_answers": [["number_of_outliers", "111"]]}
+{"id": 449, "common_answers": [["normal_distribution", "no"]]}
+{"id": 450, "common_answers": [["monthly_avg_windspeed", "{'month_1': 7.17, 'month_2': 6.53, 'month_3': 5.9, 'month_4': 6.69, 'month_5': 5.43, 'month_6': 5.82, 'month_7': 5.13, 'month_8': 5.72, 'month_9': 5.69, 'month_10': 6.57, 'month_11': 5.79, 'month_12': 5.52}"]]}
+{"id": 451, "common_answers": [["missing_values_per_column", "{'DATE TIME': 0, 'WINDSPEED': 594, 'DIR': 0, 'GUSTS': 594, 'AT': 590, 'BARO': 594, 'RELHUM': 8736, 'VIS': 8736}"]]}
+{"id": 452, "common_answers": [["relationship_type", "none"], ["p_value", "0.6756"], ["correlation_coefficient", "-0.08"]]}
+{"id": 453, "common_answers": [["mean_wind_pre", "5.98"], ["mean_atmos_temp_pre", "52.47"], ["mean_atmos_temp_post", "52.47"], ["mean_wind_post", "5.85"]]}
+{"id": 465, "common_answers": [["distribution_skew", "skewed_left"]]}
+{"id": 466, "common_answers": [["correlation_strength", "weak"]]}
+{"id": 468, "common_answers": [["number_of_outliers", "0"]]}
+{"id": 471, "common_answers": [["noticeable_differences", ""]]}
+{"id": 472, "common_answers": [["mean_value", "2.58"]]}
+{"id": 473, "common_answers": [["outliers", ""]]}
+{"id": 474, "common_answers": [["correlation_coefficient", "0.02"]]}
+{"id": 475, "common_answers": [["mean_value", "2.58"]]}
+{"id": 476, "common_answers": [["outlier_indices", "["], ["outlier_count", "0"]]}
+{"id": 479, "common_answers": [["max_combination", "NZL_PRY_NTRY"], ["max_mean_value", "4.8"]]}
+{"id": 480, "common_answers": [["standard_deviation", "1.22"]]}
+{"id": 490, "common_answers": [["mean_value", "12.89"]]}
+{"id": 491, "common_answers": [["correlation_coefficient", "0.72"]]}
+{"id": 492, "common_answers": [["fields", "Health Professions"]]}
+{"id": 494, "common_answers": [["RMSE", "0.35"], ["R_squared", "0.998"]]}
+{"id": 495, "common_answers": [["std_without_outliers", "9.57"], ["mean_without_outliers", "33.69"]]}
+{"id": 496, "common_answers": [["range_STEM", "17.7"], ["mean_STEM", "125.11"]]}
+{"id": 506, "common_answers": [["average_reviews", "1013.53"]]}
+{"id": 507, "common_answers": [["total_hotels", "46"]]}
+{"id": 508, "common_answers": [["correlation_coefficient", "0.176"]]}
+{"id": 509, "common_answers": [["star_rating1_average_bubble_score", "2.44"], ["star_rating2_average_bubble_score", "3.29"], ["star_rating4_average_bubble_score", "4.17"], ["star_rating5_average_bubble_score", "4.50"], ["star_rating3_average_bubble_score", "3.87"]]}
+{"id": 510, "common_answers": [["brand_with_highest_average_star_rating", "Preferred Hotels & Resorts"]]}
+{"id": 513, "common_answers": [["above4_correlation", "-0.28"], ["below3_correlation", "0.15"], ["between3and4_correlation", "0.04"]]}
+{"id": 514, "common_answers": [["lower_city_count", "4"], ["higher_city_count", "0"]]}
+{"id": 516, "common_answers": [["skewness_fare", "4.79"]]}
+{"id": 517, "common_answers": [["correlation_pclass_fare", "-0.55"]]}
+{"id": 518, "common_answers": [["number_of_entries_left", "871"]]}
+{"id": 520, "common_answers": [["correlation_coefficient", "0.02"]]}
+{"id": 521, "common_answers": [["classifier_accuracy", "0.78"]]}
+{"id": 522, "common_answers": [["p_value", "0.0000"]]}
+{"id": 523, "common_answers": [["child_count", "72"], ["senior_count", "22"]]}
+{"id": 524, "common_answers": [["average_fare", "35.63"]]}
+{"id": 526, "common_answers": [["correlation_coefficient", "-0.58"]]}
+{"id": 527, "common_answers": [["average_age_male_class2", "30.94"], ["average_age_female_class3", "23.07"], ["average_age_female_class1", "41.33"], ["average_age_female_class2", "24.38"], ["average_age_male_class1", "40.52"], ["average_age_male_class3", "24.53"]]}
+{"id": 528, "common_answers": [["outlier_ids", "904, 916, 940, 945, 951, 956, 961, 966, 967, 973, 988, 1006, 1010, 1033, 1034, 1042, 1048, 1071, 1073, 1076, 1080, 1088, 1094, 1104, 1109, 1110, 1126, 1128, 1131, 1134, 1144, 1162, 1164, 1179, 1185, 1198, 1200, 1206, 1208, 1216, 1219, 1234, 1235, 1244, 1252, 1257, 1263, 1266, 1267, 1282, 1289, 1292, 1299, 1303, 1306"], ["outlier_count", "55"]]}
+{"id": 529, "common_answers": [["correlation_coefficient", "0.31"], ["relationship_type", "nonlinear"], ["p_value", "0.0000"]]}
+{"id": 530, "common_answers": [["correlation_coefficient_male", "0.31"], ["relationship_type_male", "nonlinear"], ["relationship_type_female", "nonlinear"], ["p_value_female", "0.0000"], ["correlation_coefficient_female", "0.39"], ["p_value_male", "0.0000"]]}
+{"id": 542, "common_answers": [["mean_length", "0.52"]]}
+{"id": 543, "common_answers": [["correlation_coefficient", "0.57"], ["relationship_status", "correlate"]]}
+{"id": 545, "common_answers": [["mean_length", "0.52"]]}
+{"id": 546, "common_answers": [["correlation_coefficient", "0.5746598513059193"], ["p_value", "0.0"]]}
+{"id": 547, "common_answers": [["outliers", "2.22, 2.23, 2.23, 2.24, 2.24, 2.24, 2.25, 2.25, 2.26, 2.27, 2.27, 2.3, 2.32, 2.33, 2.33, 2.38, 2.38, 2.4, 2.49, 2.5, 2.5, 2.51, 2.52, 2.53, 2.55, 2.55, 2.56, 2.66, 2.78, 2.83"], ["IQR", "0.71"], ["Q1", "0.44"], ["Q3", "1.15"]]}
+{"id": 549, "common_answers": [["volume_feature_model_rmse", "2.2092"], ["correlation_coefficient", "0.9253"], ["original_model_rmse", "2.2192"]]}
+{"id": 550, "common_answers": [["distribution_type", "\"Non-Normal\""], ["min_max_scaler_scale", "\"0-1\""], ["missing_values_handled", "\"Yes\""]]}
+{"id": 551, "common_answers": [["mean_dbh_cm", "37.96"]]}
+{"id": 552, "common_answers": [["relationship_type", "linear"], ["correlation_coefficient", "0.806"]]}
+{"id": 553, "common_answers": [["outliers_count", "3131"]]}
+{"id": 554, "common_answers": [["median_ht_m", "nan"]]}
+{"id": 555, "common_answers": [["unique_species_count", "29"]]}
+{"id": 570, "common_answers": [["VIX_bin_counts", "1623, 352, 89, 15, 0, 0"]]}
+{"id": 571, "common_answers": [["MSFT_INTC_correlation", "0.95"]]}
+{"id": 572, "common_answers": [["max_SPX_date", "2018-01-26"], ["AAPL_price_percentage_change", "0.23"]]}
+{"id": 574, "common_answers": [["MSFT_VIX_correlation", "-0.43"], ["SPY_VIX_correlation", "-0.58"], ["MSFT_SPY_correlation", "0.94"]]}
+{"id": 575, "common_answers": [["relationship_type_relation", "linear"], ["p_value_pval", "0.0000"], ["correlation_coefficient_corr", "0.91"]]}
+{"id": 578, "common_answers": [["mean_volume", "51032080.71"]]}
+{"id": 580, "common_answers": [["is_there_outlier", "False"]]}
+{"id": 586, "common_answers": [["total_abandoned_calls", "9"]]}
+{"id": 587, "common_answers": [["correlation_coefficient", "0.639"]]}
+{"id": 588, "common_answers": [["num_of_outliers", "2"]]}
+{"id": 589, "common_answers": [["abandonment_rate", "6.25"]]}
+{"id": 590, "common_answers": [["predicted_agents", "4"]]}
+{"id": 593, "common_answers": [["is_normal", "False"]]}
+{"id": 602, "common_answers": [["normality_status", "Not Normal"]]}
+{"id": 604, "common_answers": [["std_dev_after_removal", "0.019"], ["outlier_count", "73"], ["mean_after_removal", "0.994"]]}
+{"id": 618, "common_answers": [["correlation", "0.423"]]}
+{"id": 619, "common_answers": [["std_dev_new", "2514.65"], ["mean_new", "1253.61"]]}
+{"id": 643, "common_answers": [["std_volume", "36218.68"], ["min_volume", "4440"], ["max_volume", "478003"], ["mean_volume", "32529.47"]]}
+{"id": 644, "common_answers": [["result", "Not a normal distribution"]]}
+{"id": 646, "common_answers": [["index_and_zscore", "["], ["num_outliers", "0"]]}
+{"id": 647, "common_answers": [["price_range_mean", "0.32"], ["is_normal", "no"], ["price_range_stddev", "0.26"]]}
+{"id": 649, "common_answers": [["mean_x", "-259162995.016"], ["std_dev_x", "53529181.172"]]}
+{"id": 650, "common_answers": [["correlation_coefficient", "-0.868"]]}
+{"id": 651, "common_answers": [["outlier_count", "0"]]}
+{"id": 652, "common_answers": [["normal_distribution", "False"], ["normality_test_p_value", "0.0"]]}
+{"id": 654, "common_answers": [["distance_data_csv_file", "distance_data.csv"]]}
+{"id": 655, "common_answers": [["correlation_XZ", "0.83"], ["correlation_XY", "-0.87"]]}
+{"id": 656, "common_answers": [["number_of_outliers", "0"], ["new_mean", "-259162995.02"], ["new_standard_deviation", "53529181.17"]]}
+{"id": 657, "common_answers": [["median_close", "3599.77"], ["std_close", "4113.51"], ["mean_close", "4349.27"]]}
+{"id": 658, "common_answers": [["result_ks_test", "not_normal"]]}
+{"id": 659, "common_answers": [["correlation_high_low", "1.0"]]}
+{"id": 662, "common_answers": [["stddev_price_change", "284.61"], ["median_price_change", "1.31"]]}
+{"id": 663, "common_answers": [["correlation_coefficient", "1.0"]]}
+{"id": 665, "common_answers": [["high_count", "544"], ["low_proportion", "0.25"], ["low_count", "544"], ["medium_proportion", "0.50"], ["medium_count", "1088"], ["high_proportion", "0.25"]]}
+{"id": 666, "common_answers": [["std_dev", "1.2210"], ["mean_value", "2.1226"]]}
+{"id": 667, "common_answers": [["distribution_type", "not normal"]]}
+{"id": 668, "common_answers": [["correlation_coefficient", "0.13"], ["p_value", "0.0324"], ["significant_correlation", "true"]]}
+{"id": 669, "common_answers": [["standard_deviation", "1.54"], ["mean", "3.73"]]}
+{"id": 671, "common_answers": [["mse", "0.653"]]}
+{"id": 673, "common_answers": [["pearson_coefficient", "0.0382"], ["mean_value", "2.1226"]]}
+{"id": 674, "common_answers": [["pearson_coefficient", "0.6419"], ["mean_absolute_error", "0.6426"]]}
+{"id": 683, "common_answers": [["mean_temperature", "29.14"]]}
+{"id": 684, "common_answers": [["distribution_type", "normal"], ["shapiro_p_value", "0.9166"]]}
+{"id": 685, "common_answers": [["correlation_coefficient", "0.34"], ["relationship_significance", "not significant"], ["p_value", "0.1023"]]}
+{"id": 688, "common_answers": [["morning", "6"], ["afternoon", "6"]]}
+{"id": 690, "common_answers": [["mean_wind_speed", "2.29"], ["std_deviation_wind_speed", "1.15"], ["number_of_outliers", "0"]]}
+{"id": 702, "common_answers": [["EX5_distribution", "non_normal"], ["EX5_normality", "0.0002"]]}
+{"id": 704, "common_answers": [["outlier_count", "28"]]}
+{"id": 705, "common_answers": [["encoded_category", "None"]]}
+{"id": 706, "common_answers": [["new_feature_mean", "-0.0"]]}
+{"id": 710, "common_answers": [["mean_wins", "2.6"]]}
+{"id": 715, "common_answers": [["missing_percentage", "95.12"]]}
+{"id": 716, "common_answers": [["stddev_wins", "1.17"]]}
+{"id": 719, "common_answers": [["median_mpg", "22.75"], ["mean_mpg", "23.45"]]}
+{"id": 721, "common_answers": [["correlation_coefficient", "-0.83"]]}
+{"id": 722, "common_answers": [["highest_horsepower_vehicle", "1973"], ["average_horsepower", "130.48"], ["standard_deviation", "45.83"]]}
+{"id": 723, "common_answers": [["mean_ratio", "0.03"], ["std_ratio", "0.01"]]}
+{"id": 724, "common_answers": [["std_acceleration", "2.68"], ["mean_acceleration", "15.49"]]}
+{"id": 725, "common_answers": [["median1", "28.0"], ["mean1", "28.73"]]}
+{"id": 726, "common_answers": [["mean_transformed_horsepower", "4.59"], ["stddev_transformed_horsepower", "0.34"]]}
+{"id": 727, "common_answers": [["test_mse", "17.66"]]}
+{"id": 729, "common_answers": [["distribution_normality", "not normal"]]}
+{"id": 730, "common_answers": [["p_value", "0.2909"], ["correlation_coefficient", "-0.03"]]}
+{"id": 732, "common_answers": [["number_of_missing_values_in_lifeexp_after", "0"]]}
+{"id": 733, "common_answers": [["has_nan_values_in_new_feature", "False"], ["new_feature_mean", "3.54"], ["new_feature_std", "0.54"]]}
+{"id": 734, "common_answers": [["correlation_coefficient", "0.38"], ["correlation_significance", "significant"], ["correlation_significance", "non-significant"], ["correlation_coefficient", "0.78"], ["correlation_coefficient", "0.43"], ["correlation_coefficient", "0.96"], ["correlation_coefficient", "0.56"]]}
+{"id": 736, "common_answers": [["is_normal", "no"]]}
+{"id": 737, "common_answers": [["mean_income", "45.22"], ["std_dev_income", "35.24"]]}
+{"id": 738, "common_answers": [["is_normal", "Not Normal"]]}
+{"id": 739, "common_answers": [["correlation_coefficient", "0.86"]]}
+{"id": 740, "common_answers": [["outliers", "1"]]}
+{"id": 741, "common_answers": [["addedfeature", "ratio"]]}
+{"id": 743, "common_answers": [["income_normalization", "10.35, 186.63, /mnt/data/Credit_Income_Normalized.csv"]]}
+{"id": 755, "common_answers": [["mean_TMAX_F", "56.38"]]}
+{"id": 756, "common_answers": [["correlation_coefficient", "1.00"], ["p_value", "0.0000"]]}
+{"id": 757, "common_answers": [["outlier_count", "25"]]}
+{"id": 759, "common_answers": [["range_tmax", "125.82"], ["median_tmax", "58.64"]]}
+{"id": 760, "common_answers": [["most_missing_station_name", "\"AGE00135039\""], ["most_missing_station_count", "0"]]}
