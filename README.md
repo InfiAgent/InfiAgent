@@ -29,7 +29,8 @@ This is the repo for the InfiAgent project. InfiAgent aims to support building a
 
 ## 🔥  News
 
-- [2023/12/15] ADA-Agent, and evaluation leaderboard released.
+- [2024/1/27] DAEval with human filtering updated.
+- [2023/12/15] DA-Agent, and evaluation leaderboard released.
 - [2023/11/29] InfiAgent repo, and website released.
 
 
