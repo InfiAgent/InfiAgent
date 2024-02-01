@@ -208,19 +208,3 @@ class CodeTool(BaseTool):
         for f in os.listdir(abs_path):
             os.rename(os.path.join(abs_path, f), os.path.join(output_dir, f))
         os.rmdir(abs_path)
-
-
-async def main():
-    cmd = "import pandas as pd\ndata = pd.read_csv('/upload_file/9_Social_Media_Posts.csv')\nprint(data.head())\nprint(data.columns)"
-    # cmd = 'import os\nwith open(\'test.txt\', \'w\') as log_file:\n\tlog_file.write(\'asdasd\')\n'
-    # cmd = 'import pandas\n\n'
-    # code_exe(cmd)
-    req = "```python\n"+cmd+"```"
-    tool = CodeTool()
-    await tool.upload_file('/Users/bytedance/Downloads/smart_agent-open/tmp/upload_files/9_Social_Media_Posts.csv')
-    response = await tool.async_run(req)
-    print(response.to_dict())
-
-if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())

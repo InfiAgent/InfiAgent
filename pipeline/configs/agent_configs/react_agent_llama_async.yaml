@@ -8,7 +8,7 @@ class_name: AsyncReactAgent
 target_tasks:
   - code interpreter
 llm:
-  model_name: meta-llama/Llama-2-7b-hf # your model path for example /mnt/bd/fazzie-models/
+  model_name: meta-llama/Llama-2-7b-hf
   module_name: infiagent.llm
   class_name: LlamaOpenAIClient
   params:
