@@ -134,10 +134,10 @@ class Message(abc.ABC):
 
 @dataclass
 class MediaFile:
-    file_name: Optional[str] = None  # 文件名
-    file_content: Optional[bytes] = None  # 文件二进制流
-    tos_path: Optional[str] = None  # 文件的TOS路径
-    sandbox_path: Optional[str] = None  # 上传到sandbox的路径，模型需要
+    file_name: Optional[str] = None 
+    file_content: Optional[bytes] = None  
+    tos_path: Optional[str] = None  
+    sandbox_path: Optional[str] = None 
 
     def __dict__(self):
         return {

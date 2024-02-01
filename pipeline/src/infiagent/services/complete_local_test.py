@@ -52,7 +52,7 @@ async def chat_local_event(chat_request: ChatCompleteRequest):
     """
     Init a chat session and start pushing response back
     """
-    message = Message(role=RoleType.User, content="你好，我是豆包")
+    message = Message(role=RoleType.User, content="Hi")
 
     base_response = chat_request_to_response(chat_request)
     return update_chat_response_with_message(base_response.copy(), message).dict()
