@@ -33,6 +33,8 @@ This is the repo for the InfiAgent project. InfiAgent aims to support building a
 - [2023/12/15] [InfiAgent-DABench](https://github.com/InfiAgent/InfiAgent/tree/main/examples/DA-Agent) released.
 - [2023/11/29] InfiAgent repo, and website released.
 
+## DA-Agent: An Example Implemented with InfiAgent Framework
+We develop DA-Agent(https://github.com/InfiAgent/InfiAgent/tree/main/examples/DA-Agent), an open-source LLM-based agent for data analysis implemented with InfiAgent framwork.
 
 ## Framework Features
 
