@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="../../images/infiagent_logo.png" width="100" alt="ADA" />
+<img src="../../images/infiagent_logo.png" width="100" alt="InfiAgent" />
 <br>
 InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks
 </h1>
@@ -23,7 +23,7 @@ InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks
 <p align="center">
   <a href="https://infiagent.github.io/"><b>[🌐 Website]</b></a> •
   <a href="https://arxiv.org/abs/2401.05507"><b>[📜 Paper]</b></a> •
-  <a href=""><b>[🤗 HF Models]</b></a> •
+  <a href="https://huggingface.co/datasets/infiagent/DABench"><b>[🤗 HF Models]</b></a> •
   <a href="https://github.com/InfiAgent/InfiAgent"><b>[🐱 GitHub]</b></a>
   <!-- <a href="https://9557c5365a6f44dc84.gradio.live"><b>[🐯 Gradio Demo]</b></a> -->
   <br>
@@ -31,32 +31,9 @@ InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks
   <!-- <a href="#%EF%B8%8F-citation">Citation</a> -->
 </p>
 
-
-
-| Rank | Model Name                  | Accuracy by Questions (%) | Proportional Accuracy by Subquestions (%) | Accuracy by Subquestions (%) |
-| ---- | --------------------------- | ------------------------- | ----------------------------------------- | ---------------------------- |
-| 1    | gpt-4-0613                  | 74.60                     | 78.72                                     | 79.01                        |
-| 2    | daagent-34b                 | 60.77                     | 67.50                                     | 62.98                        |
-| 3    | abab5.5-chat                | 60.13                     | 65.94                                     | 64.27                        |
-| 4    | gpt-3.5-turbo-0613          | 58.20                     | 65.70                                     | 61.88                        |
-| 5    | qwen-72b-chat               | 57.56                     | 62.46                                     | 56.17                        |
-| 6    | daagent-13b                 | 54.52                     | 60.51                                     | 55.72                        |
-| 7    | gemini-pro                  | 53.38                     | 58.32                                     | 51.93                        |
-| 8    | mixtral-8x7b-instruct-v0.1  | 49.20                     | 54.02                                     | 51.38                        |
-| 9    | daagent-7b                  | 49.02                     | 57.63                                     | 54.19                        |
-| 10   | deepseek-coder-33b-instruct | 44.84                     | 48.90                                     | 46.31                        |
-| 11   | claude-2.1                  | 43.41                     | 49.65                                     | 46.96                        |
-| 12   | phind-codellama-34b-v2      | 42.02                     | 47.41                                     | 44.40                        |
-| 13   | xwincoder-34b               | 39.87                     | 45.46                                     | 42.73                        |
-| 14   | mistral-7b-instruct-v0.2    | 36.45                     | 41.61                                     | 36.90                        |
-| 15   | qwen-14b-chat               | 36.45                     | 41.36                                     | 34.51                        |
-| 16   | qwen-7b-chat                | 27.27                     | 27.27                                     | 16.00                        |
-| 17   | vicuna-13b-v1.5             | 26.26                     | 30.88                                     | 26.31                        |
-| 18   | internlm-chat-20b           | 23.79                     | 26.82                                     | 25.05                        |
-| 19   | wizardcoder-python-34b-v1.0 | 23.13                     | 26.45                                     | 22.40                        |
-| 20   | agentlm-7b                  | 16.99                     | 20.71                                     | 17.89                        |
-
-Table 1: Comparing the performance of LLMs as data analysis agents.
+<p align="center">
+  <img src="figures/main_results.png" alt="main results"/>
+</p>
 
 ## 🔥 News
 
@@ -89,10 +66,10 @@ The training script can be found at the following script: [https://github.com/lm
 <!-- There are two methods to get the  In closed-form evaluation, the model is required to generate the response in the specific way and we use the exact match to evaluate the performance.  -->
 
 
-We provide an automatic evaluation for closed-form questions. In closed-form evaluation, the model is required to generated the response in the specific way and we use the exact match to evaluate the performance. Considering that most models hardly follow the format requirements, we add a reformat step after the models respond with gpt-3.5-turbo-16k which formats the responses with the format requirements. Here's a figure illustrating this process:
+We provide an automatic evaluation for closed-form questions. In closed-form evaluation, the model is required to generated the response in the specific way and we use the exact match to evaluate the performance. Considering that most models hardly follow the format requirements, we add a reformat step after the models respond with GPT-3.5 which formats the responses with the format requirements. Here's a figure illustrating this process:
 
 
-![](../../images/case-study-eval-data.png)
+![](figures/case-study-eval-data.png)
 ### Dataset
 
 
