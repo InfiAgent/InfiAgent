@@ -122,6 +122,9 @@ python3 reformat.py \
 
 We use an API for reformatting by default, you should put your URL for calling and api key in `url.txt` and `api_key.txt` respectively in the same directory of the script. If you want to use your own model, you need to modify the script.
 
+### DA-Agent
+We release weights of DA-Agent 7b, 13b and 34b at [huggingface](https://huggingface.co/infiagent).
+
 <!-- 
 
 ### Metrics
