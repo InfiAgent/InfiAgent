@@ -107,7 +107,7 @@ pip install vllm fschat
 python3 ./activities/vllm_api_server.py --model "meta-llama/Llama-2-7b-hf"  --served_model_name "meta-llama/Llama-2-7b-hf"
 ```
 At this point, we only support Linux environment.
-   
+
 3. You can try this command if the serving is successfully starting:
 
 ```bash
@@ -141,3 +141,29 @@ We would like to express our sincere gratitude to the following open-source proj
  - [FastChat](https://github.com/lm-sys/FastChat)
  - [Gentopia](https://github.com/Gentopia-AI/Gentopia)
  - [autogen](https://github.com/microsoft/autogen)
+
+
+
+## Contact
+
+If you have any questions, feedback, or would like to collaborate on this project, please feel free to reach out to me through huxueyu@zju.edu.cn. Your inquiries and suggestions are highly appreciated. 
+
+Thank you for your interest in our work!
+
+
+
+## Citation
+
+If you find our repo useful, please kindly consider citing:
+
+```
+@misc{hu2024infiagentdabench,
+      title={InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks}, 
+      author={Xueyu Hu and Ziyu Zhao and Shuang Wei and Ziwei Chai and Qianli Ma and Guoyin Wang and Xuwu Wang and Jing Su and Jingjing Xu and Ming Zhu and Yao Cheng and Jianbo Yuan and Jiwei Li and Kun Kuang and Yang Yang and Hongxia Yang and Fei Wu},
+      year={2024},
+      eprint={2401.05507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+

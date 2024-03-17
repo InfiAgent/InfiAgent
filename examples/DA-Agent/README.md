@@ -125,33 +125,25 @@ We use an API for reformatting by default, you should put your URL for calling a
 ### DA-Agent
 We release weights of DA-Agent 7b, 13b and 34b at [huggingface](https://huggingface.co/infiagent).
 
-<!-- 
 
-### Metrics
+## Contact
 
-For closed-form questions, we have the following metrics:
+If you have any questions, feedback, or would like to collaborate on this project, please feel free to reach out to me through huxueyu@zju.edu.cn. Your inquiries and suggestions are highly appreciated. 
 
-- **Accuracy Proportional by Subquestions (APSQ):**
+Thank you for your interest in our work!
 
-$$
-\text{APSQ} = \frac{1}{N} \sum_{i=1}^{N} \left( \frac{1}{M_i} \sum_{j=1}^{M_i} I_{ij} \right)
-$$
 
-Here, $N$ is the total number of questions, $M_i$ is the number of subquestions for the i-th question, and $I_{ij}$ is the indicator function for the j-th subquestion of the i-th question.
+## Citation
 
-- **Accuracy by Questions (ABQ):**
+If you find our repo useful, please kindly consider citing:
 
-$$
-\text{ABQ} = \frac{1}{N} \sum_{i=1}^{N} \left( \prod_{j=1}^{M_i} I_{ij} \right)
-$$
-
-In this expression, the product 
-\($\prod_{j=1}^{M_i} I_{ij}$\) equals 1 if all subquestions of the \(i\)-th question are answered correctly, and 0 otherwise.
-
-- **Accuracy Uniform by Subquestions (AUSQ):**
-
-$$
-\text{AUSQ} = \frac{1}{\sum_{i=1}^{N} M_i} \sum_{i=1}^{N} \sum_{j=1}^{M_i} I_{ij}
-$$
-
-Here, the total accuracy is the sum of the values of the indicator function across all subquestions, normalized by the total number of subquestions in the dataset. -->
+```
+@misc{hu2024infiagentdabench,
+      title={InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks}, 
+      author={Xueyu Hu and Ziyu Zhao and Shuang Wei and Ziwei Chai and Qianli Ma and Guoyin Wang and Xuwu Wang and Jing Su and Jingjing Xu and Ming Zhu and Yao Cheng and Jianbo Yuan and Jiwei Li and Kun Kuang and Yang Yang and Hongxia Yang and Fei Wu},
+      year={2024},
+      eprint={2401.05507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
