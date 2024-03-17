@@ -128,7 +128,7 @@ We release weights of DA-Agent 7b, 13b and 34b at [huggingface](https://huggingf
 
 ## Contact
 
-If you have any questions, feedback, or would like to collaborate on this project, please feel free to reach out to me through huxueyu@zju.edu.cn. Your inquiries and suggestions are highly appreciated. 
+If you have any questions, feedback, or would like to collaborate on this project, please feel free to reach out to us through huxueyu@zju.edu.cn. Your inquiries and suggestions are highly appreciated. 
 
 Thank you for your interest in our work!
 
