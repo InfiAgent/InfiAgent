@@ -53,9 +53,9 @@ class OpenAIGPTClient(BaseLLM, ABC):
                 # n=self.params['n'],
                 engine=self.model_name,
                 messages=[{"role": "user", "content": prompt}],
-                temperature=self.params['temperature'],
-                max_tokens=self.params['max_tokens'],
-                top_p=self.params['top_p'],
+                temperature=self.params.temperature,
+                max_tokens=self.params.max_tokens,
+                top_p=self.params.top_p,
                 # frequency_penalty=self.params.frequency_penalty,
                 # presence_penalty=self.params.presence_penalty,
                 **kwargs
@@ -84,9 +84,9 @@ class OpenAIGPTClient(BaseLLM, ABC):
             response = await openai.ChatCompletion.acreate(
                 model=self.model_name,
                 messages=[{"role": "user", "content": prompt}],
-                temperature=self.params['temperature'],
-                max_tokens=self.params['max_tokens'],
-                top_p=self.params['top_p'],
+                temperature=self.params.temperature,
+                max_tokens=self.params.max_tokens,
+                top_p=self.params.top_p,
                 # frequency_penalty=self.params.frequency_penalty,
                 # presence_penalty=self.params.presence_penalty,
                 **kwargs
