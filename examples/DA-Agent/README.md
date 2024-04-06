@@ -86,6 +86,7 @@ The validation dataset comprises two .jsonl files, with each line representing a
 - **constraints**: The constraints on the question that narrow down the solution into a closed-form.
 - **format**: The format requirements for the output.
 - **file_name**: The file name of the corresponding csv file.
+- **level**: The difficulty level for each question.
 
 2. **Labels**: `data/da-dev-labels.jsonl`
 
