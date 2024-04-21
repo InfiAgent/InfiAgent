@@ -97,7 +97,7 @@ The validation dataset comprises two .jsonl files, with each line representing a
 
 ### Usage
 
-For closed-form questions, we provide a script for generate responses with InfiAgent framework in `./pipeline/activities/eval.py`.
+For closed-form questions, we provide a script for generating responses with InfiAgent framework in `./pipeline/activities/eval.py`. Please choose corresponding config in `./pipeline/configs/agent_configs` based on your model.
 
 ```bash
 python3 eval.py --llm [YOUR_MODEL] --api_key [YOUR_API_KEY] --config_path [YOUR_CONFIG]
