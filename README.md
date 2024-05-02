@@ -28,6 +28,7 @@ This is the repo for the InfiAgent project. InfiAgent aims to support building a
 
 
 ## 🔥  News
+- [2024/4/2] Our paper on InfiAgent-DABench is accepted by *ICML 2024*.
 - [2024/2/21] InfiAgent-DABench and DA-Agent released at [huggingface](https://huggingface.co/infiagent).
 - [2024/1/27] [DAEval](https://github.com/InfiAgent/InfiAgent/tree/main/examples/DA-Agent) with human filtering updated.
 - [2024/1/10] Our paper on InfiAgent-DABench released on [arxiv](https://arxiv.org/abs/2401.05507).
