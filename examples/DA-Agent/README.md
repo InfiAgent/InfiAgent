@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="../../images/infiagent_logo.png" width="100" alt="InfiAgent" />
 <br>
-InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks (ICML2024)
+InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks (ICML 2024)
 </h1>
 
 
